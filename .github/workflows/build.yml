@@ -24,8 +24,8 @@ jobs:
         with:
           use-public-rspm: true
 
-      - name: Set up R env
-        uses: r-lib/actions/setup-renv@v2
+      - name: Install packages (needed for Rmd)
+        run: Rscript -e 'install.packages(c("rmarkdown", "knitr", "jsonlite"))'
       
       - name: Install Quarto
         uses: quarto-dev/quarto-actions/install-quarto@v2
