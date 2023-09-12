@@ -28,7 +28,7 @@ jobs:
         run: Rscript -e 'install.packages(c("rmarkdown", "knitr", "jsonlite"))'
       
       - name: Install Quarto
-        uses: quarto-dev/quarto-actions/install-quarto@v2
+        uses: quarto-dev/quarto-actions/setup@v2
         with:
           # To install LaTeX to build PDF book 
           tinytex: true 
