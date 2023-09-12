@@ -1,0 +1,113 @@
+---
+page-layout: full
+echo: false
+jupyter: python3
+# section-divs: false
+keep-md: true
+title: Research Dissemination
+# title-block-style: none
+format:
+  html:
+    template-partials:
+      - partials/title_only/title-block.html
+---
+
+## Highlights
+
+::: {layout="[[32,-2,32,-2,32]]"}
+![Illustration of our research displayed on the frontispiece of Advanced Materials, 2021, issue 44. ](../images/frontispiece_advmat.jpg)
+
+![Our research displayed on the journal cover of ACS Energy Letters, 2019, issue 4](../images/cover_ACS_EL.jpg)
+
+![Illustration of passivation-gas-incorporated ALD at the atomic scale. Nature Catalysis, 2018, issue 1](../images/naturecat.png)
+:::
+
+## Publications
+
+```{python}
+from pybtex.database.input import bibtex
+from IPython.display import display, Markdown, HTML
+
+
+def readable_list(author_list):
+    if len(author_list) == 1:
+        return str(author_list[0])
+    elif len(author_list) < 3:
+        return ' and '.join(map(str, author_list))
+    *a, b = author_list
+    return f"{', '.join(map(str, a))}, and {b}"
+
+
+def button(url, label, icon):
+    icon_base = icon[:2]
+    return f"""<a class="btn btn-outline-primary btn-sm", href="{url}" target="_blank" rel="noopener noreferrer">
+    <i class="{icon_base} {icon}" role='img' aria-label='{label}'></i> {label} </a>"""
+
+
+parser = bibtex.Parser()
+bib_data = parser.parse_file('biblio.bib')
+
+html_string = f'<ol class="rbracket" style="counter-reset: num {len(bib_data.entries)+1};list-style-type: none;">\n'
+
+n = len(bib_data.entries)
+
+for ind, e in enumerate(bib_data.entries):
+    # Names
+    names = [' '.join([b[0] + '.' for b in a.first_names]) + ' ' + ' '.join([c[0] + '.' for c in a.middle_names]) +
+             ' ' + ' '.join(a.last_names) for a in bib_data.entries[e].persons['author']]
+    name_string = readable_list([n.replace('  ', ' ').replace('Â', '') for n in names]).replace('P. Schindler', '<em class="text-primary">P. Schindler</em>')
+
+    # Title
+    title = bib_data.entries[e].fields['title'].replace('{', '').replace('}', '')
+
+    # Year
+    year = bib_data.entries[e].fields['year']
+
+    # Volume and Issue
+    vi = ' '
+    if 'volume' in bib_data.entries[e].fields:
+        vi += bib_data.entries[e].fields['volume']
+    if 'number' in bib_data.entries[e].fields:
+        vi += ', ' + bib_data.entries[e].fields['number']
+
+    # Pages
+    page = bib_data.entries[e].fields['pages'].replace('--', '–') if 'pages' in bib_data.entries[e].fields else ''
+
+    # Journal
+    if 'journal' in bib_data.entries[e].fields:
+        journal = bib_data.entries[e].fields['journal'].replace('\\', '')
+    elif 'arXiv' in bib_data.entries[e].fields['publisher']:
+        journal = 'arXiv'
+        vi = ' ' + bib_data.entries[e].fields['note'].split(' ')[0]
+    else:
+        raise ValueError('Error. No journal or publisher specified.')
+
+    # print(bib_data.entries[e].fields.values())
+
+    # DOI
+    doi = bib_data.entries[e].fields['doi']
+
+    # URLs
+    url = bib_data.entries[e].fields['url']
+
+    button_label = 'Published'
+    button_style = 'ai-archive'
+    if journal == 'arXiv':
+        button_label = 'Preprint'
+        button_style = 'bi-file-earmark-pdf'
+
+    html_string += f"<li value='{n-ind}'>\n"
+    html_string += f"<i>{title}</i><br>\n"
+    html_string += f"<b>{journal}{vi} ({year})</b> {page}<br>\n"
+    html_string += f"<small>{name_string}</small><br>\n"
+    html_string += button('https://doi.org/' + doi, button_label, button_style)
+    # Github Button
+    if 'comment' in bib_data.entries[e].fields:
+        if 'github.com' in bib_data.entries[e].fields['comment']:
+            html_string += ' ' + button(bib_data.entries[e].fields['comment'], 'GitHub', 'bi-github')
+    html_string += "</li>"
+
+html_string += "</ol>\n"
+
+display(HTML(html_string))
+```

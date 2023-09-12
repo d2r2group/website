@@ -1,0 +1,297 @@
+---
+title: "D2R2 Group Members"
+format:
+  html:
+    template-partials:
+      - partials/title_only/title-block.html
+---
+
+**@NEU** = @northeastern.edu
+
+## Principal Investigator
+
+:::: {.columns}
+
+::: {.column width="25%"}
+![](../images/group/ps.jpg)
+```{=html}
+<center>
+<a class="btn btn-outline-primary btn-sm", href="https://scholar.google.ca/citations?user=Todlj58AAAAJ" target="_blank" rel="noopener noreferrer">
+    <i class="ai ai-google-scholar" role="img" aria-label="Google Scholar"></i>
+</a>
+<a class="btn btn-outline-primary btn-sm", href="https://orcid.org/0000-0002-1319-6570" target="_blank" rel="noopener noreferrer">
+    <i class="ai ai-orcid" role="img" aria-label="ORCId"></i>
+</a>
+<a class="btn btn-outline-primary btn-sm", href="https://www.researchgate.net/profile/Peter_Schindler3" target="_blank" rel="noopener noreferrer">
+    <i class="ai ai-researchgate" role="img" aria-label="ResearchGate"></i>
+</a>
+<a class="btn btn-outline-primary btn-sm", href="https://github.com/d2r2group/" target="_blank" rel="noopener noreferrer">
+    <i class="bi bi-github" role="img" aria-label="GitHub"></i>
+</a>
+<a class="btn btn-outline-primary btn-sm", href="https://www.linkedin.com/in/schindlerp/" target="_blank" rel="noopener noreferrer">
+    <i class="bi bi-linkedin" role="img" aria-label="LinkedIn"></i>
+</a>
+<br>
+<b>p.schindler@NEU</b>
+</center>
+```
+:::
+
+::: {.column width="5%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="70%"}
+### Dr. Peter Schindler {.unnumbered .unlisted}
+<p class="text-primary">Assistant Professor at Northeastern University, MIE</p>
+{{< fa graduation-cap >}}  Ph.D. in Physics, 2015 (University of Vienna)<br>
+{{< fa graduation-cap >}}  M.Sc. in Physics, 2011 (University of Vienna)
+
+::: {.callout-note title="Bio" appearance="minimal" collapse=true}
+Dr. Peter Schindler is leading the Data-Driven Renewables Research (D2R2) group that seeks to discover novel materials
+for renewable energy applications using high-throughput, quantum chemistry calculations, and data-driven materials
+property predictions. Prior to joining Northeastern he was a senior scientist at Aionics, a startup that has become a
+recognized leader in the field of battery informatics, by co-innovating with battery manufacturers through AI and
+high-performance computing. During his postdoctoral research at the University of Vienna and Stanford University,
+his research established renewable energy materials both computationally and experimentally, for which he was awarded
+the Erwin-Schrödinger fellowship by the Austrian Science Fund (FWF). He received his Ph.D. in physics from the University
+of Vienna working on semiconductor synthesis and characterization. His expertise in both experimental synthesis and
+computational materials simulations enables him to carry out cutting-edge research at the intersection of the two fields.
+:::
+
+::: {.callout-note title="Research Interests" appearance="minimal" collapse=true}
+Materials Informatics, AI, Ab-initio Modeling, Materials Discovery, Renewable Energy Materials,
+Surfaces, Heterogeneous Catalysis
+:::
+
+::: {.callout-note title="Fun Facts" appearance="minimal" collapse=true}
+Despite being originally from Austria, he neither is a good skier nor plays a classical instrument.
+He does however dance Bachata and Kizomba and knows how to play the drums.
+:::
+
+:::
+
+::::
+
+## Postdoctoral Researchers
+
+:::: {.columns}
+
+::: {.column width="25%"}
+![](../images/group/ser.jpg)
+```{=html}
+<center>
+<a class="btn btn-outline-primary btn-sm", href="https://scholar.google.com/citations?user=oTOap-kAAAAJ" target="_blank" rel="noopener noreferrer">
+    <i class="ai ai-google-scholar" role="img" aria-label="Google Scholar"></i>
+</a>
+<a class="btn btn-outline-primary btn-sm", href="https://www.researchgate.net/profile/Emad-Rezaei" target="_blank" rel="noopener noreferrer">
+    <i class="ai ai-researchgate" role="img" aria-label="ResearchGate"></i>
+</a>
+<a class="btn btn-outline-primary btn-sm", href="https://github.com/Emad-Rezaei" target="_blank" rel="noopener noreferrer">
+    <i class="bi bi-github" role="img" aria-label="GitHub"></i>
+</a>
+<a class="btn btn-outline-primary btn-sm", href="https://www.linkedin.com/in/emad-rezaei-4a9882273/" target="_blank" rel="noopener noreferrer">
+    <i class="bi bi-linkedin" role="img" aria-label="LinkedIn"></i>
+</a>
+<br>
+<b>s.rezaei@NEU</b>
+</center>
+```
+:::
+
+::: {.column width="5%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="70%"}
+### Dr. S. Emad Rezaei {.unnumbered .unlisted}
+<p class="text-primary">Postdoctoral Research Associate at Northeastern University, MIE</p>
+{{< fa graduation-cap >}} Ph.D. in Electrical Engineering, 2022 (University of Virginia)<br>
+{{< fa graduation-cap >}} M.Sc. in Mechanical and Materials Engineering, 2018 (Wright State University)<br>
+{{< fa graduation-cap >}} B.Sc. in Materials Science and Engineering, 2015 (Sharif University of Technology)
+
+::: {.callout-note title="Bio" appearance="minimal" collapse=true}
+Coming soon.
+:::
+
+::: {.callout-note title="Research Interests" appearance="minimal" collapse=true}
+Computational materials science, Materials Informatics, Data-Driven methods
+:::
+
+::: {.callout-note title="Fun Facts" appearance="minimal" collapse=true}
+Coming soon.
+:::
+
+:::
+
+::::
+
+## Graduate Students
+
+:::: {.columns}
+
+::: {.column width="25%"}
+![](../images/group/am.jpg)
+```{=html}
+<center>
+<a class="btn btn-outline-primary btn-sm", href="https://scholar.google.com/citations?user=o1SNVmgAAAAJ" target="_blank" rel="noopener noreferrer">
+    <i class="ai ai-google-scholar" role="img" aria-label="LinkedIn"></i>
+</a>
+<a class="btn btn-outline-primary btn-sm", href="https://github.com/ardavano" target="_blank" rel="noopener noreferrer">
+    <i class="bi bi-github" role="img" aria-label="GitHub"></i>
+</a>
+<a class="btn btn-outline-primary btn-sm", href="https://www.linkedin.com/in/ardavanmehdizadeh/" target="_blank" rel="noopener noreferrer">
+    <i class="bi bi-linkedin" role="img" aria-label="LinkedIn"></i>
+</a>
+<br>
+<b>mehdizadeh.a@NEU</b>
+</center>
+```
+:::
+
+::: {.column width="5%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="70%"}
+### Ardavan Mehdizadeh {.unnumbered .unlisted}
+<p class="text-primary">Ph.D. Student in Mechanical Engineering</p>
+{{< fa graduation-cap >}} B.Sc. in Civil Engineering, 2015 (Sharif University of Technology)
+
+::: {.callout-note title="Bio" appearance="minimal" collapse=true}
+Born and raised in Tehran, Iran, I began a journey of scientific exploration; with a B.Sc. in Civil Engineering from
+Sharif University of Technology as part of my qualifications, I entered the world of molecular dynamics and the
+intricacies of protein interactions.<br>
+My research journey took me to various research institutes within and beyond Sharif University. I deeply engaged in
+Molecular Dynamics simulations, uncovering the complications of protein-protein and protein-nanoparticle interactions.
+I also had the interest to investigate the complexities of protein folding and the prediction of protein
+structure and function.<br>
+Now, I'm eagerly diving into the exciting world of computational material science, focusing primarily on quantum
+chemistry calculations and data-driven approaches, including machine learning methods, for my PhD. This integration of
+sciences promises groundbreaking discoveries in machine learning models driven by statistical insights, and I can't
+wait to explore it further.
+:::
+
+::: {.callout-note title="Research Interests" appearance="minimal" collapse=true}
+Computational Materials Science, Computational Quantum Chemistry, Multiscale Modeling, Molecular Dynamics,
+Density Functional Theory (DFT), Data-Driven Methods, Machine Learning
+:::
+
+::: {.callout-note title="Fun Facts" appearance="minimal" collapse=true}
+1. *Musical Marathoner*: I can listen to a single song on repeat for an entire day while working. It's my secret productivity hack!
+2. *Potato Prodigy*: My friends can't get enough of my baked potatoes. They say they're the best!
+3. *Football Frenzy*: I'm a football (soccer) fan.
+4. *Italian Sojourn*: I had the incredible opportunity to live in Italy for a year. It was an unforgettable experience filled with culture, delicious food, and beautiful sights.
+:::
+
+:::
+
+::::
+
+
+## Masters Students
+
+:::: {.columns}
+
+::: {.column width="25%"}
+![](../images/group/nc.jpg)
+```{=html}
+<center>
+<a class="btn btn-outline-primary btn-sm", href="https://github.com/nitaschaudhari" target="_blank" rel="noopener noreferrer">
+    <i class="bi bi-github" role="img" aria-label="GitHub"></i>
+</a>
+<a class="btn btn-outline-primary btn-sm", href="https://www.linkedin.com/in/nita-chaudhari/" target="_blank" rel="noopener noreferrer">
+    <i class="bi bi-linkedin" role="img" aria-label="LinkedIn"></i>
+</a>
+<br>
+<b>chaudhari.nit@NEU</b>
+</center>
+```
+:::
+
+::: {.column width="5%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="70%"}
+### Nita Chaudhari {.unnumbered .unlisted}
+<p class="text-primary">M.Sc. Student in Data Analytics Engineering</p>
+{{< fa graduation-cap >}}  B.Eng. in Electronics and Telecommunication Engineering, 2018 (Mumbai University)
+
+::: {.callout-note title="Bio" appearance="minimal" collapse=true}
+She is holding a Master of Science in Data Analytics Engineering from Northeastern University and a Bachelor of
+Engineering in Electronics and Telecommunication Engineering from Mumbai University and is a proficient data specialist.
+During her tenure as a Data Science Intern at *Tesla*, she excelled in creating and deploying impactful data science
+solutions for service applications. Additionally, she demonstrated her expertise as a software developer at *Accenture*,
+where she made significant contributions to client Insurance applications.
+:::
+
+::: {.callout-note title="Research Interests" appearance="minimal" collapse=true}
+Data-driven approaches, renewable energy applications, demand forecasting
+:::
+
+::: {.callout-note title="Fun Facts" appearance="minimal" collapse=true}
+She once saw a shooting star and made a wish, and it actually came true!
+:::
+
+:::
+
+::::
+
+
+
+:::: {.columns}
+
+::: {.column width="25%"}
+![](../images/group/brp.jpg)
+```{=html}
+<center>
+<a class="btn btn-outline-primary btn-sm", href="https://github.com/PragadaBharathRaj" target="_blank" rel="noopener noreferrer">
+    <i class="bi bi-github" role="img" aria-label="GitHub"></i>
+</a>
+<a class="btn btn-outline-primary btn-sm", href="https://www.linkedin.com/in/bharath-raj-pragada-0570401b6/" target="_blank" rel="noopener noreferrer">
+    <i class="bi bi-linkedin" role="img" aria-label="LinkedIn"></i>
+</a>
+<br>
+<b>pragada.b@NEU</b>
+</center>
+```
+:::
+
+::: {.column width="5%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="70%"}
+### Bharath Raj Pragada {.unnumbered .unlisted}
+<p class="text-primary">M.Sc. Student in Data Analytics Engineering</p>
+{{< fa graduation-cap >}}  B.Tech. in Information Technology, 2022 (SASTRA)
+
+::: {.callout-note title="Bio" appearance="minimal" collapse=true}
+I am Bharath from Bhimavaram traveled all the way to Boston to pursue my Master's in Data Analytics Engineering.
+I have completed my Bachelor's in Information technology from SASTRA, Thanjavur. I have one year of work experience as
+a Product Engineer at *Alfahive Pvt Ltd* - a cybersecurity company based in Bangalore - where I have contributed in several ways
+such as managing data, developing core risk quantification APIs, and UI automation using the AI tool *Testsigma*.
+:::
+
+::: {.callout-note title="Research Interests" appearance="minimal" collapse=true}
+Data Engineering, Data Analytics, Data Science, Deep Learning, Machine Learning, Artificial Intelligence
+:::
+
+::: {.callout-note title="Fun Facts" appearance="minimal" collapse=true}
+During my time as a software developer I sometimes laughed so loud in my workplace that people where wondering whether I am "Bharath" or "Bafoon"...
+:::
+
+:::
+
+::::
+
+## Undergraduate Students
+
+Please, reach out to me to discuss opportunities to work together. Open positions are listed [here](/content/join.html)
+and what to expect when joining the group is discussed [here](/content/expectations.html).
+
+## Visiting Scholars
+
+Please, reach out to me to discuss opportunities to work together. Open positions are listed [here](/content/join.html)
+and what to expect when joining the group is discussed [here](/content/expectations.html).

@@ -1,0 +1,58 @@
+/*-- scss:defaults --*/
+
+@import 'https://fonts.googleapis.com/css2?family=Lato&display=swap';
+
+$font-family: "Lato", sans-serif;
+
+$primary: #751ED7;
+$link-color: #751ED7;
+$navbar-bg: #181818;
+
+.img-toggle {
+    width: min(80vw, 800px);
+    height: min(21.5vw, 215px);
+    display: block;
+    margin: 0 auto;
+    position: relative;
+    top: 0px;
+    background: url(images/banner.png) center;
+    background-repeat: no-repeat;
+    background-size: min(80vw, 800px), min(21.5vw, 215px);
+}
+
+ol.rbracket {
+  text-align: justify !important;
+}
+
+ol.rbracket>li {
+  margin-top: 0;
+  margin-bottom: 1.5rem;
+  list-style: none;
+  position: relative;
+}
+
+ol.rbracket>li:before {
+  counter-increment: num -1;
+  content: "[" counter(num) "]  ";
+  position: absolute;
+  left: -2.5em;
+  font-weight: 700;
+  color: #751ED7;
+  font-size: 12px;
+}
+
+h1 {
+  text-align:center;
+}
+
+p {
+  text-align:justify ;
+}
+
+li {
+  text-align:justify ;
+}
+
+div.callout-note.callout {
+  border-left-color: #751ED7 !important;
+}

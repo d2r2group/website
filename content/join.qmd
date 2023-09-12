@@ -1,0 +1,43 @@
+---
+title: "Open Positions"
+format:
+  html:
+    template-partials:
+      - partials/title_only/title-block.html
+---
+## Doctoral and Postdoctoral Positions
+
+These are the current (fully funded) positions at the D2R2 group at Northeastern University:
+
+- ~~1 Graduate Research Assistant (Fall 2023)~~ [filled]
+- ~~1 Graduate Research Assistant (Fall 2023)~~ [filled]
+- ~~1 Postdoctoral Researcher (Spring 2023)~~ [filled]
+
+Regardless of open positions, feel free to reach out to me to discuss potential future opportunities.<br>
+
+Our research is focused on the discovery of novel materials for renewable energy applications using high-throughput,
+*ab-initio* calculations, and data-driven materials property predictions.
+Further information on our research can be found [here](/content/research.html).<br>
+
+> If your background is in computational materials science (or computational chemistry, solid state physics,
+> or similar field) and you are interested in the research described above, please send me an email with your CV and
+> brief description of your background and research interests.
+
+## Undergraduate Projects and Master's Thesis
+
+Undergraduate students from Northeastern University interested in computational chemistry or materials
+informatics/machine learning are always welcome to contact me and we can establish undergraduate research projects
+or Master's thesis under my supervision.<br>
+**Funding opportunities available.** Minimum time commitment: 10 hours/week for ~6 months.
+
+## Co-Ops and Internships
+
+I have strong connections to start-ups in the renewable energy sector and materials informatics and I can help to
+connect (under)graduates to Co-Op or internship opportunities. Reach out if that sounds interesting to you.
+
+## Visiting Researchers and Fellows
+
+Visiting researchers and researchers with a fellowship are always welcome to reach out to me to discuss the
+opportunity to work on a project together.<br>
+*International applicants*: J1 visa processing typically takes 3-6 months.
+Further information can be found [here](https://international.northeastern.edu/ogs/).

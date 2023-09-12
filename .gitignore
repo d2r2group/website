@@ -1,0 +1,7 @@
+.idea
+/.quarto/
+*.RData
+*.rdb
+*.rdx
+/_site/
+/site_libs/

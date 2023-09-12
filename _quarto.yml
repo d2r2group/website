@@ -1,0 +1,69 @@
+project:
+  type: website
+  output-dir: _site
+
+date: last-modified
+
+website:
+  title: "D2R2 Group"
+  description: "Website of D2R2 Group at Northeastern University"
+  site-url: https://d2r2group.com
+  repo-url: https://github.com/d2r2group/website
+  # google-analytics: ""
+  open-graph: true
+  favicon: favicon.ico
+  page-footer:
+    # right: "This page is built with [Quarto](https://quarto.org/)."
+    left: 2023 &copy; Peter Schindler
+    #center:
+      #- icon: linkedin
+      #  href: https://www.linkedin.com/in/schindlerp/
+      #- icon: twitter
+      #  href: https://twitter.com/
+      #- icon: github
+      #  href: https://github.com/d2r2group/
+    right: "*Last Update:* {{< meta date >}}"
+  navbar:
+    logo: images/logo.png
+    background: dark
+    foreground: light
+    tools:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/schindlerp/
+      - icon: github
+        href: https://github.com/d2r2group/
+        text: "GitHub"
+    left:
+      - text: About Us
+        menu:
+          - text: Members
+            href: content/members.qmd
+          - text: Join Us
+            href: content/join.qmd
+          - text: What to Expect
+            href: content/expectations.qmd
+          - text: News
+            href: index.qmd#news
+      - text: Research
+        href: content/research.qmd
+      - text: Publications
+        href: content/papers.qmd
+      - text: Teaching
+        href: content/teaching.qmd
+
+format:
+  html:
+    theme:
+      dark: [cosmo, theme-dark.scss]
+      light: [cosmo, theme.scss] 
+    linkcolor: "#B6B8F0"
+    # theme: journal
+    # css: styles.css
+    toc: true
+    toc-depth: 4
+    toc-title: "Contents"
+    html-math-method: katex
+    link-external-newwindow: true
+    include-in-header:
+      - includes.html
+    highlight-style: tango

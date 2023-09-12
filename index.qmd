@@ -1,0 +1,33 @@
+---
+page-layout: full
+resources:
+    - "images/banner.png"
+    - "images/banner_dark.png"
+toc: false
+listing:
+  date-format: short
+  # feed: true
+  filter-ui: false
+  type: table
+  sort-ui: false
+  sort: "date desc"
+  categories: false
+  fields: [Date, News]
+  id: news-list
+  contents: content/news.yaml
+---
+
+::: {.img-toggle}
+
+:::
+
+## The Data-Driven Renewables Research Group
+
+The Data-Driven Renewables Research (D2R2 - Disney, please don't sue) Group led by Dr. Peter Schindler is seeking to
+discover novel materials for renewable energy applications using high-throughput quantum chemistry calculations
+and data-driven materials property predictions.
+
+## Recent News and Events
+
+::: {#news-list}
+:::
