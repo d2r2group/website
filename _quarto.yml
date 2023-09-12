@@ -30,9 +30,11 @@ website:
     tools:
       - icon: linkedin
         href: https://www.linkedin.com/in/schindlerp/
+        target: _blank
       - icon: github
         href: https://github.com/d2r2group/
         text: "GitHub"
+        target: _blank
     left:
       - text: About Us
         menu:
