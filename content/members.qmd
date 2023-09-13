@@ -111,7 +111,13 @@ He does however dance Bachata and Kizomba and knows how to play the drums.
 {{< fa graduation-cap >}} B.Sc. in Materials Science and Engineering, 2015 (Sharif University of Technology)
 
 ::: {.callout-note title="Bio" appearance="minimal" collapse=true}
-Coming soon.
+Currently, he holds the role of a postdoctoral research associate at Northeastern University, specializing in the
+Data-Driven Renewable Research group. His core research revolves around conducting high-throughput
+Density Functional Theory (DFT) calculations and the application of machine learning models to tackle quantum mechanics
+and materials science challenges. Prior to undertaking this postdoctoral position, he accomplished his PhD at the
+University of Virginia, where he specialized in Electrical Engineering and studied charge transport
+in materials using quantum mechanics methods. In the earlier stages of his academic journey, during his MSc, he delved
+into the enhancement of low-dimensional materials through molecular dynamics investigations.
 :::
 
 ::: {.callout-note title="Research Interests" appearance="minimal" collapse=true}
@@ -119,7 +125,7 @@ Computational materials science, Materials Informatics, Data-Driven methods
 :::
 
 ::: {.callout-note title="Fun Facts" appearance="minimal" collapse=true}
-Coming soon.
+He ran a marathon without training!
 :::
 
 :::
