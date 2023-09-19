@@ -50,13 +50,14 @@ format:
 ::: {.callout-note title="Bio" appearance="minimal" collapse=true}
 Dr. Peter Schindler is leading the Data-Driven Renewables Research (D2R2) group that seeks to discover novel materials
 for renewable energy applications using high-throughput, quantum chemistry calculations, and data-driven materials
-property predictions. Prior to joining Northeastern he was a senior scientist at Aionics, a startup that has become a
-recognized leader in the field of battery informatics, by co-innovating with battery manufacturers through AI and
-high-performance computing. During his postdoctoral research at the University of Vienna and Stanford University,
-his research established renewable energy materials both computationally and experimentally, for which he was awarded
-the Erwin-Schrödinger fellowship by the Austrian Science Fund (FWF). He received his Ph.D. in physics from the University
-of Vienna working on semiconductor synthesis and characterization. His expertise in both experimental synthesis and
-computational materials simulations enables him to carry out cutting-edge research at the intersection of the two fields.
+property predictions. He is a scientific advisory board member (and former senior scientist)
+at [Aionics Inc.](https://aionics.io/), a startup that has become a recognized leader in the field of battery informatics,
+by co-innovating with battery manufacturers through AI and high-performance computing. During his postdoctoral research
+at the University of Vienna and Stanford University, his research established renewable energy materials both
+computationally and experimentally, for which he was awarded the Erwin-Schrödinger fellowship by the
+Austrian Science Fund (FWF). He received his Ph.D. in physics from the University of Vienna working on thin-film
+semiconductor synthesis and characterization. His expertise in both experimental synthesis and computational materials
+simulations enables him to carry out cutting-edge research at the intersection of the two fields.
 :::
 
 ::: {.callout-note title="Research Interests" appearance="minimal" collapse=true}
@@ -66,7 +67,7 @@ Surfaces, Heterogeneous Catalysis
 
 ::: {.callout-note title="Fun Facts" appearance="minimal" collapse=true}
 Despite being originally from Austria, he neither is a good skier nor plays a classical instrument.
-He does however dance Bachata and Kizomba and knows how to play the drums.
+He does however dance Bachata and Kizomba and knows how to play the drums. He is also into street photography.
 :::
 
 :::
