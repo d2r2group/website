@@ -32,7 +32,7 @@ For the former approach, potential material candidates are tested one-by-one, ba
 to previously successful material candidates. As experimental confirmation and/or high-fidelity, *ab-inito* simulations
 of individual candidates is time- and cost-intensive, this approach restricts progress to longer time scales.
 For the later approach, however, previous knowledge is systematically used to generate a statistically driven model to
-predict properties of new material candidates through a structure-property-relationship (see illutration on the left).
+predict properties of new material candidates through a structure-property-relationship (see illustration on the left).
 The machine learning model facilitates the down-selection of promising material candidates at a fraction of the time
 and cost of conventional experimental or computational techniques.<br>
 In our group we use materials informatics tools and data-driven approaches to discover new materials for renewable energy

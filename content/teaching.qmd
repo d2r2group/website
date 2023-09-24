@@ -2,6 +2,7 @@
 title: "Teaching"
 format:
   html:
+    page-layout: full
     template-partials:
       - partials/title_only/title-block.html
 ---

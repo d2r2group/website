@@ -27,6 +27,10 @@ The Data-Driven Renewables Research (D2R2 - Disney, please don't sue) Group led 
 discover novel materials for renewable energy applications using high-throughput quantum chemistry calculations
 and data-driven materials property predictions.
 
+![](../images/group/group_photo.jpg){width=80% fig-align="center"}
+
+[Here](/content/fun.html) you can find photos from our social gatherings.
+
 ## Recent News and Events
 
 ::: {#news-list}

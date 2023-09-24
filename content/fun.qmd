@@ -1,0 +1,14 @@
+---
+title: "Social Gatherings"
+format:
+  html:
+    template-partials:
+      - partials/title_only/title-block.html
+---
+
+It's not all about research and science - we also like to have other types of fun and will keep a record here of the
+social events we did together:
+
+![First group lunch on September 20th, 2023](../images/group/social/20230920_Group_Lunch.jpg){width=80% fig-align="center"}
+
+

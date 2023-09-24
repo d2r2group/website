@@ -43,13 +43,15 @@ website:
           - text: What to Expect
             href: content/expectations.qmd
           - text: News
-            href: index.qmd#news
+            href: index.qmd#recent-news-and-events
       - text: Research
         href: content/research.qmd
       - text: Publications
         href: content/papers.qmd
       - text: Teaching
         href: content/teaching.qmd
+      - text: Resources
+        href: content/resources.qmd
 
 format:
   html:

@@ -1,10 +1,11 @@
 ---
-page-layout: full
 echo: false
 keep-md: true
 title: Research Dissemination
 format:
   html:
+    toc: false
+    page-layout: full
     template-partials:
       - partials/title_only/title-block.html
 ---
@@ -12,8 +13,10 @@ format:
 
 ## Highlights
 
-::: {layout="[[32,-2,32,-2,32]]"}
-![Illustration of our research displayed on the frontispiece of Advanced Materials, 2021, issue 44. ](../images/frontispiece_advmat.jpg)
+::: {layout="[[24.25,-0.5,24.25,-0.5,24.25,-0.5,24.25]]"}
+![Our research displayed on the supplementary cover of ACS Applied Materials and Interfaces, 2023, issue 15](../images/aami_suppl_cover.jpg)
+
+![Illustration of our research displayed on the frontispiece of Advanced Materials, 2021, issue 44](../images/frontispiece_advmat.jpg)
 
 ![Our research displayed on the journal cover of ACS Energy Letters, 2019, issue 4](../images/cover_ACS_EL.jpg)
 
@@ -27,8 +30,13 @@ format:
 ::: {.cell-output .cell-output-display}
 
 ```{=html}
-<ol class="rbracket" style="counter-reset: num 21;list-style-type: none;">
-<li value='20'>
+<ol class="rbracket" style="counter-reset: num 22;list-style-type: none;">
+<li value='21'>
+<i>Electrolyte Coatings for High Adhesion Interfaces in Solid-State Batteries from First Principles</i><br>
+<b>ACS Applied Materials & Interfaces 15, 37 (2023)</b> 44394-44403<br>
+<small>B. Ransom, A. Ramdas, E. Lomeli, J. Fidawi, A. Sendek, T. Devereaux, E. J. Reed, and <em class="text-primary">P. Schindler</em></small><br>
+<a class="btn btn-outline-primary btn-sm", href="https://doi.org/10.1021/acsami.3c04452" target="_blank" rel="noopener noreferrer">
+    <i class="ai ai-archive" role='img' aria-label='Published'></i> Published </a></li><li value='20'>
 <i>Electrolyte Coatings for High Adhesion Interfaces in Solid-state Batteries from First Principles</i><br>
 <b>arXiv arXiv:2303.16350 (2023)</b> <br>
 <small>B. Ransom, A. Ramdas, E. Lomeli, J. Fidawi, A. Sendek, T. Devereaux, E. Reed, and <em class="text-primary">P. Schindler</em></small><br>

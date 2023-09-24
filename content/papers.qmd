@@ -1,5 +1,4 @@
 ---
-page-layout: full
 echo: false
 jupyter: python3
 # section-divs: false
@@ -8,14 +7,18 @@ title: Research Dissemination
 # title-block-style: none
 format:
   html:
+    toc: false
+    page-layout: full
     template-partials:
       - partials/title_only/title-block.html
 ---
 
 ## Highlights
 
-::: {layout="[[32,-2,32,-2,32]]"}
-![Illustration of our research displayed on the frontispiece of Advanced Materials, 2021, issue 44. ](../images/frontispiece_advmat.jpg)
+::: {layout="[[24.25,-0.5,24.25,-0.5,24.25,-0.5,24.25]]"}
+![Our research displayed on the supplementary cover of ACS Applied Materials and Interfaces, 2023, issue 15](../images/aami_suppl_cover.jpg)
+
+![Illustration of our research displayed on the frontispiece of Advanced Materials, 2021, issue 44](../images/frontispiece_advmat.jpg)
 
 ![Our research displayed on the journal cover of ACS Energy Letters, 2019, issue 4](../images/cover_ACS_EL.jpg)
 
