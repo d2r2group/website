@@ -3,6 +3,7 @@ page-layout: full
 resources:
     - "images/banner.png"
     - "images/banner_dark.png"
+    - "images/group/group_photo.jpg"
 toc: false
 listing:
   date-format: short
