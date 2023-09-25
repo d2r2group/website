@@ -9,7 +9,7 @@ website:
   description: "Website of D2R2 Group at Northeastern University"
   site-url: https://d2r2group.com
   repo-url: https://github.com/d2r2group/website
-  # google-analytics: ""
+  google-analytics: "G-L63SQSHBLY"
   open-graph: true
   favicon: favicon.ico
   page-footer:
