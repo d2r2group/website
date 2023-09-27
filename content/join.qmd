@@ -23,6 +23,12 @@ Further information on our research can be found [here](/content/research.html).
 > or similar field) and you are interested in the research described above, please send me an email with your CV and
 > brief description of your background and research interests.
 
+::: {.callout-note title="Graduate Admissions" appearance="simple"}
+Information regarding graduate admissions can be found [here](https://coe.northeastern.edu/academics-experiential-learning/graduate-school-of-engineering/graduate-admissions/)
+and some facts about graduate research at *College of Engineering* can be read [here](https://coe.northeastern.edu/academics-experiential-learning/graduate-school-of-engineering/) and
+[here](https://coe.northeastern.edu/wp-content/uploads/pdfs/coe/gse/graduate_brochure.pdf).
+:::
+
 ## Undergraduate Projects and Master's Thesis
 
 Undergraduate students from Northeastern University interested in computational chemistry or materials

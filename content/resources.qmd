@@ -20,6 +20,8 @@ Also, the recording is embedded below:
 
 - Our group's [GitHub page](https://github.com/d2r2group/)
 - Our group's knowledge base is maintained on [Slite](https://northeastern.slite.com/app/docs/QGnVaGwujXCAwo/Group-Resources) [only accessible to invited group members]
+- Northeastern's High-Performance Computing Cluster *Discovery* is hosted at the MGHPCC: [website](https://rc.northeastern.edu/) and [wiki](https://rc-docs.northeastern.edu)
+- Department of Mechanical and Industrial Engineering: [website](https://mie.northeastern.edu/) and [search for courses](https://searchneu.com/NEU)
 - Package to run Quantum Espresso (QE) with ASE (works with QE v7): [ase-espresso](https://github.com/peterschindler/ase-espresso)
 - Commonly used QE pseudo-potentials (PBE): [link](https://github.com/peterschindler/PSPs)
 - Database and ML model for work function of materials: [link](https://github.com/peterschindler/WorkFunctionDatabase) [updated version coming soon]
