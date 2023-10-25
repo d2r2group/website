@@ -1,0 +1,24 @@
+---
+title: "Guest Lecture - MATL 6290"
+format:
+  html:
+    page-layout: full
+    template-partials:
+      - partials/title_only/title-block.html
+resources:
+    - "../images/colab.jpeg"
+---
+
+## Interactive DFT Tutorial
+
+Both ASE and GPAW operate through Python. We will be using Google’s Colab service to make it easy to follow along.
+No need to install Python locally - you only need a browser. Our code will be running in a Jupyter notebook
+using Google’s resources.<br>
+
+To access a Python notebook just follow
+[this link](https://colab.research.google.com/drive/1uaHuh2K8wn6XjVm-aAYB30-G98NpNcH5?usp=sharing) and then
+click on ‘File’ > ‘Save a copy in Drive…’.<br>
+
+![](../images/colab.jpeg){fig-align="center" width=300px}
+
+Once you have copied the notebook to your Google Drive you can edit, execute and work on it.
