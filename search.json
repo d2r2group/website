@@ -70,83 +70,6 @@
     "text": "Visiting Scholars\nPlease, reach out to me to discuss opportunities to work together. Open positions are listed here and what to expect when joining the group is discussed here."
   },
   {
-    "objectID": "content/join.html",
-    "href": "content/join.html",
-    "title": "Open Positions",
-    "section": "",
-    "text": "These are the current (fully funded) positions at the D2R2 group at Northeastern University:\n\n1 Graduate Research Assistant (Fall 2023) [filled]\n1 Graduate Research Assistant (Fall 2023) [filled]\n1 Postdoctoral Researcher (Spring 2023) [filled]\n\nRegardless of open positions, feel free to reach out to me to discuss potential future opportunities.\nOur research is focused on the discovery of novel materials for renewable energy applications using high-throughput, ab-initio calculations, and data-driven materials property predictions. Further information on our research can be found here.\n\nIf your background is in computational materials science (or computational chemistry, solid state physics, or similar field) and you are interested in the research described above, please send me an email with your CV and brief description of your background and research interests.\n\n\n\n\n\n\n\nGraduate Admissions\n\n\n\nInformation regarding graduate admissions can be found here and some facts about graduate research at College of Engineering can be read here and here."
-  },
-  {
-    "objectID": "content/join.html#doctoral-and-postdoctoral-positions",
-    "href": "content/join.html#doctoral-and-postdoctoral-positions",
-    "title": "Open Positions",
-    "section": "",
-    "text": "These are the current (fully funded) positions at the D2R2 group at Northeastern University:\n\n1 Graduate Research Assistant (Fall 2023) [filled]\n1 Graduate Research Assistant (Fall 2023) [filled]\n1 Postdoctoral Researcher (Spring 2023) [filled]\n\nRegardless of open positions, feel free to reach out to me to discuss potential future opportunities.\nOur research is focused on the discovery of novel materials for renewable energy applications using high-throughput, ab-initio calculations, and data-driven materials property predictions. Further information on our research can be found here.\n\nIf your background is in computational materials science (or computational chemistry, solid state physics, or similar field) and you are interested in the research described above, please send me an email with your CV and brief description of your background and research interests.\n\n\n\n\n\n\n\nGraduate Admissions\n\n\n\nInformation regarding graduate admissions can be found here and some facts about graduate research at College of Engineering can be read here and here."
-  },
-  {
-    "objectID": "content/join.html#undergraduate-projects-and-masters-thesis",
-    "href": "content/join.html#undergraduate-projects-and-masters-thesis",
-    "title": "Open Positions",
-    "section": "Undergraduate Projects and Master’s Thesis",
-    "text": "Undergraduate Projects and Master’s Thesis\nUndergraduate students from Northeastern University interested in computational chemistry or materials informatics/machine learning are always welcome to contact me and we can establish undergraduate research projects or Master’s thesis under my supervision. Funding opportunities available. Minimum time commitment: 10 hours/week for ~6 months."
-  },
-  {
-    "objectID": "content/join.html#co-ops-and-internships",
-    "href": "content/join.html#co-ops-and-internships",
-    "title": "Open Positions",
-    "section": "Co-Ops and Internships",
-    "text": "Co-Ops and Internships\nI have strong connections to start-ups in the renewable energy sector and materials informatics and I can help to connect (under)graduates to Co-Op or internship opportunities. Reach out if that sounds interesting to you."
-  },
-  {
-    "objectID": "content/join.html#visiting-researchers-and-fellows",
-    "href": "content/join.html#visiting-researchers-and-fellows",
-    "title": "Open Positions",
-    "section": "Visiting Researchers and Fellows",
-    "text": "Visiting Researchers and Fellows\nVisiting researchers and researchers with a fellowship are always welcome to reach out to me to discuss the opportunity to work on a project together. International applicants: J1 visa processing typically takes 3-6 months. Further information can be found here."
-  },
-  {
-    "objectID": "content/teaching.html",
-    "href": "content/teaching.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "Those who know, do. Those that understand, teach.  — Aristotle\n\nTeaching is a key mission of every academic institution and I feel very passionately about sharing my expertise with the next generation of students and researchers. Sharing the diverse topics I learned as a researcher is a very fulfilling opportunity that enables me to give back to the academic community. My teaching style was inspired by the very passionate teachers I was fortunate to have had during my undergraduate years at the University of Vienna, during which I absorbed the fundamentals of Physics and Mathematics."
-  },
-  {
-    "objectID": "content/teaching.html#philosophy",
-    "href": "content/teaching.html#philosophy",
-    "title": "Teaching",
-    "section": "",
-    "text": "Those who know, do. Those that understand, teach.  — Aristotle\n\nTeaching is a key mission of every academic institution and I feel very passionately about sharing my expertise with the next generation of students and researchers. Sharing the diverse topics I learned as a researcher is a very fulfilling opportunity that enables me to give back to the academic community. My teaching style was inspired by the very passionate teachers I was fortunate to have had during my undergraduate years at the University of Vienna, during which I absorbed the fundamentals of Physics and Mathematics."
-  },
-  {
-    "objectID": "content/teaching.html#courses-at-northeastern-university",
-    "href": "content/teaching.html#courses-at-northeastern-university",
-    "title": "Teaching",
-    "section": "Courses at Northeastern University",
-    "text": "Courses at Northeastern University\n\n\n\n\n\n\n\nMATL 7355 – Thermodynamics of Materials Taught in the Fall 4 semester-hours\nFurther information: \n Course Website\n\n\n\n\n\n\n\n\n\nME 2340 – Introduction to Material Science Taught in the Fall and Spring 4 semester-hours"
-  },
-  {
-    "objectID": "content/teaching.html#other-courses-and-tutorials",
-    "href": "content/teaching.html#other-courses-and-tutorials",
-    "title": "Teaching",
-    "section": "Other Courses and Tutorials",
-    "text": "Other Courses and Tutorials\n\n\n\n\n\n\n\nMaterials Informatics Originally taught as a demonstration lecture at Northeastern University. This interactive Python tutorial is designed to teach advanced materials and crystallography concepts using the pymatgen package in Python. It further lays out the basics of requesting materials data using the Materials Project API. Presentation slides/recording upon request.\n\n Tutorial\n\n\n\n\n\n\n\n\n\nDensity Functional Theory with ASE and GPAW Originally taught as a guest lecture at Stanford University in course ME420 Advanced Electrochemistry. I conceptualized and taught an interactive tutorial on how to use Density Functional Theory (DFT) facilitated by easy to follow Python code. The interactive, hands-on tutorial enables student to run basic DFT calculations without needing to install any software on their computer. Presentation slides upon request.\n\n Tutorial\n\n\n\n\n\n\n\n\n\n\n\nSymmetry of (Liquid) Crystals Originally taught as a demonstration lecture at TU Delft in course Structure and Properties of Materials. Included an interactive Python tutorial to effectively explain Monte Carlo simulations and how they can be used to study phase transformations in liquid crystals. Presentation slides upon request.\n\n Tutorial"
-  },
-  {
-    "objectID": "index.html#the-data-driven-renewables-research-group",
-    "href": "index.html#the-data-driven-renewables-research-group",
-    "title": "D2R2 Group",
-    "section": "The Data-Driven Renewables Research Group",
-    "text": "The Data-Driven Renewables Research Group\nThe Data-Driven Renewables Research (D2R2 - Disney, please don’t sue) Group led by Dr. Peter Schindler is seeking to discover novel materials for renewable energy applications using high-throughput quantum chemistry calculations and data-driven materials property predictions.\n\n\n\n\n\nHere you can find photos from our social gatherings."
-  },
-  {
-    "objectID": "index.html#recent-news-and-events",
-    "href": "index.html#recent-news-and-events",
-    "title": "D2R2 Group",
-    "section": "Recent News and Events",
-    "text": "Recent News and Events\n\n\n\n\n\n\nDate\n\n\nNews\n\n\n\n\n\n\n2023-09-13\n\n\nProf. Peter is giving a seminar presentation How AI is Revolutionizing the Discovery of Materials hosted by the Experiential AI Institute at Northeastern University. Watch the recording here.\n\n\n\n\n2023-09-01\n\n\nBharath Raj Pragada has joined the D2R2 group as a M.Sc. student to work on materials database management and API development. Welcome to the group - looking forward to working with you!\n\n\n\n\n2023-09-01\n\n\nNita Chaudhari has joined the D2R2 group as a M.Sc. student to work on deep learning research together. Very exciting - welcome to the group!\n\n\n\n\n2023-09-01\n\n\nArdavan Mehdizadeh has joined the D2R2 group as the first Ph.D. student. Thrilled about working on exciting computational research together! Welcome to the group!\n\n\n\n\n2023-02-17\n\n\nDr. Emad Rezaei joined the D2R2 Group as a postdoctoral researcher. He is a expert in first principles calculations for thermoelectric and thermomagnetic materials. Welcome, Dr. Emad - looking forward to working on exciting research together!\n\n\n\n\n2023-01-09\n\n\nProf. Peter is giving an invited talk at IIT Mumbai titled Data-driven Discovery of Materials for Energy Conversion\n\n\n\n\n2022-11-30\n\n\nCome catch Prof. Peter’s presentation at MRS Fall in Boston in session DS03.11: AI for Discovery. His talk is titled Data-Driven Discovery of Materials with Tuned Surface Properties for Thermionic Energy Conversion.\n\n\n\n\n2022-08-22\n\n\nDr. Peter Schindler joined Northeastern University (Department of Mechanical and Industrial Engineering) as an Assistant Professor.\n\n\n\n\n\n\nNo matching items"
-  },
-  {
     "objectID": "content/expectations.html",
     "href": "content/expectations.html",
     "title": "Group Expectations and Code of Conduct",
@@ -231,6 +154,104 @@
     "text": "Thin-film Synthesis at the Atomic Scale\n\n\n\n\n\n\nKey pieces of modern day electronic device technology keep following the trend of down-scaling. Thin film deposition has become of great importance in the semiconductor industry as critical device dimensions have reached the nanometer scale. As down-scaling continues rapidly, device features approach fundamental physical limits. During Prof. Peter’s doctoral research (at the University of Vienna and Stanford University) his work’s focus was on the characterization of thin films for new high-efficiency applications in solar cells and next-generation dielectrics. The experimental work was particularly focused on atomic layer deposition (ALD), which is a key enabling technique to synthesize high-quality thin films with precise thickness control down to the Angstrom level while staying at low processing temperatures. Unlike in conventional chemical vapor deposition techniques (where there is a continuous flow of precursor gas) in ALD the precursors are introduced sequentially until saturation of the precursor reaction with the surface has occurred and the by-products and remaining precursors are purged out. The key feature that enables this high-quality, conformal growth is the self-limiting nature of the individual half-steps, as illustrated below for the growth of aluminum oxide with the tri-methyl-aluminum (TMA) precursor. Due to the cycle-based nature of this deposition technique thin films can be grown with thickness control down to the atomic level. During plasma-enhanced ALD (PEALD) a more reactive plasma is used as an oxidant which facilitates lower processing temperatures and higher film quality. However, PEALD typically exhibits less conformal growth of films deposited on complex 3-dimensional substrates with high aspect ratios. We have established processes to deposit thin dielectric films with a record-breaking high dielectric constant and high conformality on complex, high aspect-ratio substrates using PEALD. These metrics are crucial for dynamic RAM applications and resulted in multiple publications and patents with our industrial collaborators. Our ALD-related work is relevant for applications in dielectrics, solar cells, low etching-rate spacer materials, sensors, and catalysis."
   },
   {
+    "objectID": "content/join.html",
+    "href": "content/join.html",
+    "title": "Open Positions",
+    "section": "",
+    "text": "These are the current (fully funded) positions at the D2R2 group at Northeastern University:\n\n1 Graduate Research Assistant (Fall 2023) [filled]\n1 Graduate Research Assistant (Fall 2023) [filled]\n1 Postdoctoral Researcher (Spring 2023) [filled]\n\nRegardless of open positions, feel free to reach out to me to discuss potential future opportunities.\nOur research is focused on the discovery of novel materials for renewable energy applications using high-throughput, ab-initio calculations, and data-driven materials property predictions. Further information on our research can be found here.\n\nIf your background is in computational materials science (or computational chemistry, solid state physics, or similar field) and you are interested in the research described above, please send me an email with your CV and brief description of your background and research interests.\n\n\n\n\n\n\n\nGraduate Admissions\n\n\n\nInformation regarding graduate admissions can be found here and some facts about graduate research at College of Engineering can be read here and here."
+  },
+  {
+    "objectID": "content/join.html#doctoral-and-postdoctoral-positions",
+    "href": "content/join.html#doctoral-and-postdoctoral-positions",
+    "title": "Open Positions",
+    "section": "",
+    "text": "These are the current (fully funded) positions at the D2R2 group at Northeastern University:\n\n1 Graduate Research Assistant (Fall 2023) [filled]\n1 Graduate Research Assistant (Fall 2023) [filled]\n1 Postdoctoral Researcher (Spring 2023) [filled]\n\nRegardless of open positions, feel free to reach out to me to discuss potential future opportunities.\nOur research is focused on the discovery of novel materials for renewable energy applications using high-throughput, ab-initio calculations, and data-driven materials property predictions. Further information on our research can be found here.\n\nIf your background is in computational materials science (or computational chemistry, solid state physics, or similar field) and you are interested in the research described above, please send me an email with your CV and brief description of your background and research interests.\n\n\n\n\n\n\n\nGraduate Admissions\n\n\n\nInformation regarding graduate admissions can be found here and some facts about graduate research at College of Engineering can be read here and here."
+  },
+  {
+    "objectID": "content/join.html#undergraduate-projects-and-masters-thesis",
+    "href": "content/join.html#undergraduate-projects-and-masters-thesis",
+    "title": "Open Positions",
+    "section": "Undergraduate Projects and Master’s Thesis",
+    "text": "Undergraduate Projects and Master’s Thesis\nUndergraduate students from Northeastern University interested in computational chemistry or materials informatics/machine learning are always welcome to contact me and we can establish undergraduate research projects or Master’s thesis under my supervision. Funding opportunities available. Minimum time commitment: 10 hours/week for ~6 months."
+  },
+  {
+    "objectID": "content/join.html#co-ops-and-internships",
+    "href": "content/join.html#co-ops-and-internships",
+    "title": "Open Positions",
+    "section": "Co-Ops and Internships",
+    "text": "Co-Ops and Internships\nI have strong connections to start-ups in the renewable energy sector and materials informatics and I can help to connect (under)graduates to Co-Op or internship opportunities. Reach out if that sounds interesting to you."
+  },
+  {
+    "objectID": "content/join.html#visiting-researchers-and-fellows",
+    "href": "content/join.html#visiting-researchers-and-fellows",
+    "title": "Open Positions",
+    "section": "Visiting Researchers and Fellows",
+    "text": "Visiting Researchers and Fellows\nVisiting researchers and researchers with a fellowship are always welcome to reach out to me to discuss the opportunity to work on a project together. International applicants: J1 visa processing typically takes 3-6 months. Further information can be found here."
+  },
+  {
+    "objectID": "index.html#the-data-driven-renewables-research-group",
+    "href": "index.html#the-data-driven-renewables-research-group",
+    "title": "D2R2 Group",
+    "section": "The Data-Driven Renewables Research Group",
+    "text": "The Data-Driven Renewables Research Group\nThe Data-Driven Renewables Research (D2R2 - Disney, please don’t sue) Group led by Dr. Peter Schindler is seeking to discover novel materials for renewable energy applications using high-throughput quantum chemistry calculations and data-driven materials property predictions.\n\n\n\n\n\nHere you can find photos from our social gatherings."
+  },
+  {
+    "objectID": "index.html#recent-news-and-events",
+    "href": "index.html#recent-news-and-events",
+    "title": "D2R2 Group",
+    "section": "Recent News and Events",
+    "text": "Recent News and Events\n\n\n\n\n\n\nDate\n\n\nNews\n\n\n\n\n\n\n2023-09-13\n\n\nProf. Peter is giving a seminar presentation How AI is Revolutionizing the Discovery of Materials hosted by the Experiential AI Institute at Northeastern University. Watch the recording here.\n\n\n\n\n2023-09-01\n\n\nBharath Raj Pragada has joined the D2R2 group as a M.Sc. student to work on materials database management and API development. Welcome to the group - looking forward to working with you!\n\n\n\n\n2023-09-01\n\n\nNita Chaudhari has joined the D2R2 group as a M.Sc. student to work on deep learning research together. Very exciting - welcome to the group!\n\n\n\n\n2023-09-01\n\n\nArdavan Mehdizadeh has joined the D2R2 group as the first Ph.D. student. Thrilled about working on exciting computational research together! Welcome to the group!\n\n\n\n\n2023-02-17\n\n\nDr. Emad Rezaei joined the D2R2 Group as a postdoctoral researcher. He is a expert in first principles calculations for thermoelectric and thermomagnetic materials. Welcome, Dr. Emad - looking forward to working on exciting research together!\n\n\n\n\n2023-01-09\n\n\nProf. Peter is giving an invited talk at IIT Mumbai titled Data-driven Discovery of Materials for Energy Conversion\n\n\n\n\n2022-11-30\n\n\nCome catch Prof. Peter’s presentation at MRS Fall in Boston in session DS03.11: AI for Discovery. His talk is titled Data-Driven Discovery of Materials with Tuned Surface Properties for Thermionic Energy Conversion.\n\n\n\n\n2022-08-22\n\n\nDr. Peter Schindler joined Northeastern University (Department of Mechanical and Industrial Engineering) as an Assistant Professor.\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "content/matl6290.html",
+    "href": "content/matl6290.html",
+    "title": "Guest Lecture - MATL 6290",
+    "section": "",
+    "text": "Both ASE and GPAW operate through Python. We will be using Google’s Colab service to make it easy to follow along. No need to install Python locally - you only need a browser. Our code will be running in a Jupyter notebook using Google’s resources.\nTo access a Python notebook just follow this link and then click on ‘File’ &gt; ‘Save a copy in Drive…’.\n\n\n\n\n\nOnce you have copied the notebook to your Google Drive you can edit, execute and work on it."
+  },
+  {
+    "objectID": "content/matl6290.html#interactive-dft-tutorial",
+    "href": "content/matl6290.html#interactive-dft-tutorial",
+    "title": "Guest Lecture - MATL 6290",
+    "section": "",
+    "text": "Both ASE and GPAW operate through Python. We will be using Google’s Colab service to make it easy to follow along. No need to install Python locally - you only need a browser. Our code will be running in a Jupyter notebook using Google’s resources.\nTo access a Python notebook just follow this link and then click on ‘File’ &gt; ‘Save a copy in Drive…’.\n\n\n\n\n\nOnce you have copied the notebook to your Google Drive you can edit, execute and work on it."
+  },
+  {
+    "objectID": "content/teaching.html",
+    "href": "content/teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Those who know, do. Those that understand, teach.  — Aristotle\n\nTeaching is a key mission of every academic institution and I feel very passionately about sharing my expertise with the next generation of students and researchers. Sharing the diverse topics I learned as a researcher is a very fulfilling opportunity that enables me to give back to the academic community. My teaching style was inspired by the very passionate teachers I was fortunate to have had during my undergraduate years at the University of Vienna, during which I absorbed the fundamentals of Physics and Mathematics."
+  },
+  {
+    "objectID": "content/teaching.html#philosophy",
+    "href": "content/teaching.html#philosophy",
+    "title": "Teaching",
+    "section": "",
+    "text": "Those who know, do. Those that understand, teach.  — Aristotle\n\nTeaching is a key mission of every academic institution and I feel very passionately about sharing my expertise with the next generation of students and researchers. Sharing the diverse topics I learned as a researcher is a very fulfilling opportunity that enables me to give back to the academic community. My teaching style was inspired by the very passionate teachers I was fortunate to have had during my undergraduate years at the University of Vienna, during which I absorbed the fundamentals of Physics and Mathematics."
+  },
+  {
+    "objectID": "content/teaching.html#courses-at-northeastern-university",
+    "href": "content/teaching.html#courses-at-northeastern-university",
+    "title": "Teaching",
+    "section": "Courses at Northeastern University",
+    "text": "Courses at Northeastern University\n\n\n\n\n\n\n\nMATL 7355 – Thermodynamics of Materials Taught in the Fall 4 semester-hours\nFurther information: \n Course Website\n\n\n\n\n\n\n\n\n\nME 2340 – Introduction to Material Science Taught in the Fall and Spring 4 semester-hours"
+  },
+  {
+    "objectID": "content/teaching.html#other-courses-and-tutorials",
+    "href": "content/teaching.html#other-courses-and-tutorials",
+    "title": "Teaching",
+    "section": "Other Courses and Tutorials",
+    "text": "Other Courses and Tutorials\n\n\n\n\n\n\n\nMaterials Informatics Originally taught as a demonstration lecture at Northeastern University. This interactive Python tutorial is designed to teach advanced materials and crystallography concepts using the pymatgen package in Python. It further lays out the basics of requesting materials data using the Materials Project API. Presentation slides/recording upon request.\n\n Tutorial\n\n\n\n\n\n\n\n\n\nDensity Functional Theory with ASE and GPAW Originally taught as a guest lecture at Stanford University in course ME420 Advanced Electrochemistry. I conceptualized and taught an interactive tutorial on how to use Density Functional Theory (DFT) facilitated by easy to follow Python code. The interactive, hands-on tutorial enables student to run basic DFT calculations without needing to install any software on their computer. Presentation slides upon request.\n\n Tutorial\n\n\n\n\n\n\n\n\n\n\n\nSymmetry of (Liquid) Crystals Originally taught as a demonstration lecture at TU Delft in course Structure and Properties of Materials. Included an interactive Python tutorial to effectively explain Monte Carlo simulations and how they can be used to study phase transformations in liquid crystals. Presentation slides upon request.\n\n Tutorial"
+  },
+  {
+    "objectID": "content/fun.html",
+    "href": "content/fun.html",
+    "title": "Social Gatherings",
+    "section": "",
+    "text": "It’s not all about research and science - we also like to have other types of fun and will keep a record here of the social events we did together:\n\n\n\nFirst group lunch on September 20th, 2023"
+  },
+  {
     "objectID": "content/resources.html",
     "href": "content/resources.html",
     "title": "Resources and Links",
@@ -250,12 +271,5 @@
     "title": "Resources and Links",
     "section": "Useful Links",
     "text": "Useful Links\n\nOur group’s GitHub page\nOur group’s knowledge base is maintained on Slite [only accessible to invited group members]\nNortheastern’s High-Performance Computing Cluster Discovery is hosted at the MGHPCC: website and wiki\nDepartment of Mechanical and Industrial Engineering: website and search for courses\nPackage to run Quantum Espresso (QE) with ASE (works with QE v7): ase-espresso\nCommonly used QE pseudo-potentials (PBE): link\nDatabase and ML model for work function of materials: link [updated version coming soon]\nUseful Tutorials can be found on our website here\nWhere to ask questions about computational materials science: MatSci Community Discourse and Matter Modeling StackExchange\nOur favorite Python IDE is PyCharm Community Edition and we use Miniconda to manage Python environments"
-  },
-  {
-    "objectID": "content/fun.html",
-    "href": "content/fun.html",
-    "title": "Social Gatherings",
-    "section": "",
-    "text": "It’s not all about research and science - we also like to have other types of fun and will keep a record here of the social events we did together:\n\n\n\nFirst group lunch on September 20th, 2023"
   }
 ]

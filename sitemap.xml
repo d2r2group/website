@@ -2,38 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://d2r2group.com/content/papers.html</loc>
-    <lastmod>2023-09-27T16:50:32.583Z</lastmod>
+    <lastmod>2023-10-25T16:57:33.810Z</lastmod>
   </url>
   <url>
     <loc>https://d2r2group.com/content/members.html</loc>
-    <lastmod>2023-09-27T16:50:27.191Z</lastmod>
-  </url>
-  <url>
-    <loc>https://d2r2group.com/content/join.html</loc>
-    <lastmod>2023-09-27T16:50:25.859Z</lastmod>
-  </url>
-  <url>
-    <loc>https://d2r2group.com/content/teaching.html</loc>
-    <lastmod>2023-09-27T16:50:24.731Z</lastmod>
-  </url>
-  <url>
-    <loc>https://d2r2group.com/index.html</loc>
-    <lastmod>2023-09-27T16:50:21.447Z</lastmod>
+    <lastmod>2023-10-25T16:57:28.973Z</lastmod>
   </url>
   <url>
     <loc>https://d2r2group.com/content/expectations.html</loc>
-    <lastmod>2023-09-27T16:50:24.235Z</lastmod>
+    <lastmod>2023-10-25T16:57:27.645Z</lastmod>
   </url>
   <url>
     <loc>https://d2r2group.com/content/research.html</loc>
-    <lastmod>2023-09-27T16:50:25.403Z</lastmod>
+    <lastmod>2023-10-25T16:57:26.221Z</lastmod>
   </url>
   <url>
-    <loc>https://d2r2group.com/content/resources.html</loc>
-    <lastmod>2023-09-27T16:50:26.319Z</lastmod>
+    <loc>https://d2r2group.com/content/join.html</loc>
+    <lastmod>2023-10-25T16:57:25.085Z</lastmod>
+  </url>
+  <url>
+    <loc>https://d2r2group.com/index.html</loc>
+    <lastmod>2023-10-25T16:57:22.789Z</lastmod>
+  </url>
+  <url>
+    <loc>https://d2r2group.com/content/matl6290.html</loc>
+    <lastmod>2023-10-25T16:57:25.525Z</lastmod>
+  </url>
+  <url>
+    <loc>https://d2r2group.com/content/teaching.html</loc>
+    <lastmod>2023-10-25T16:57:26.705Z</lastmod>
   </url>
   <url>
     <loc>https://d2r2group.com/content/fun.html</loc>
-    <lastmod>2023-09-27T16:50:27.631Z</lastmod>
+    <lastmod>2023-10-25T16:57:28.061Z</lastmod>
+  </url>
+  <url>
+    <loc>https://d2r2group.com/content/resources.html</loc>
+    <lastmod>2023-10-25T16:57:29.441Z</lastmod>
   </url>
 </urlset>
