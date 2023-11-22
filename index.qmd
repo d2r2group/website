@@ -29,7 +29,7 @@ discover novel materials for renewable energy applications using high-throughput
 and data-driven materials property predictions.
 
 > Currently, we have an **opening for a Postdoctoral Research Associate** in our group, starting in *Spring 2024*.
-> Details can be found [here](https://northeastern.wd1.myworkdayjobs.com/careers/job/Boston-MA-Main-Campus/Postdoctoral-Research-Associate_R120912).
+> Details can be found [here](/content/join.html).
 
 ![](../images/group/group_photo.jpg){width=80% fig-align="center"}
 
