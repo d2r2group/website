@@ -201,6 +201,109 @@ Density Functional Theory (DFT), Data-Driven Methods, Machine Learning
 :::: {.columns}
 
 ::: {.column width="25%"}
+![](../images/group/ja.jpg)
+```{=html}
+<center>
+<a class="btn btn-outline-primary btn-sm", href="https://orcid.org/0000-0002-2232-2970" target="_blank" rel="noopener noreferrer">
+    <i class="ai ai-orcid" role="img" aria-label="ORCId"></i>
+</a>
+<a class="btn btn-outline-primary btn-sm", href="https://github.com/jawadAhmed232" target="_blank" rel="noopener noreferrer">
+    <i class="bi bi-github" role="img" aria-label="GitHub"></i>
+</a>
+<a class="btn btn-outline-primary btn-sm", href="https://www.linkedin.com/in/jawad-ahmed-b39a76a7/" target="_blank" rel="noopener noreferrer">
+    <i class="bi bi-linkedin" role="img" aria-label="LinkedIn"></i>
+</a>
+<br>
+<b>ahmed.ja@NEU</b>
+</center>
+```
+:::
+
+::: {.column width="5%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="70%"}
+### Jawad Ahmed {.unnumbered .unlisted}
+<p class="text-primary">M.Sc. Student in Energy Systems</p>
+{{< fa graduation-cap >}}  B.Eng. in Electrical Engineering, 2021 (NUST)
+
+::: {.callout-note title="Bio" appearance="minimal" collapse=true}
+Jawad is a Fulbright scholar from Pakistan, currently pursuing a Master of Science in Energy Systems at Northeastern
+University. His area of interest is the application of Machine Learning in the energy sector.<br>
+Prior to his master’s degree, Jawad earned a Bachelor of Engineering in Electrical Engineering from National University
+of Sciences and Technology (NUST). Upon graduation, he joined Reon Energy Limited as a Graduate Engineer, where his
+responsibilities included solar power forecasting, designing  decentralized energy systems for telecom towers, and
+deployment of the energy storage systems.
+:::
+
+::: {.callout-note title="Research Interests" appearance="minimal" collapse=true}
+Energy Informatics, Data-Driven Methods, Machine Learning, Renewable Energy, Artificial Intelligence
+:::
+
+::: {.callout-note title="Fun Facts" appearance="minimal" collapse=true}
+Jawad used to dream of becoming a historian, but he ended up going the engineering route because he was academically
+good in science subjects, and well, peer pressure played its part too.
+:::
+
+:::
+
+::::
+
+
+:::: {.columns}
+
+::: {.column width="25%"}
+![](../images/group/km.jpg)
+```{=html}
+<center>
+<a class="btn btn-outline-primary btn-sm", href="https://karan-mudaliar.github.io/portfolio/" target="_blank" rel="noopener noreferrer">
+    <i class="fa fa-globe" role="img" aria-label="GitHub"></i>
+</a>
+<a class="btn btn-outline-primary btn-sm", href="https://github.com/karan-mudaliar" target="_blank" rel="noopener noreferrer">
+    <i class="bi bi-github" role="img" aria-label="GitHub"></i>
+</a>
+<a class="btn btn-outline-primary btn-sm", href="https://www.linkedin.com/in/karan-mudaliar1999" target="_blank" rel="noopener noreferrer">
+    <i class="bi bi-linkedin" role="img" aria-label="LinkedIn"></i>
+</a>
+<br>
+<b>mudaliar.k@NEU</b>
+</center>
+```
+:::
+
+::: {.column width="5%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="70%"}
+### Karan Mudaliar {.unnumbered .unlisted}
+<p class="text-primary">M.Sc. Student in Data Science</p>
+{{< fa graduation-cap >}}  B.Tech. in Computer Science, 2021 (Vellore Institute of Technology)
+
+::: {.callout-note title="Bio" appearance="minimal" collapse=true}
+I grew up in Mumbai but I’ve also lived in 4 different cities in India. I did my bachelors in
+computer science from VIT university India, and I am now pursuing a masters degree in Data Science at
+Northeastern university.
+:::
+
+::: {.callout-note title="Research Interests" appearance="minimal" collapse=true}
+I’m mainly studying applications of ML models in different disciplines, interpretability of machine learning models,
+machine unlearning and multimodal AI systems. I'm still trying to find my niche but I love working on all of the above fields.
+:::
+
+::: {.callout-note title="Fun Facts" appearance="minimal" collapse=true}
+I speak 4 languages (English, Tamil, Hindi, Marathi) and am learning at 5th language (Spanish)
+:::
+
+:::
+
+::::
+
+
+:::: {.columns}
+
+::: {.column width="25%"}
 ![](../images/group/nc.jpg)
 ```{=html}
 <center>
