@@ -40,7 +40,7 @@ website:
             href: content/members.qmd
           - text: Join Us
             href: content/join.qmd
-          - text: What to Expect
+          - text: Our Philosophy and Expectations
             href: content/expectations.qmd
           - text: News
             href: index.qmd#recent-news-and-events

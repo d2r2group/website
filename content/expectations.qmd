@@ -1,5 +1,5 @@
 ---
-title: "Group Expectations and Code of Conduct"
+title: "Group Philosophy, Expectations and Code of Conduct"
 format:
   html:
     template-partials:
