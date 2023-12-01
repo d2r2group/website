@@ -30,15 +30,20 @@ format:
 ::: {.cell-output .cell-output-display}
 
 ```{=html}
-<ol class="rbracket" style="counter-reset: num 22;list-style-type: none;">
-<li value='21'>
+<ol class="rbracket" style="counter-reset: num 23;list-style-type: none;">
+<li value='22'>
+<i>Revealing Large Room-Temperature Nernst Coefficients in 2D Materials by First-Principles Modeling</i><br>
+<b>ChemRxiv  (2023)</b> <br>
+<small>S. E. Rezaei and <em class="text-primary">P. Schindler</em></small><br>
+<a class="btn btn-outline-primary btn-sm", href="https://doi.org/10.26434/chemrxiv-2023-7p14b" target="_blank" rel="noopener noreferrer">
+    <i class="bi bi-file-earmark-pdf" role='img' aria-label='Preprint'></i> Preprint </a></li><li value='21'>
 <i>Electrolyte Coatings for High Adhesion Interfaces in Solid-State Batteries from First Principles</i><br>
 <b>ACS Applied Materials & Interfaces 15, 37 (2023)</b> 44394-44403<br>
 <small>B. Ransom, A. Ramdas, E. Lomeli, J. Fidawi, A. Sendek, T. Devereaux, E. J. Reed, and <em class="text-primary">P. Schindler</em></small><br>
 <a class="btn btn-outline-primary btn-sm", href="https://doi.org/10.1021/acsami.3c04452" target="_blank" rel="noopener noreferrer">
     <i class="ai ai-archive" role='img' aria-label='Published'></i> Published </a></li><li value='20'>
 <i>Electrolyte Coatings for High Adhesion Interfaces in Solid-state Batteries from First Principles</i><br>
-<b>arXiv arXiv:2303.16350 (2023)</b> <br>
+<b>arXiv 2303.16350 [cond-mat.mtrl-sci] (2023)</b> <br>
 <small>B. Ransom, A. Ramdas, E. Lomeli, J. Fidawi, A. Sendek, T. Devereaux, E. Reed, and <em class="text-primary">P. Schindler</em></small><br>
 <a class="btn btn-outline-primary btn-sm", href="https://doi.org/10.48550/arXiv.2303.16350" target="_blank" rel="noopener noreferrer">
     <i class="bi bi-file-earmark-pdf" role='img' aria-label='Preprint'></i> Preprint </a></li><li value='19'>
@@ -58,7 +63,7 @@ format:
 <a class="btn btn-outline-primary btn-sm", href="https://doi.org/10.1002/adma.202007885" target="_blank" rel="noopener noreferrer">
     <i class="ai ai-archive" role='img' aria-label='Published'></i> Published </a></li><li value='16'>
 <i>Discovery of materials with extreme work functions by high-throughput density functional theory and machine learning</i><br>
-<b>arXiv arXiv:2011.10905 (2020)</b> <br>
+<b>arXiv 2011.10905 [cond-mat, physics:physics] (2020)</b> <br>
 <small><em class="text-primary">P. Schindler</em>, E. R. Antoniuk, G. Cheon, Y. Zhu, and E. J. Reed</small><br>
 <a class="btn btn-outline-primary btn-sm", href="https://doi.org/10.48550/arXiv.2011.10905" target="_blank" rel="noopener noreferrer">
     <i class="bi bi-file-earmark-pdf" role='img' aria-label='Preprint'></i> Preprint </a> <a class="btn btn-outline-primary btn-sm", href="https://github.com/peterschindler/WorkFunctionDatabase" target="_blank" rel="noopener noreferrer">

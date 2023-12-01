@@ -77,11 +77,14 @@ for ind, e in enumerate(bib_data.entries):
     page = bib_data.entries[e].fields['pages'].replace('--', '–') if 'pages' in bib_data.entries[e].fields else ''
 
     # Journal
+    preprint = False
     if 'journal' in bib_data.entries[e].fields:
         journal = bib_data.entries[e].fields['journal'].replace('\\', '')
-    elif 'arXiv' in bib_data.entries[e].fields['publisher']:
-        journal = 'arXiv'
-        vi = ' ' + bib_data.entries[e].fields['note'].split(' ')[0]
+    elif 'publisher' in bib_data.entries[e].fields:
+        preprint = True
+        journal = bib_data.entries[e].fields['publisher']
+        if 'note' in bib_data.entries[e].fields:
+            vi = ' ' + bib_data.entries[e].fields['note']
     else:
         raise ValueError('Error. No journal or publisher specified.')
 
@@ -95,7 +98,7 @@ for ind, e in enumerate(bib_data.entries):
 
     button_label = 'Published'
     button_style = 'ai-archive'
-    if journal == 'arXiv':
+    if preprint:
         button_label = 'Preprint'
         button_style = 'bi-file-earmark-pdf'
 
