@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://d2r2group.com/content/join.html</loc>
-    <lastmod>2023-12-01T22:03:41.952Z</lastmod>
-  </url>
-  <url>
-    <loc>https://d2r2group.com/content/members.html</loc>
-    <lastmod>2023-12-01T22:03:41.176Z</lastmod>
+    <loc>https://d2r2group.com/content/papers.html</loc>
+    <lastmod>2023-12-18T20:55:53.959Z</lastmod>
   </url>
   <url>
     <loc>https://d2r2group.com/content/resources.html</loc>
-    <lastmod>2023-12-01T22:03:40.180Z</lastmod>
+    <lastmod>2023-12-18T20:55:49.939Z</lastmod>
   </url>
   <url>
-    <loc>https://d2r2group.com/content/teaching.html</loc>
-    <lastmod>2023-12-01T22:03:39.252Z</lastmod>
-  </url>
-  <url>
-    <loc>https://d2r2group.com/content/papers.html</loc>
-    <lastmod>2023-12-01T22:03:38.652Z</lastmod>
-  </url>
-  <url>
-    <loc>https://d2r2group.com/index.html</loc>
-    <lastmod>2023-12-01T22:03:35.220Z</lastmod>
+    <loc>https://d2r2group.com/content/members.html</loc>
+    <lastmod>2023-12-18T20:55:49.283Z</lastmod>
   </url>
   <url>
     <loc>https://d2r2group.com/content/fun.html</loc>
-    <lastmod>2023-12-01T22:03:38.924Z</lastmod>
+    <lastmod>2023-12-18T20:55:48.035Z</lastmod>
+  </url>
+  <url>
+    <loc>https://d2r2group.com/content/join.html</loc>
+    <lastmod>2023-12-18T20:55:47.127Z</lastmod>
+  </url>
+  <url>
+    <loc>https://d2r2group.com/index.html</loc>
+    <lastmod>2023-12-18T20:55:46.175Z</lastmod>
   </url>
   <url>
     <loc>https://d2r2group.com/content/expectations.html</loc>
-    <lastmod>2023-12-01T22:03:39.852Z</lastmod>
-  </url>
-  <url>
-    <loc>https://d2r2group.com/content/matl6290.html</loc>
-    <lastmod>2023-12-01T22:03:40.488Z</lastmod>
+    <lastmod>2023-12-18T20:55:47.751Z</lastmod>
   </url>
   <url>
     <loc>https://d2r2group.com/content/research.html</loc>
-    <lastmod>2023-12-01T22:03:41.628Z</lastmod>
+    <lastmod>2023-12-18T20:55:48.503Z</lastmod>
+  </url>
+  <url>
+    <loc>https://d2r2group.com/content/matl6290.html</loc>
+    <lastmod>2023-12-18T20:55:49.603Z</lastmod>
+  </url>
+  <url>
+    <loc>https://d2r2group.com/content/teaching.html</loc>
+    <lastmod>2023-12-18T20:55:50.267Z</lastmod>
   </url>
 </urlset>
