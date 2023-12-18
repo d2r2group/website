@@ -76,64 +76,9 @@ He does however dance Bachata and Kizomba and knows how to play the drums. He is
 
 ## Postdoctoral Researchers
 
-:::: {.columns}
+Currently hiring: See [here](/content/join.html).
 
-::: {.column width="25%"}
-![](../images/group/ser.jpg)
-```{=html}
-<center>
-<a class="btn btn-outline-primary btn-sm", href="https://scholar.google.com/citations?user=oTOap-kAAAAJ" target="_blank" rel="noopener noreferrer">
-    <i class="ai ai-google-scholar" role="img" aria-label="Google Scholar"></i>
-</a>
-<a class="btn btn-outline-primary btn-sm", href="https://www.researchgate.net/profile/Emad-Rezaei" target="_blank" rel="noopener noreferrer">
-    <i class="ai ai-researchgate" role="img" aria-label="ResearchGate"></i>
-</a>
-<a class="btn btn-outline-primary btn-sm", href="https://github.com/Emad-Rezaei" target="_blank" rel="noopener noreferrer">
-    <i class="bi bi-github" role="img" aria-label="GitHub"></i>
-</a>
-<a class="btn btn-outline-primary btn-sm", href="https://www.linkedin.com/in/emad-rezaei-4a9882273/" target="_blank" rel="noopener noreferrer">
-    <i class="bi bi-linkedin" role="img" aria-label="LinkedIn"></i>
-</a>
-<br>
-<b>s.rezaei@NEU</b>
-</center>
-```
-:::
-
-::: {.column width="5%"}
-<!-- empty column to create gap -->
-:::
-
-::: {.column width="70%"}
-### Dr. S. Emad Rezaei {.unnumbered .unlisted}
-<p class="text-primary">Postdoctoral Research Associate at Northeastern University, MIE</p>
-{{< fa graduation-cap >}} Ph.D. in Electrical Engineering, 2022 (University of Virginia)<br>
-{{< fa graduation-cap >}} M.Sc. in Mechanical and Materials Engineering, 2018 (Wright State University)<br>
-{{< fa graduation-cap >}} B.Sc. in Materials Science and Engineering, 2015 (Sharif University of Technology)
-
-::: {.callout-note title="Bio" appearance="minimal" collapse=true}
-Currently, he holds the role of a postdoctoral research associate at Northeastern University, specializing in the
-Data-Driven Renewable Research group. His core research revolves around conducting high-throughput
-Density Functional Theory (DFT) calculations and the application of machine learning models to tackle quantum mechanics
-and materials science challenges. Prior to undertaking this postdoctoral position, he accomplished his PhD at the
-University of Virginia, where he specialized in Electrical Engineering and studied charge transport
-in materials using quantum mechanics methods. In the earlier stages of his academic journey, during his MSc, he delved
-into the enhancement of low-dimensional materials through molecular dynamics investigations.
-:::
-
-::: {.callout-note title="Research Interests" appearance="minimal" collapse=true}
-Computational materials science, Materials Informatics, Data-Driven methods
-:::
-
-::: {.callout-note title="Fun Facts" appearance="minimal" collapse=true}
-He ran a marathon without training!
-:::
-
-:::
-
-::::
-
-## Graduate Students
+## Ph.D. Students
 
 :::: {.columns}
 
@@ -195,6 +140,108 @@ Density Functional Theory (DFT), Data-Driven Methods, Machine Learning
 
 ::::
 
+
+## Co-advised Ph.D. Students
+
+:::: {.columns}
+
+::: {.column width="25%"}
+![](../images/group/pf.jpg)
+```{=html}
+<center>
+<b>feng.peiy@NEU</b>
+</center>
+```
+:::
+
+::: {.column width="5%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="70%"}
+### Peiyun Feng {.unnumbered .unlisted}
+<p class="text-primary">Ph.D. Candidate in Mechanical Engineering</p>
+{{< fa graduation-cap >}} B.Sc. in Material Science and Engineering, 2021 (Sichuan University)<br>
+{{< fa graduation-cap >}} B.Sc. in Material Science and Engineering, 2021 (University of Pittsburgh)
+
+
+::: {.callout-note title="Bio" appearance="minimal" collapse=true}
+I was born and raised in Sichuan, China, and began my academic journey in Material Science at Sichuan University.
+Through a collaborative program between Sichuan University and the University of Pittsburgh, I transferred to the
+latter during my third year of undergraduate study, earning a B.Sc. from both universities. Upon graduation, I
+joined Northeastern University to pursue my Ph.D. degree.
+:::
+
+::: {.callout-note title="Research Interests" appearance="minimal" collapse=true}
+Silicon/Carbon nanomaterials synthesis, surface characterization, simulations and applications.
+:::
+
+::: {.callout-note title="Fun Facts" appearance="minimal" collapse=true}
+Peiyun has two ragdoll cats named Cinnamon and Azam!
+:::
+
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="25%"}
+![](../images/group/ir.jpg)
+```{=html}
+<center>
+<a class="btn btn-outline-primary btn-sm", href="https://scholar.google.de/citations?user=Zioh7l8AAAAJ" target="_blank" rel="noopener noreferrer">
+    <i class="ai ai-google-scholar" role="img" aria-label="LinkedIn"></i>
+</a>
+<a class="btn btn-outline-primary btn-sm", href="https://orcid.org/0009-0002-6266-8682" target="_blank" rel="noopener noreferrer">
+    <i class="ai ai-orcid" role="img" aria-label="ORCId"></i>
+</a>
+<a class="btn btn-outline-primary btn-sm", href="https://www.linkedin.com/in/luca-reichert-8a8a1a204/" target="_blank" rel="noopener noreferrer">
+    <i class="bi bi-linkedin" role="img" aria-label="LinkedIn"></i>
+</a>
+</center>
+```
+:::
+
+::: {.column width="5%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="70%"}
+###  {.unnumbered .unlisted}
+<p class="text-primary">Ph.D. Student at Technical University of Munich (TUM)</p>
+{{< fa graduation-cap >}} M. Eng. in Material Science, 2021 (University of Koblenz, Germany)<br>
+{{< fa graduation-cap >}} B. Eng. in Material Science, 2021 (University of Applied Science, Koblenz, Germany)
+
+
+::: {.callout-note title="Bio" appearance="minimal" collapse=true}
+Never meaning to start a scientific career, my journey started with an apprenticeship as a materials tester at
+ThyssenKrupp, one of the biggest steel producers in Germany. In my second year, I got used to the work of our
+engineers and realized that this is the work I wanted to do in my future career, both research and
+project management.<br>
+To reach this goal, I studied Material Science with main focus on ceramics and high-temperature materials. During
+this time, I worked as a research assistant at an institute near my university and in parallel as a teaching assistant.
+Discovering that the combination of research and teaching is my passion, I made the decision to begin the path
+to becoming a professor.<br>
+After a quick step back in the industry at MTU Aero Engines in Munich for 1 ½ years, I recently started my doctorate
+at the Technical University of Munich. Here, I am currently investigating catalytic materials for the Oxygen
+Reduction Reaction in PEM-Fuel Cells.
+
+:::
+
+::: {.callout-note title="Research Interests" appearance="minimal" collapse=true}
+Crystallography and Crystal Chemistry, Density Functional Theory (DFT), Atomic Layer Deposition (ALD), Theoretical and Physical Chemistry, (Computational) Material Science
+:::
+
+::: {.callout-note title="Fun Facts" appearance="minimal" collapse=true}
+In secondary school, I wanted to be a banker and start a career in the financial sector.<br>
+I am a hobby photographer but never share my work.<br>
+I will let my hair grow over my PhD. Prior to the Defense, I will cut them off to donate them.
+:::
+
+:::
+
+::::
 
 ## Masters Students
 
@@ -405,3 +452,7 @@ and what to expect when joining the group is discussed [here](/content/expectati
 
 Please, reach out to me to discuss opportunities to work together. Open positions are listed [here](/content/join.html)
 and what to expect when joining the group is discussed [here](/content/expectations.html).
+
+## Alumni
+
+**Dr. S. Emad Rezaei** - former postdoctoral research associate, now a research scientist at [Onsemi](https://www.onsemi.com/)
