@@ -208,7 +208,7 @@ Peiyun has two ragdoll cats named Cinnamon and Azam!
 :::
 
 ::: {.column width="70%"}
-###  {.unnumbered .unlisted}
+###  Luca Reichert {.unnumbered .unlisted}
 <p class="text-primary">Ph.D. Student at Technical University of Munich (TUM)</p>
 {{< fa graduation-cap >}} M. Eng. in Material Science, 2021 (University of Koblenz, Germany)<br>
 {{< fa graduation-cap >}} B. Eng. in Material Science, 2021 (University of Applied Science, Koblenz, Germany)
@@ -455,4 +455,4 @@ and what to expect when joining the group is discussed [here](/content/expectati
 
 ## Alumni
 
-**Dr. S. Emad Rezaei** - former postdoctoral research associate, now a research scientist at [Onsemi](https://www.onsemi.com/)
+**Dr. S. Emad Rezaei** (Postdoctoral Research Associate during 2023) - Now a research scientist at [Onsemi](https://www.onsemi.com/)
