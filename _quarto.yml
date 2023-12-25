@@ -66,7 +66,7 @@ format:
     toc-title: "Contents"
     html-math-method: katex
     link-external-newwindow: true
-    link-external-filter: '^(?:http:|https:)\/\/www\.d2r2group\.com\/**'
+    link-external-filter: '^(?:http:|https:)\/\/www\.d2r2group\.com\/custom'
     include-in-header:
       - includes.html
     highlight-style: tango
