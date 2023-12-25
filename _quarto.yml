@@ -14,7 +14,7 @@ website:
   favicon: favicon.ico
   page-footer:
     # right: "This page is built with [Quarto](https://quarto.org/)."
-    left: 2023 &copy; Peter Schindler
+    left: 2023–2024 &copy; Peter Schindler
     #center:
       #- icon: linkedin
       #  href: https://www.linkedin.com/in/schindlerp/
