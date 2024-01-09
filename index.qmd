@@ -28,7 +28,8 @@ The Data-Driven Renewables Research (D2R2 - Disney, please don't sue) Group led 
 discover novel materials for renewable energy applications using high-throughput quantum chemistry calculations
 and data-driven materials property predictions.
 
-> Currently, we have an **opening for a Postdoctoral Research Associate** in our group, starting in *Spring 2024*.
+> Currently, we have two openings: One opening for a **Graduate Research Assistant** (*Fall 2024*) and
+> one opening for a **Postdoctoral Research Associate**, starting in *Spring 2024*.
 > Details can be found [here](/content/join.html).
 
 ![](../images/group/group_photo.jpg){width=80% fig-align="center"}
