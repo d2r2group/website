@@ -35,11 +35,18 @@
     "text": "Presentations\nProf. Peter gave a seminar at the Experiential AI (EAI) Institute at Northeastern University. Further information such as abstract, slides, and the recording is available here. Also, the recording is embedded below:"
   },
   {
+    "objectID": "content/resources.html#databases-and-models-from-our-group",
+    "href": "content/resources.html#databases-and-models-from-our-group",
+    "title": "Resources and Links",
+    "section": "Databases and Models from our Group",
+    "text": "Databases and Models from our Group\n\nWork Function and Cleavage Energy Database: \nML model to predict the work function of surfaces:"
+  },
+  {
     "objectID": "content/resources.html#useful-links",
     "href": "content/resources.html#useful-links",
     "title": "Resources and Links",
     "section": "Useful Links",
-    "text": "Useful Links\n\nOur group’s GitHub page\nOur group’s knowledge base is maintained on Slite [only accessible to invited group members]\nNortheastern’s High-Performance Computing Cluster Discovery is hosted at the MGHPCC: website and wiki\nDepartment of Mechanical and Industrial Engineering: website and search for courses\nPackage to run Quantum Espresso (QE) with ASE (works with QE v7): ase-espresso\nCommonly used QE pseudo-potentials (PBE): link\nDatabase and ML model for work function of materials: link [updated version coming soon]\nUseful Tutorials can be found on our website here\nWhere to ask questions about computational materials science: MatSci Community Discourse and Matter Modeling StackExchange\nOur favorite Python IDE is PyCharm Community Edition and we use Miniconda to manage Python environments"
+    "text": "Useful Links\n\nOur group’s GitHub page\nOur group’s knowledge base is maintained on Slite [only accessible to invited group members]\nNortheastern’s High-Performance Computing Cluster Discovery is hosted at the MGHPCC: website and wiki\nDepartment of Mechanical and Industrial Engineering: website and search for courses\nPackage to run Quantum Espresso (QE) with ASE (works with QE v7): ase-espresso\nCommonly used QE pseudo-potentials (PBE): link\nUseful Tutorials can be found on our website here\nWhere to ask questions about computational materials science: MatSci Community Discourse and Matter Modeling StackExchange\nOur favorite Python IDE is PyCharm Community Edition and we use Miniconda to manage Python environments"
   },
   {
     "objectID": "content/members.html",
