@@ -16,6 +16,11 @@ Also, the recording is embedded below:
 
 {{< video https://www.youtube.com/embed/CFXp-rUTGAs?si=EErTTo8O7p1rcwrm >}}
 
+## Databases and Models from our Group
+
+- Work Function and Cleavage Energy Database: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10381506.svg)](https://doi.org/10.5281/zenodo.10381506)
+- ML model to predict the work function of surfaces: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10449568.svg)](https://doi.org/10.5281/zenodo.10449568)
+
 ## Useful Links
 
 - Our group's [GitHub page](https://github.com/d2r2group/)
@@ -24,7 +29,6 @@ Also, the recording is embedded below:
 - Department of Mechanical and Industrial Engineering: [website](https://mie.northeastern.edu/) and [search for courses](https://searchneu.com/NEU)
 - Package to run Quantum Espresso (QE) with ASE (works with QE v7): [ase-espresso](https://github.com/peterschindler/ase-espresso)
 - Commonly used QE pseudo-potentials (PBE): [link](https://github.com/peterschindler/PSPs)
-- Database and ML model for work function of materials: [link](https://github.com/peterschindler/WorkFunctionDatabase) [updated version coming soon]
 - Useful Tutorials can be found on our website [here](/content/teaching.html#other-courses-and-tutorials)
 - Where to ask questions about computational materials science: [MatSci Community Discourse](https://matsci.org/) and [Matter Modeling StackExchange](https://mattermodeling.stackexchange.com/)
 - Our favorite Python IDE is [PyCharm Community Edition](https://www.jetbrains.com/pycharm/) and we use [Miniconda](https://docs.conda.io/projects/miniconda/en/latest/miniconda-install.html) to manage Python environments
