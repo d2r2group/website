@@ -18,8 +18,8 @@ Also, the recording is embedded below:
 
 ## Databases and Models from our Group
 
-- Work Function and Cleavage Energy Database: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10381506.svg)](https://doi.org/10.5281/zenodo.10381506)
-- ML model to predict the work function of surfaces: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10449568.svg)](https://doi.org/10.5281/zenodo.10449568)
+- Work Function and Cleavage Energy Database: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10381505.svg)](https://doi.org/10.5281/zenodo.10381505)
+- ML model to predict the work function of surfaces: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10449567.svg)](https://doi.org/10.5281/zenodo.10449567)
 
 ## Useful Links
 
