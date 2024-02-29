@@ -448,10 +448,56 @@ During my time as a software developer I sometimes laughed so loud in my workpla
 Please, reach out to me to discuss opportunities to work together. Open positions are listed [here](/content/join.html)
 and what to expect when joining the group is discussed [here](/content/expectations.html).
 
-## Visiting Scholars
+## Visiting Students/Scholars and Research Interns
 
 Please, reach out to me to discuss opportunities to work together. Open positions are listed [here](/content/join.html)
 and what to expect when joining the group is discussed [here](/content/expectations.html).
+
+:::: {.columns}
+
+::: {.column width="25%"}
+![](../images/group/rw.jpg)
+```{=html}
+<center>
+<a class="btn btn-outline-primary btn-sm", href="https://github.com/royewu" target="_blank" rel="noopener noreferrer">
+    <i class="bi bi-github" role="img" aria-label="GitHub"></i>
+</a>
+<a class="btn btn-outline-primary btn-sm", href="https://www.linkedin.com/in/roye-wu-2378b9200/" target="_blank" rel="noopener noreferrer">
+    <i class="bi bi-linkedin" role="img" aria-label="LinkedIn"></i>
+</a>
+<br>
+<b>ro.wu@NEU</b>
+</center>
+```
+:::
+
+::: {.column width="5%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="70%"}
+### Roye Wu {.unnumbered .unlisted}
+<p class="text-primary">Research Intern at D2R2 Group</p>
+{{< fa graduation-cap >}}  B.Sc. in Computational Data Science, expected 2024 (Penn State University)
+
+::: {.callout-note title="Bio" appearance="minimal" collapse=true}
+I am Roye and I was raised in Silicon Valley, California for most of my life until I went to the East
+Coast to study for university. I am currently pursuing an undergraduate degree in Applied Data Science
+and am excited to delve into research in the fascinating realm of material science!
+:::
+
+::: {.callout-note title="Research Interests" appearance="minimal" collapse=true}
+Data Analytics, Data Science, Artificial Intelligence, Machine Learning
+:::
+
+::: {.callout-note title="Fun Facts" appearance="minimal" collapse=true}
+I have two pet turtles called Groudon and Kyogre (named after the legendary Pokemon)
+:::
+
+:::
+
+::::
+
 
 ## Alumni
 
