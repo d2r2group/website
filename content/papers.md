@@ -30,8 +30,13 @@ format:
 ::: {.cell-output .cell-output-display}
 
 ```{=html}
-<ol class="rbracket" style="counter-reset: num 23;list-style-type: none;">
-<li value='22'>
+<ol class="rbracket" style="counter-reset: num 24;list-style-type: none;">
+<li value='23'>
+<i>Revealing Large Room-Temperature Nernst Coefficients in 2D Materials by First-Principles Modeling</i><br>
+<b>Nanoscale  (2024)</b> <br>
+<small>S. E. Rezaei and <em class="text-primary">P. Schindler</em></small><br>
+<a class="btn btn-outline-primary btn-sm", href="https://doi.org/10.1039/D3NR06127B" target="_blank" rel="noopener noreferrer">
+    <i class="ai ai-archive" role='img' aria-label='Published'></i> Published </a></li><li value='22'>
 <i>Revealing Large Room-Temperature Nernst Coefficients in 2D Materials by First-Principles Modeling</i><br>
 <b>ChemRxiv  (2023)</b> <br>
 <small>S. E. Rezaei and <em class="text-primary">P. Schindler</em></small><br>
