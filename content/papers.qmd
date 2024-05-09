@@ -15,11 +15,15 @@ format:
 
 ## Highlights
 
-::: {layout="[[24.25,-0.5,24.25,-0.5,24.25,-0.5,24.25]]"}
+::: {layout="[[32.0,-2.0,32.0,-2.0,32.0]]"}
+![Illustration of our research displayed on the frontispiece of Advanced Functional Materials, 2024, volume 34, issue 19](../images/frontispiece_advfuncmat.jpg)
+
 ![Our research displayed on the supplementary cover of ACS Applied Materials and Interfaces, 2023, issue 15](../images/aami_suppl_cover.jpg)
 
 ![Illustration of our research displayed on the frontispiece of Advanced Materials, 2021, issue 44](../images/frontispiece_advmat.jpg)
+:::
 
+::: {layout="[[-17.0,32.0,-2.0,32.0,-17.0]]"}
 ![Our research displayed on the journal cover of ACS Energy Letters, 2019, issue 4](../images/cover_ACS_EL.jpg)
 
 ![Illustration of passivation-gas-incorporated ALD at the atomic scale. Nature Catalysis, 2018, issue 1](../images/naturecat.png)
@@ -109,8 +113,11 @@ for ind, e in enumerate(bib_data.entries):
     html_string += button('https://doi.org/' + doi, button_label, button_style)
     # Github Button
     if 'comment' in bib_data.entries[e].fields:
-        if 'github.com' in bib_data.entries[e].fields['comment']:
-            html_string += ' ' + button(bib_data.entries[e].fields['comment'], 'GitHub', 'bi-github')
+        for link in str(bib_data.entries[e].fields['comment']).split(";"):
+            if 'arxiv.org' in link or "chemrxiv" in link:
+                html_string += ' ' + button(link, 'Preprint', 'bi-file-earmark-pdf')
+            if 'github.com' in link:
+                html_string += ' ' + button(link, 'GitHub', 'bi-github')
     html_string += "</li>"
 
 html_string += "</ol>\n"

@@ -9,15 +9,10 @@ format:
 
 These are the current (fully funded) positions at the D2R2 group at Northeastern University:
 
-- 1 Postdoctoral Research Associate (Spring 2024) -- Apply [here](https://northeastern.wd1.myworkdayjobs.com/careers/job/Boston-MA-Main-Campus/Postdoctoral-Research-Associate_R120912)
-- 1 Graduate Research Assistant (Fall 2024) -- Email me your resume
+- 1 Postdoctoral Research Associate (Summer/Fall 2024) -- Apply [here](https://northeastern.wd1.myworkdayjobs.com/careers/job/Boston-MA-Main-Campus/Postdoctoral-Research-Associate_R120912)
+- ~~1 Graduate Research Assistant (Fall 2024)~~ [filled]
 - ~~1 Graduate Research Assistant (Fall 2023)~~ [filled]
 - ~~1 Postdoctoral Researcher (Spring 2023)~~ [filled]
-
-Details for the **graduate research assistant** opening for Fall 2024 are described below.<br>
-If this sounds interesting to you, please email me your resume.
-
-{{< pdf ../images/group/D2R2group_PhD_Position_Fall2024.pdf width=80% height=800 >}}
 
 Details for the **postdoctoral research associate** position in our group are described in the flyer below.<br>
 If this sounds interesting to you, please apply [here](https://northeastern.wd1.myworkdayjobs.com/careers/job/Boston-MA-Main-Campus/Postdoctoral-Research-Associate_R120912) and email me your CV.

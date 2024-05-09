@@ -1,15 +1,23 @@
 ---
-title: "Social Gatherings"
+title: "Social Gatherings, Conferences, and Awards"
 format:
   html:
     template-partials:
       - partials/title_only/title-block.html
 ---
 
+## Conference Attendances and Awards of our Group Members
+
+![Bharath received the *Student Employee Award* in the category *Technology and Innovation* on April 12th, 2024. Big congratulations!](../images/group/social/20240412_Bharath_Award.jpg){width=80% fig-align="center"}
+
+## Social Gatherings
+
 It's not all about research and science - we also like to have other types of fun and will keep a record here of the
 social events we did together:
 
-![End of Fall Semester Escape Game at Boxaroo - we barely did not make it in time... :/](../images/group/social/20231214_D2R2_EscapeGame_Boxaroo.jpg){width=80% fig-align="center"}
+![End of Spring Semester indoor mini-golf at Puttshack on March 29th, 2024](../images/group/social/20240329_Puttshack.jpg){width=80% fig-align="center"}
+
+![End of Fall Semester Escape Game at Boxaroo on December 14th, 2023 - we barely did not make it in time... :/](../images/group/social/20231214_D2R2_EscapeGame_Boxaroo.jpg){width=80% fig-align="center"}
 
 ![Second group lunch on November 8th, 2023](../images/group/social/20231108_Group_Lunch.jpg){width=80% fig-align="center"}
 

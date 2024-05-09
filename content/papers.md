@@ -13,11 +13,15 @@ format:
 
 ## Highlights
 
-::: {layout="[[24.25,-0.5,24.25,-0.5,24.25,-0.5,24.25]]"}
+::: {layout="[[32.0,-2.0,32.0,-2.0,32.0]]"}
+![Illustration of our research displayed on the frontispiece of Advanced Functional Materials, 2024, volume 34, issue 19](../images/frontispiece_advfuncmat.jpg)
+
 ![Our research displayed on the supplementary cover of ACS Applied Materials and Interfaces, 2023, issue 15](../images/aami_suppl_cover.jpg)
 
 ![Illustration of our research displayed on the frontispiece of Advanced Materials, 2021, issue 44](../images/frontispiece_advmat.jpg)
+:::
 
+::: {layout="[[-17.0,32.0,-2.0,32.0,-17.0]]"}
 ![Our research displayed on the journal cover of ACS Energy Letters, 2019, issue 4](../images/cover_ACS_EL.jpg)
 
 ![Illustration of passivation-gas-incorporated ALD at the atomic scale. Nature Catalysis, 2018, issue 1](../images/naturecat.png)
@@ -30,49 +34,42 @@ format:
 ::: {.cell-output .cell-output-display}
 
 ```{=html}
-<ol class="rbracket" style="counter-reset: num 24;list-style-type: none;">
-<li value='23'>
+<ol class="rbracket" style="counter-reset: num 22;list-style-type: none;">
+<li value='21'>
+<i>Discovery of Stable Surfaces with Extreme Work Functions by High-Throughput Density Functional Theory and Machine Learning</i><br>
+<b>Advanced Functional Materials 34, 19 (2024)</b> 2401764<br>
+<small><em class="text-primary">P. Schindler</em>, E. R. Antoniuk, G. Cheon, Y. Zhu, and E. J. Reed</small><br>
+<a class="btn btn-outline-primary btn-sm", href="https://doi.org/10.1002/adfm.202401764" target="_blank" rel="noopener noreferrer">
+    <i class="ai ai-archive" role='img' aria-label='Published'></i> Published </a> <a class="btn btn-outline-primary btn-sm", href="https://arxiv.org/abs/2011.10905" target="_blank" rel="noopener noreferrer">
+    <i class="bi bi-file-earmark-pdf" role='img' aria-label='Preprint'></i> Preprint </a> <a class="btn btn-outline-primary btn-sm", href="https://github.com/d2r2group/WF-RF-Model/" target="_blank" rel="noopener noreferrer">
+    <i class="bi bi-github" role='img' aria-label='GitHub'></i> GitHub </a></li><li value='20'>
 <i>Revealing Large Room-Temperature Nernst Coefficients in 2D Materials by First-Principles Modeling</i><br>
-<b>Nanoscale  (2024)</b> <br>
+<b>Nanoscale 16, 12 (2024)</b> 6142–6150<br>
 <small>S. E. Rezaei and <em class="text-primary">P. Schindler</em></small><br>
 <a class="btn btn-outline-primary btn-sm", href="https://doi.org/10.1039/D3NR06127B" target="_blank" rel="noopener noreferrer">
-    <i class="ai ai-archive" role='img' aria-label='Published'></i> Published </a></li><li value='22'>
-<i>Revealing Large Room-Temperature Nernst Coefficients in 2D Materials by First-Principles Modeling</i><br>
-<b>ChemRxiv  (2023)</b> <br>
-<small>S. E. Rezaei and <em class="text-primary">P. Schindler</em></small><br>
-<a class="btn btn-outline-primary btn-sm", href="https://doi.org/10.26434/chemrxiv-2023-7p14b" target="_blank" rel="noopener noreferrer">
-    <i class="bi bi-file-earmark-pdf" role='img' aria-label='Preprint'></i> Preprint </a></li><li value='21'>
+    <i class="ai ai-archive" role='img' aria-label='Published'></i> Published </a> <a class="btn btn-outline-primary btn-sm", href="https://www.doi.org/10.26434/chemrxiv-2023-7p14b" target="_blank" rel="noopener noreferrer">
+    <i class="bi bi-file-earmark-pdf" role='img' aria-label='Preprint'></i> Preprint </a></li><li value='19'>
 <i>Electrolyte Coatings for High Adhesion Interfaces in Solid-State Batteries from First Principles</i><br>
 <b>ACS Applied Materials & Interfaces 15, 37 (2023)</b> 44394-44403<br>
 <small>B. Ransom, A. Ramdas, E. Lomeli, J. Fidawi, A. Sendek, T. Devereaux, E. J. Reed, and <em class="text-primary">P. Schindler</em></small><br>
 <a class="btn btn-outline-primary btn-sm", href="https://doi.org/10.1021/acsami.3c04452" target="_blank" rel="noopener noreferrer">
-    <i class="ai ai-archive" role='img' aria-label='Published'></i> Published </a></li><li value='20'>
-<i>Electrolyte Coatings for High Adhesion Interfaces in Solid-state Batteries from First Principles</i><br>
-<b>arXiv 2303.16350 [cond-mat.mtrl-sci] (2023)</b> <br>
-<small>B. Ransom, A. Ramdas, E. Lomeli, J. Fidawi, A. Sendek, T. Devereaux, E. Reed, and <em class="text-primary">P. Schindler</em></small><br>
-<a class="btn btn-outline-primary btn-sm", href="https://doi.org/10.48550/arXiv.2303.16350" target="_blank" rel="noopener noreferrer">
-    <i class="bi bi-file-earmark-pdf" role='img' aria-label='Preprint'></i> Preprint </a></li><li value='19'>
+    <i class="ai ai-archive" role='img' aria-label='Published'></i> Published </a> <a class="btn btn-outline-primary btn-sm", href="https://arxiv.org/abs/2303.16350" target="_blank" rel="noopener noreferrer">
+    <i class="bi bi-file-earmark-pdf" role='img' aria-label='Preprint'></i> Preprint </a></li><li value='18'>
 <i>Improving intrinsic oxygen reduction activity and stability: Atomic layer deposition preparation of platinum-titanium alloy catalysts</i><br>
 <b>Applied Catalysis B: Environmental 300 (2022)</b> 120741<br>
 <small>Y. Kim, S. Xu, J. Park, A. L. Dadlani, O. Vinogradova, D. Krishnamurthy, M. Orazov, D. U. Lee, S. Dull, <em class="text-primary">P. Schindler</em>, H. S. Han, Z. Wang, T. Graf, T. D. Schladt, J. E. Mueller, R. Sarangi, R. Davis, V. Viswanathan, T. F. Jaramillo, D. C. Higgins, and F. B. Prinz</small><br>
 <a class="btn btn-outline-primary btn-sm", href="https://doi.org/10.1016/j.apcatb.2021.120741" target="_blank" rel="noopener noreferrer">
-    <i class="ai ai-archive" role='img' aria-label='Published'></i> Published </a></li><li value='18'>
+    <i class="ai ai-archive" role='img' aria-label='Published'></i> Published </a></li><li value='17'>
 <i>Novel Ultrabright and Air-Stable Photocathodes Discovered from Machine Learning and Density Functional Theory Driven Screening</i><br>
 <b>Advanced Materials 33, 44 (2021)</b> 2104081<br>
 <small>E. R. Antoniuk, <em class="text-primary">P. Schindler</em>, W. A. Schroeder, B. Dunham, P. Pianetta, T. Vecchione, and E. J. Reed</small><br>
 <a class="btn btn-outline-primary btn-sm", href="https://doi.org/10.1002/adma.202104081" target="_blank" rel="noopener noreferrer">
-    <i class="ai ai-archive" role='img' aria-label='Published'></i> Published </a></li><li value='17'>
+    <i class="ai ai-archive" role='img' aria-label='Published'></i> Published </a></li><li value='16'>
 <i>Direct Integration of Strained-Pt Catalysts into Proton-Exchange-Membrane Fuel Cells with Atomic Layer Deposition</i><br>
 <b>Advanced Materials 33, 30 (2021)</b> 2007885<br>
 <small>S. Xu, Z. Wang, S. Dull, Y. Liu, D. U. Lee, J. S. Lezama Pacheco, M. Orazov, P. E. Vullum, A. L. Dadlani, O. Vinogradova, <em class="text-primary">P. Schindler</em>, Q. Tam, T. D. Schladt, J. E. Mueller, S. Kirsch, G. Huebner, D. Higgins, J. Torgersen, V. Viswanathan, T. F. Jaramillo, and F. B. Prinz</small><br>
 <a class="btn btn-outline-primary btn-sm", href="https://doi.org/10.1002/adma.202007885" target="_blank" rel="noopener noreferrer">
-    <i class="ai ai-archive" role='img' aria-label='Published'></i> Published </a></li><li value='16'>
-<i>Discovery of materials with extreme work functions by high-throughput density functional theory and machine learning</i><br>
-<b>arXiv 2011.10905 [cond-mat, physics:physics] (2020)</b> <br>
-<small><em class="text-primary">P. Schindler</em>, E. R. Antoniuk, G. Cheon, Y. Zhu, and E. J. Reed</small><br>
-<a class="btn btn-outline-primary btn-sm", href="https://doi.org/10.48550/arXiv.2011.10905" target="_blank" rel="noopener noreferrer">
-    <i class="bi bi-file-earmark-pdf" role='img' aria-label='Preprint'></i> Preprint </a> <a class="btn btn-outline-primary btn-sm", href="https://github.com/peterschindler/WorkFunctionDatabase" target="_blank" rel="noopener noreferrer">
-    <i class="bi bi-github" role='img' aria-label='GitHub'></i> GitHub </a></li><li value='15'>
+    <i class="ai ai-archive" role='img' aria-label='Published'></i> Published </a></li><li value='15'>
 <i>Generalizable density functional theory based photoemission model for the accelerated development of photocathodes and other photoemissive devices</i><br>
 <b>Physical Review B 101, 23 (2020)</b> 235447<br>
 <small>E. R. Antoniuk, Y. Yue, Y. Zhou, <em class="text-primary">P. Schindler</em>, W. A. Schroeder, B. Dunham, P. Pianetta, T. Vecchione, and E. J. Reed</small><br>

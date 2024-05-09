@@ -26,7 +26,7 @@ during which I absorbed the fundamentals of Physics and Mathematics.
 ![](../images/matl7355.png){fig-align="center"}
 
 **MATL 7355 -- Thermodynamics of Materials**<br>
-Taught in the Fall<br>
+Taught in Fall semesters<br>
 4 semester-hours
 ```{=html}
 Further information: <a class="btn btn-outline-primary btn-sm", href="https://matl7355.d2r2group.com" target="_blank" rel="noopener noreferrer">
@@ -42,8 +42,8 @@ Further information: <a class="btn btn-outline-primary btn-sm", href="https://ma
 ::: {.column width="49%" align="center"}
 ![](../images/ME2340.png){fig-align="center"}
 
-**ME 2340 -- Introduction to Material Science**<br>
-Taught in the Fall and Spring<br>
+**ME 2340 -- Introduction to Materials Science**<br>
+Taught in Fall and Spring semesters<br>
 4 semester-hours
 
 :::

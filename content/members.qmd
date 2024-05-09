@@ -448,6 +448,53 @@ During my time as a software developer I sometimes laughed so loud in my workpla
 Please, reach out to me to discuss opportunities to work together. Open positions are listed [here](/content/join.html)
 and what to expect when joining the group is discussed [here](/content/expectations.html).
 
+:::: {.columns}
+
+::: {.column width="25%"}
+![](../images/group/nocr.jpg)
+```{=html}
+<center>
+<a class="btn btn-outline-primary btn-sm", href="https://github.com/craneno" target="_blank" rel="noopener noreferrer">
+    <i class="bi bi-github" role="img" aria-label="GitHub"></i>
+</a>
+<a class="btn btn-outline-primary btn-sm", href="https://www.linkedin.com/in/noah-crane/" target="_blank" rel="noopener noreferrer">
+    <i class="bi bi-linkedin" role="img" aria-label="LinkedIn"></i>
+</a>
+<br>
+<b>crane.no@NEU</b>
+</center>
+```
+:::
+
+::: {.column width="5%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="70%"}
+### Noah Crane {.unnumbered .unlisted}
+<p class="text-primary">B.Sc. Student in Mechanical Engineering</p>
+
+::: {.callout-note title="Bio" appearance="minimal" collapse=true}
+Born and raised in the California Silicon Valley, I have been surrounded with tech and engineering my whole life.
+I decided to pursue mechanical engineering, and after an amazing semester studying materials science, I reached out
+to seek a research opportunity in the field. I am very excited to join my first research position and work with
+such an inspiring group!
+
+:::
+
+::: {.callout-note title="Research Interests" appearance="minimal" collapse=true}
+Using AI/ML to model materials degradation, data-driven materials selection
+:::
+
+::: {.callout-note title="Fun Facts" appearance="minimal" collapse=true}
+I love to be active in my free time, whether lifting weights at the gym or rock climbing with my friends.
+:::
+
+:::
+
+::::
+
+
 ## Visiting Students/Scholars and Research Interns
 
 Please, reach out to me to discuss opportunities to work together. Open positions are listed [here](/content/join.html)
