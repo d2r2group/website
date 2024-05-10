@@ -32,7 +32,6 @@ format:
     <i class="bi bi-linkedin" role="img" aria-label="LinkedIn"></i>
 </a>
 <br>
-<b>p.schindler@NEU</b>
 </center>
 ```
 :::
@@ -43,6 +42,7 @@ format:
 
 ::: {.column width="70%"}
 ### Dr. Peter Schindler {.unnumbered .unlisted}
+{{< fa envelope >}} <b>p.schindler@NEU</b><br>
 <p class="text-primary">Assistant Professor at Northeastern University, MIE</p>
 {{< fa graduation-cap >}}  Ph.D. in Physics, 2015 (University of Vienna)<br>
 {{< fa graduation-cap >}}  M.Sc. in Physics, 2011 (University of Vienna)
@@ -96,7 +96,6 @@ Currently hiring: See [here](/content/join.html).
     <i class="bi bi-linkedin" role="img" aria-label="LinkedIn"></i>
 </a>
 <br>
-<b>mehdizadeh.a@NEU</b>
 </center>
 ```
 :::
@@ -107,6 +106,7 @@ Currently hiring: See [here](/content/join.html).
 
 ::: {.column width="70%"}
 ### Ardavan Mehdizadeh {.unnumbered .unlisted}
+{{< fa envelope >}} <b>mehdizadeh.a@NEU</b><br>
 <p class="text-primary">Ph.D. Student in Mechanical Engineering</p>
 {{< fa graduation-cap >}} B.Sc. in Civil Engineering, 2015 (Sharif University of Technology)
 
@@ -149,7 +149,6 @@ Density Functional Theory (DFT), Data-Driven Methods, Machine Learning
 ![](../images/group/pf.jpg)
 ```{=html}
 <center>
-<b>feng.peiy@NEU</b>
 </center>
 ```
 :::
@@ -160,6 +159,7 @@ Density Functional Theory (DFT), Data-Driven Methods, Machine Learning
 
 ::: {.column width="70%"}
 ### Peiyun Feng {.unnumbered .unlisted}
+{{< fa envelope >}} <b>feng.peiy@NEU</b><br>
 <p class="text-primary">Ph.D. Candidate in Mechanical Engineering</p>
 {{< fa graduation-cap >}} B.Sc. in Material Science and Engineering, 2021 (Sichuan University)<br>
 {{< fa graduation-cap >}} B.Sc. in Material Science and Engineering, 2021 (University of Pittsburgh)
@@ -260,8 +260,6 @@ I will let my hair grow over my PhD. Prior to the Defense, I will cut them off t
 <a class="btn btn-outline-primary btn-sm", href="https://www.linkedin.com/in/jawad-ahmed-b39a76a7/" target="_blank" rel="noopener noreferrer">
     <i class="bi bi-linkedin" role="img" aria-label="LinkedIn"></i>
 </a>
-<br>
-<b>ahmed.ja@NEU</b>
 </center>
 ```
 :::
@@ -272,6 +270,7 @@ I will let my hair grow over my PhD. Prior to the Defense, I will cut them off t
 
 ::: {.column width="70%"}
 ### Jawad Ahmed {.unnumbered .unlisted}
+{{< fa envelope >}} <b>ahmed.ja@NEU</b><br>
 <p class="text-primary">M.Sc. Student in Energy Systems</p>
 {{< fa graduation-cap >}}  B.Eng. in Electrical Engineering, 2021 (NUST)
 
@@ -313,8 +312,6 @@ good in science subjects, and well, peer pressure played its part too.
 <a class="btn btn-outline-primary btn-sm", href="https://www.linkedin.com/in/karan-mudaliar1999" target="_blank" rel="noopener noreferrer">
     <i class="bi bi-linkedin" role="img" aria-label="LinkedIn"></i>
 </a>
-<br>
-<b>mudaliar.k@NEU</b>
 </center>
 ```
 :::
@@ -325,6 +322,7 @@ good in science subjects, and well, peer pressure played its part too.
 
 ::: {.column width="70%"}
 ### Karan Mudaliar {.unnumbered .unlisted}
+{{< fa envelope >}} <b>mudaliar.k@NEU</b><br>
 <p class="text-primary">M.Sc. Student in Data Science</p>
 {{< fa graduation-cap >}}  B.Tech. in Computer Science, 2021 (Vellore Institute of Technology)
 
@@ -360,8 +358,6 @@ I speak 4 languages (English, Tamil, Hindi, Marathi) and am learning at 5th lang
 <a class="btn btn-outline-primary btn-sm", href="https://www.linkedin.com/in/nita-chaudhari/" target="_blank" rel="noopener noreferrer">
     <i class="bi bi-linkedin" role="img" aria-label="LinkedIn"></i>
 </a>
-<br>
-<b>chaudhari.nit@NEU</b>
 </center>
 ```
 :::
@@ -372,6 +368,7 @@ I speak 4 languages (English, Tamil, Hindi, Marathi) and am learning at 5th lang
 
 ::: {.column width="70%"}
 ### Nita Chaudhari {.unnumbered .unlisted}
+{{< fa envelope >}} <b>chaudhari.nit@NEU</b><br>
 <p class="text-primary">M.Sc. Student in Data Analytics Engineering</p>
 {{< fa graduation-cap >}}  B.Eng. in Electronics and Telecommunication Engineering, 2018 (Mumbai University)
 
@@ -409,8 +406,6 @@ She once saw a shooting star and made a wish, and it actually came true!
 <a class="btn btn-outline-primary btn-sm", href="https://www.linkedin.com/in/bharath-raj-pragada-0570401b6/" target="_blank" rel="noopener noreferrer">
     <i class="bi bi-linkedin" role="img" aria-label="LinkedIn"></i>
 </a>
-<br>
-<b>pragada.b@NEU</b>
 </center>
 ```
 :::
@@ -421,6 +416,7 @@ She once saw a shooting star and made a wish, and it actually came true!
 
 ::: {.column width="70%"}
 ### Bharath Raj Pragada {.unnumbered .unlisted}
+{{< fa envelope >}} <b>pragada.b@NEU</b><br>
 <p class="text-primary">M.Sc. Student in Data Analytics Engineering</p>
 {{< fa graduation-cap >}}  B.Tech. in Information Technology, 2022 (SASTRA)
 
@@ -460,8 +456,6 @@ and what to expect when joining the group is discussed [here](/content/expectati
 <a class="btn btn-outline-primary btn-sm", href="https://www.linkedin.com/in/noah-crane/" target="_blank" rel="noopener noreferrer">
     <i class="bi bi-linkedin" role="img" aria-label="LinkedIn"></i>
 </a>
-<br>
-<b>crane.no@NEU</b>
 </center>
 ```
 :::
@@ -472,6 +466,7 @@ and what to expect when joining the group is discussed [here](/content/expectati
 
 ::: {.column width="70%"}
 ### Noah Crane {.unnumbered .unlisted}
+{{< fa envelope >}} <b>crane.no@NEU</b><br>
 <p class="text-primary">B.Sc. Student in Mechanical Engineering</p>
 
 ::: {.callout-note title="Bio" appearance="minimal" collapse=true}
@@ -512,8 +507,6 @@ and what to expect when joining the group is discussed [here](/content/expectati
 <a class="btn btn-outline-primary btn-sm", href="https://www.linkedin.com/in/roye-wu-2378b9200/" target="_blank" rel="noopener noreferrer">
     <i class="bi bi-linkedin" role="img" aria-label="LinkedIn"></i>
 </a>
-<br>
-<b>ro.wu@NEU</b>
 </center>
 ```
 :::
@@ -524,6 +517,7 @@ and what to expect when joining the group is discussed [here](/content/expectati
 
 ::: {.column width="70%"}
 ### Roye Wu {.unnumbered .unlisted}
+{{< fa envelope >}} <b>ro.wu@NEU</b>
 <p class="text-primary">Research Intern at D2R2 Group</p>
 {{< fa graduation-cap >}}  B.Sc. in Computational Data Science, expected 2024 (Penn State University)
 
