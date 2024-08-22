@@ -7,6 +7,8 @@ format:
       - partials/title_only/title-block.html
 resources:
     - "../images/colab.jpeg"
+aliases:
+    - ../dft/
 ---
 
 ## Interactive DFT Tutorial
