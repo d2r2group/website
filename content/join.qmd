@@ -4,6 +4,8 @@ format:
   html:
     template-partials:
       - partials/title_only/title-block.html
+aliases:
+  - ../join/
 ---
 ## Doctoral and Postdoctoral Positions
 
@@ -23,7 +25,7 @@ Regardless of open positions, feel free to reach out to me to discuss potential 
 
 Our research is focused on the discovery of novel materials for renewable energy applications using high-throughput,
 *ab-initio* calculations, and data-driven materials property predictions.
-Further information on our research can be found [here](/content/research.html).<br>
+Further information on our research can be found [here](research/).<br>
 
 > If your background is in computational materials science (or computational chemistry, solid state physics,
 > or similar field) and you are interested in the research described above, please send me an email with your CV and

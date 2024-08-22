@@ -6,6 +6,8 @@ format:
     page-layout: full
     template-partials:
       - partials/title_only/title-block.html
+aliases:
+  - ../research/
 ---
 
 ## Materials Informatics and Data-Driven Materials Discovery

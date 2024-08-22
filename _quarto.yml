@@ -37,21 +37,21 @@ website:
       - text: About Us
         menu:
           - text: Members
-            href: content/members.qmd
+            href: members/
           - text: Join Us
-            href: content/join.qmd
+            href: join/
           - text: Our Philosophy and Expectations
-            href: content/expectations.qmd
+            href: expectations/
           - text: News
             href: index.qmd#recent-news-and-events
       - text: Research
-        href: content/research.qmd
+        href: research/
       - text: Publications
-        href: content/papers.qmd
+        href: papers/
       - text: Teaching
-        href: content/teaching.qmd
+        href: teaching/
       - text: Resources
-        href: content/resources.qmd
+        href: resources/
 
 format:
   html:

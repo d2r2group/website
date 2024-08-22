@@ -29,13 +29,13 @@ discover novel materials for renewable energy applications using high-throughput
 and data-driven materials property predictions.
 
 > Currently, we have one opening for a **Postdoctoral Research Associate**, starting in *Summer/Fall 2024*.
-> Details can be found [here](/content/join.html).
+> Details can be found [here](join/).
 
 ![](../images/group/group_photo.jpg){width=80% fig-align="center"}
 
 ```{=html}
 <center>
-<a class="btn btn-outline-primary btn-sm", href="/content/fun.html" rel="noopener noreferrer">
+<a class="btn btn-outline-primary btn-sm", href="fun/" rel="noopener noreferrer">
   More Photos
 </a> from our Groups' Social Gatherings, Conference Attendances, and Awards.
 </center>

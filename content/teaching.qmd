@@ -5,6 +5,8 @@ format:
     page-layout: full
     template-partials:
       - partials/title_only/title-block.html
+aliases:
+  - ../teaching/
 ---
 
 ## Philosophy

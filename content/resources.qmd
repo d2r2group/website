@@ -4,6 +4,8 @@ format:
   html:
     template-partials:
       - partials/title_only/title-block.html
+aliases:
+  - ../resources/
 ---
 
 This page contains useful resources such as previous presentations and links.

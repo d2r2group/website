@@ -4,6 +4,8 @@ format:
   html:
     template-partials:
       - partials/title_only/title-block.html
+aliases:
+  - ../expectations/
 ---
 
 This document lays out our group's rules and code of conduct. It aims to clarify and manage expectations very early on in our work together. It is a living document and gets updated based on situations and discussions we have along the way.
@@ -14,7 +16,7 @@ I am always open to discuss individual or missing points and happy to adjust thi
 
 ::: {.callout-note title="Social Activities" appearance="simple"}
 One of the benefits of joining our group is that we also like to have other types of fun (not related to science or research)
-and we post the pictures of our gatherings [here](/content/fun.html).
+and we post the pictures of our gatherings [here](fun/).
 :::
 
 ## Ground rules

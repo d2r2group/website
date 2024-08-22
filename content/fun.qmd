@@ -4,6 +4,8 @@ format:
   html:
     template-partials:
       - partials/title_only/title-block.html
+aliases:
+  - ../fun/
 ---
 
 ## Conference Attendances and Awards of our Group Members
