@@ -1,5 +1,5 @@
 ---
-title: "Guest Lecture - MATL 6290"
+title: "Interactive DFT Tutorial"
 format:
   html:
     page-layout: full
@@ -10,8 +10,6 @@ resources:
 aliases:
     - ../dft/
 ---
-
-## Interactive DFT Tutorial
 
 Both ASE and GPAW operate through Python. We will be using Google’s Colab service to make it easy to follow along.
 No need to install Python locally - you only need a browser. Our code will be running in a Jupyter notebook
