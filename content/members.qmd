@@ -78,7 +78,7 @@ He does however dance Bachata and Kizomba and knows how to play the drums. He is
 
 ## Postdoctoral Researchers
 
-Currently hiring: See [here](join/).
+Currently hiring: See [here](../join/).
 
 ## Ph.D. Students
 
@@ -443,8 +443,8 @@ During my time as a software developer I sometimes laughed so loud in my workpla
 
 ## Undergraduate Students
 
-Please, reach out to me to discuss opportunities to work together. Open positions are listed [here](join/)
-and what to expect when joining the group is discussed [here](expectations/).
+Please, reach out to me to discuss opportunities to work together. Open positions are listed [here](../join/)
+and what to expect when joining the group is discussed [here](../expectations/).
 
 :::: {.columns}
 
@@ -494,8 +494,8 @@ I love to be active in my free time, whether lifting weights at the gym or rock 
 
 ## Visiting Students/Scholars and Research Interns
 
-Please, reach out to me to discuss opportunities to work together. Open positions are listed [here](join/)
-and what to expect when joining the group is discussed [here](expectations/).
+Please, reach out to me to discuss opportunities to work together. Open positions are listed [here](../join/)
+and what to expect when joining the group is discussed [here](../expectations/).
 
 :::: {.columns}
 
