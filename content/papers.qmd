@@ -83,11 +83,9 @@ for ind, e in enumerate(bib_data.entries):
     page = bib_data.entries[e].fields['pages'].replace('--', '–') if 'pages' in bib_data.entries[e].fields else ''
 
     # Journal
-    preprint = False
     if 'journal' in bib_data.entries[e].fields:
         journal = bib_data.entries[e].fields['journal'].replace('\\', '')
     elif 'publisher' in bib_data.entries[e].fields:
-        preprint = True
         journal = bib_data.entries[e].fields['publisher']
         if 'note' in bib_data.entries[e].fields:
             vi = ' ' + bib_data.entries[e].fields['note']
@@ -97,22 +95,20 @@ for ind, e in enumerate(bib_data.entries):
     # print(bib_data.entries[e].fields.values())
 
     # DOI
-    doi = bib_data.entries[e].fields['doi']
-
-    # URLs
-    url = bib_data.entries[e].fields['url']
+    try:
+        doi = bib_data.entries[e].fields['doi']
+    except KeyError:
+        doi = None
 
     button_label = 'Published'
     button_style = 'ai-archive'
-    if preprint:
-        button_label = 'Preprint'
-        button_style = 'bi-file-earmark-pdf'
 
     html_string += f"<li value='{n-ind}'>\n"
     html_string += f"<i>{title}</i><br>\n"
     html_string += f"<b>{journal}{vi} ({year})</b> {page}<br>\n"
     html_string += f"<small>{name_string}</small><br>\n"
-    html_string += button('https://doi.org/' + doi, button_label, button_style)
+    if doi is not None:
+        html_string += button('https://doi.org/' + doi, button_label, button_style)
     # Github Button
     if 'comment' in bib_data.entries[e].fields:
         for link in str(bib_data.entries[e].fields['comment']).split(";"):

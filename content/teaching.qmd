@@ -47,6 +47,11 @@ Further information: <a class="btn btn-outline-primary btn-sm", href="https://ma
 **ME 2340 -- Introduction to Materials Science**<br>
 Taught in Fall and Spring semesters<br>
 4 semester-hours
+```{=html}
+Student Feedback: <a class="btn btn-outline-primary btn-sm", href="https://www.ratemyprofessors.com/professor/2998086" target="_blank" rel="noopener noreferrer">
+<i class="bi bi-globe" role='img' aria-label='RateMyProfessors'></i> RateMyProfessors
+</a>
+```
 
 :::
 
