@@ -11,7 +11,7 @@ aliases:
 
 These are the current (fully funded) positions at the D2R2 group at Northeastern University:
 
-- 1 Postdoctoral Research Associate (Summer/Fall 2024) -- Apply [here](https://northeastern.wd1.myworkdayjobs.com/careers/job/Boston-MA-Main-Campus/Postdoctoral-Research-Associate_R120912)
+- 1 Postdoctoral Research Associate (Spring 2025) -- Apply [here](https://northeastern.wd1.myworkdayjobs.com/careers/job/Boston-MA-Main-Campus/Postdoctoral-Research-Associate_R120912)
 - ~~1 Graduate Research Assistant (Fall 2024)~~ [filled]
 - ~~1 Graduate Research Assistant (Fall 2023)~~ [filled]
 - ~~1 Postdoctoral Researcher (Spring 2023)~~ [filled]
@@ -42,7 +42,8 @@ and some facts about graduate research at *College of Engineering* can be read [
 Undergraduate students from Northeastern University interested in computational chemistry or materials
 informatics/machine learning are always welcome to contact me and we can establish undergraduate research projects
 or Master's thesis under my supervision.<br>
-**Funding opportunities available.** Minimum time commitment: 10 hours/week for ~6 months.
+**Funding opportunities may be available (email me).** Minimum time commitment: 10 hours/week for ~6 months.<br>
+A great way to fund an undergraduate research project in my group are the [PEAK Awards](https://undergraduate.northeastern.edu/research/awards/peak-awards-overview/).
 
 ## Co-Ops and Internships
 

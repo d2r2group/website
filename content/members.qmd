@@ -113,29 +113,26 @@ Currently hiring: See [here](../join/).
 {{< fa graduation-cap >}} B.Sc. in Civil Engineering, 2015 (Sharif University of Technology)
 
 ::: {.callout-note title="Bio" appearance="minimal" collapse=true}
-Born and raised in Tehran, Iran, I began a journey of scientific exploration; with a B.Sc. in Civil Engineering from
-Sharif University of Technology as part of my qualifications, I entered the world of molecular dynamics and the
-intricacies of protein interactions.<br>
-My research journey took me to various research institutes within and beyond Sharif University. I deeply engaged in
-Molecular Dynamics simulations, uncovering the complications of protein-protein and protein-nanoparticle interactions.
-I also had the interest to investigate the complexities of protein folding and the prediction of protein
-structure and function.<br>
-Now, I'm eagerly diving into the exciting world of computational material science, focusing primarily on quantum
-chemistry calculations and data-driven approaches, including machine learning methods, for my PhD. This integration of
-sciences promises groundbreaking discoveries in machine learning models driven by statistical insights, and I can't
-wait to explore it further.
+Born and raised in Tehran, Iran, Ardavan began his scientific journey with a B.Sc. in Civil Engineering from Sharif
+University of Technology, where he explored molecular dynamics and protein interactions. His research led him to
+various institutes, where he engaged in molecular dynamics simulations, focusing on protein-protein and
+protein-nanoparticle interactions, as well as protein folding and structure prediction.<br>
+Currently, Ardavan is pursuing a PhD in computational materials science. His research combines quantum chemistry and
+data-driven methods, particularly machine learning, to address complex problems in surface chemistry.
+His work centers on surface reconstruction, with the goal of predicting atomic rearrangements on surfaces using
+statistical techniques and neural network force fields (NFFs). Ardavan aims to develop a universal NNF capable of
+modeling surface reconstructions across a variety of materials. By integrating principles from physics,
+materials science, and computer science, he seeks to advance the application of machine learning in surface science.
+
 :::
 
 ::: {.callout-note title="Research Interests" appearance="minimal" collapse=true}
-Computational Materials Science, Computational Quantum Chemistry, Multiscale Modeling, Molecular Dynamics,
-Density Functional Theory (DFT), Data-Driven Methods, Machine Learning
+Computational Materials Science, Computational Chemistry, Density Functional Theory (DFT), Molecular Dynamics, Data-Driven Methods, Machine Learning
 :::
 
 ::: {.callout-note title="Fun Facts" appearance="minimal" collapse=true}
-1. *Musical Marathoner*: I can listen to a single song on repeat for an entire day while working. It's my secret productivity hack!
-2. *Potato Prodigy*: My friends can't get enough of my baked potatoes. They say they're the best!
-3. *Football Frenzy*: I'm a football (soccer) fan.
-4. *Italian Sojourn*: I had the incredible opportunity to live in Italy for a year. It was an unforgettable experience filled with culture, delicious food, and beautiful sights.
+1. Football Frenzy: I’m a football (soccer) fan.
+2. Potato Prodigy: My friends can’t get enough of my baked potatoes. They say they’re the best!
 :::
 
 :::
@@ -250,6 +247,55 @@ I will let my hair grow over my PhD. Prior to the Defense, I will cut them off t
 :::: {.columns}
 
 ::: {.column width="25%"}
+![](../images/group/eo.jpg)
+```{=html}
+<center>
+<a class="btn btn-outline-primary btn-sm", href="https://github.com/em-ortiz" target="_blank" rel="noopener noreferrer">
+    <i class="bi bi-github" role="img" aria-label="GitHub"></i>
+</a>
+<a class="btn btn-outline-primary btn-sm", href="https://www.linkedin.com/in/--emmaortiz/" target="_blank" rel="noopener noreferrer">
+    <i class="bi bi-linkedin" role="img" aria-label="LinkedIn"></i>
+</a>
+</center>
+```
+:::
+
+::: {.column width="5%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="70%"}
+### Emma Ortiz  {.unnumbered .unlisted}
+{{< fa envelope >}} <b>ortiz.em@NEU</b><br>
+<p class="text-primary">M.Sc. Student in Mechanical Engineering</p>
+{{< fa graduation-cap >}}  B.Sc. in Physics, 2024 (Gettysburg College)
+
+::: {.callout-note title="Bio" appearance="minimal" collapse=true}
+Emma is a Department of Defense SMART Scholar from New Jersey who earned a Bachelor of Science in Physics from
+Gettysburg College. She is now pursuing her Master of Science in Mechanical Engineering with a concentration in
+Materials Science at Northeastern University with an interest in learning more about how the design and prediction
+of new materials can lead to finding renewable and more sustainable forms of energy. Her undergraduate research
+focused on running and analyzing data from QM/MM simulations of water-soluble chlorophyll-binding proteins to
+understand their functional role in photosynthesis.
+
+:::
+
+::: {.callout-note title="Research Interests" appearance="minimal" collapse=true}
+Sustainable Energy and Materials, Renewable Energy Applications, Computational Physics
+:::
+
+::: {.callout-note title="Fun Facts" appearance="minimal" collapse=true}
+I can juggle and I ran a marathon this past Spring!
+:::
+
+:::
+
+::::
+
+
+:::: {.columns}
+
+::: {.column width="25%"}
 ![](../images/group/ja.jpg)
 ```{=html}
 <center>
@@ -325,7 +371,7 @@ good in science subjects, and well, peer pressure played its part too.
 ::: {.column width="70%"}
 ### Karan Mudaliar {.unnumbered .unlisted}
 {{< fa envelope >}} <b>mudaliar.k@NEU</b><br>
-<p class="text-primary">M.Sc. Student in Data Science</p>
+<p class="text-primary">M.Sc. Student in Data Science, Currently on Co-Op at Liberty Mutual</p>
 {{< fa graduation-cap >}}  B.Tech. in Computer Science, 2021 (Vellore Institute of Technology)
 
 ::: {.callout-note title="Bio" appearance="minimal" collapse=true}
@@ -348,103 +394,62 @@ I speak 4 languages (English, Tamil, Hindi, Marathi) and am learning at 5th lang
 ::::
 
 
-:::: {.columns}
-
-::: {.column width="25%"}
-![](../images/group/nc.jpg)
-```{=html}
-<center>
-<a class="btn btn-outline-primary btn-sm", href="https://github.com/nitaschaudhari" target="_blank" rel="noopener noreferrer">
-    <i class="bi bi-github" role="img" aria-label="GitHub"></i>
-</a>
-<a class="btn btn-outline-primary btn-sm", href="https://www.linkedin.com/in/nita-chaudhari/" target="_blank" rel="noopener noreferrer">
-    <i class="bi bi-linkedin" role="img" aria-label="LinkedIn"></i>
-</a>
-</center>
-```
-:::
-
-::: {.column width="5%"}
-<!-- empty column to create gap -->
-:::
-
-::: {.column width="70%"}
-### Nita Chaudhari {.unnumbered .unlisted}
-{{< fa envelope >}} <b>chaudhari.nit@NEU</b><br>
-<p class="text-primary">M.Sc. Student in Data Analytics Engineering</p>
-{{< fa graduation-cap >}}  B.Eng. in Electronics and Telecommunication Engineering, 2018 (Mumbai University)
-
-::: {.callout-note title="Bio" appearance="minimal" collapse=true}
-She is holding a Master of Science in Data Analytics Engineering from Northeastern University and a Bachelor of
-Engineering in Electronics and Telecommunication Engineering from Mumbai University and is a proficient data specialist.
-During her tenure as a Data Science Intern at *Tesla*, she excelled in creating and deploying impactful data science
-solutions for service applications. Additionally, she demonstrated her expertise as a software developer at *Accenture*,
-where she made significant contributions to client Insurance applications.
-:::
-
-::: {.callout-note title="Research Interests" appearance="minimal" collapse=true}
-Data-driven approaches, renewable energy applications, demand forecasting
-:::
-
-::: {.callout-note title="Fun Facts" appearance="minimal" collapse=true}
-She once saw a shooting star and made a wish, and it actually came true!
-:::
-
-:::
-
-::::
-
-
-
-:::: {.columns}
-
-::: {.column width="25%"}
-![](../images/group/brp.jpg)
-```{=html}
-<center>
-<a class="btn btn-outline-primary btn-sm", href="https://github.com/PragadaBharathRaj" target="_blank" rel="noopener noreferrer">
-    <i class="bi bi-github" role="img" aria-label="GitHub"></i>
-</a>
-<a class="btn btn-outline-primary btn-sm", href="https://www.linkedin.com/in/bharath-raj-pragada-0570401b6/" target="_blank" rel="noopener noreferrer">
-    <i class="bi bi-linkedin" role="img" aria-label="LinkedIn"></i>
-</a>
-</center>
-```
-:::
-
-::: {.column width="5%"}
-<!-- empty column to create gap -->
-:::
-
-::: {.column width="70%"}
-### Bharath Raj Pragada {.unnumbered .unlisted}
-{{< fa envelope >}} <b>pragada.b@NEU</b><br>
-<p class="text-primary">M.Sc. Student in Data Analytics Engineering</p>
-{{< fa graduation-cap >}}  B.Tech. in Information Technology, 2022 (SASTRA)
-
-::: {.callout-note title="Bio" appearance="minimal" collapse=true}
-I am Bharath from Bhimavaram traveled all the way to Boston to pursue my Master's in Data Analytics Engineering.
-I have completed my Bachelor's in Information technology from SASTRA, Thanjavur. I have one year of work experience as
-a Product Engineer at *Alfahive Pvt Ltd* - a cybersecurity company based in Bangalore - where I have contributed in several ways
-such as managing data, developing core risk quantification APIs, and UI automation using the AI tool *Testsigma*.
-:::
-
-::: {.callout-note title="Research Interests" appearance="minimal" collapse=true}
-Data Engineering, Data Analytics, Data Science, Deep Learning, Machine Learning, Artificial Intelligence
-:::
-
-::: {.callout-note title="Fun Facts" appearance="minimal" collapse=true}
-During my time as a software developer I sometimes laughed so loud in my workplace that people where wondering whether I am "Bharath" or "Bafoon"...
-:::
-
-:::
-
-::::
-
 ## Undergraduate Students
 
 Please, reach out to me to discuss opportunities to work together. Open positions are listed [here](../join/)
 and what to expect when joining the group is discussed [here](../expectations/).
+
+:::: {.columns}
+
+::: {.column width="25%"}
+![](../images/group/cs.jpg)
+```{=html}
+<center>
+<a class="btn btn-outline-primary btn-sm", href="https://github.com/esslushy" target="_blank" rel="noopener noreferrer">
+    <i class="bi bi-github" role="img" aria-label="GitHub"></i>
+</a>
+<a class="btn btn-outline-primary btn-sm", href="https://www.linkedin.com/in/claire-schlesinger/" target="_blank" rel="noopener noreferrer">
+    <i class="bi bi-linkedin" role="img" aria-label="LinkedIn"></i>
+</a>
+<a class="btn btn-outline-primary btn-sm", href="https://scholar.google.com/citations?user=W-XyPHkAAAAJ" target="_blank" rel="noopener noreferrer">
+    <i class="ai ai-google-scholar" role="img" aria-label="Google Scholar"></i>
+</a>
+<a class="btn btn-outline-primary btn-sm", href="https://sites.google.com/view/claire-schlesinger" target="_blank" rel="noopener noreferrer">
+    <i class="fa fa-globe" role="img" aria-label="Website"></i>
+</a>
+</center>
+```
+:::
+
+::: {.column width="5%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="70%"}
+### Claire Schlesinger {.unnumbered .unlisted}
+{{< fa envelope >}} <b>schlesinger.e@NEU</b><br>
+<p class="text-primary">B.Sc. Student in Computer Science</p>
+
+::: {.callout-note title="Bio" appearance="minimal" collapse=true}
+Hi, I am Claire Schlesinger, a fourth year undergraduate in computer science at Northeastern university. I primarily
+do research in applied machine learning - specifically generative AI. I am interested in the intersection of machine
+learning and physics especially how it relates to condensed matter and materials science. In my free time I enjoy
+baking bread and trying new recipes.
+
+:::
+
+::: {.callout-note title="Research Interests" appearance="minimal" collapse=true}
+Applied machine learning, Generative AI, Condensed matter physics, materials science
+:::
+
+::: {.callout-note title="Fun Facts" appearance="minimal" collapse=true}
+I have learned how to mountain bike and MIG weld but I am not good at either
+:::
+
+:::
+
+::::
+
 
 :::: {.columns}
 
@@ -500,13 +505,13 @@ and what to expect when joining the group is discussed [here](../expectations/).
 :::: {.columns}
 
 ::: {.column width="25%"}
-![](../images/group/rw.jpg)
+![](../images/group/jl.jpg)
 ```{=html}
 <center>
-<a class="btn btn-outline-primary btn-sm", href="https://github.com/royewu" target="_blank" rel="noopener noreferrer">
+<a class="btn btn-outline-primary btn-sm", href="https://github.com/jleung40" target="_blank" rel="noopener noreferrer">
     <i class="bi bi-github" role="img" aria-label="GitHub"></i>
 </a>
-<a class="btn btn-outline-primary btn-sm", href="https://www.linkedin.com/in/roye-wu-2378b9200/" target="_blank" rel="noopener noreferrer">
+<a class="btn btn-outline-primary btn-sm", href="https://www.linkedin.com/in/jordan-leung-607084227/" target="_blank" rel="noopener noreferrer">
     <i class="bi bi-linkedin" role="img" aria-label="LinkedIn"></i>
 </a>
 </center>
@@ -518,23 +523,24 @@ and what to expect when joining the group is discussed [here](../expectations/).
 :::
 
 ::: {.column width="70%"}
-### Roye Wu {.unnumbered .unlisted}
-{{< fa envelope >}} <b>ro.wu@NEU</b>
-<p class="text-primary">Research Intern at D2R2 Group</p>
-{{< fa graduation-cap >}}  B.Sc. in Computational Data Science, expected 2024 (Penn State University)
+### Jordan Leung {.unnumbered .unlisted}
+{{< fa envelope >}} <b>leung.jor@NEU</b>
+<p class="text-primary">B.Sc. Student in Computer Science (Oakland campus) and Research Intern at D2R2 Group</p>
 
 ::: {.callout-note title="Bio" appearance="minimal" collapse=true}
-I am Roye and I was raised in Silicon Valley, California for most of my life until I went to the East
-Coast to study for university. I am currently pursuing an undergraduate degree in Applied Data Science
-and am excited to delve into research in the fascinating realm of material science!
+Growing up in the heart of New York City, I’ve had the privilege of connecting with people from all walks of life
+(not to mention keeping up with their lightning-fast pace!). My journey started as a curious “CS nerd,” but I found
+myself diving into mechanical engineering throughout high school. Later, I discovered a passion for this field
+through my work with SeaWipes—a Big Ideas Contest startup focused on materials science. I’m eager to further
+develop my AI skills while expanding my materials science knowledge through hands-on research.
 :::
 
 ::: {.callout-note title="Research Interests" appearance="minimal" collapse=true}
-Data Analytics, Data Science, Artificial Intelligence, Machine Learning
+Natural Language Processing, Data Science, Deep Learning, Machine Learning, Artificial Intelligence, Materials Science
 :::
 
 ::: {.callout-note title="Fun Facts" appearance="minimal" collapse=true}
-I have two pet turtles called Groudon and Kyogre (named after the legendary Pokemon)
+Despite being 5’6, I’ve joined the rowing club at Northeastern, and I’m working extra hard in the gym to keep up with the team!
 :::
 
 :::
@@ -544,4 +550,45 @@ I have two pet turtles called Groudon and Kyogre (named after the legendary Poke
 
 ## Alumni
 
-**Dr. S. Emad Rezaei** (Postdoctoral Research Associate during 2023) - Now a research scientist at [Onsemi](https://www.onsemi.com/)
+```{=html}
+<b>Roye Wu</b> (Undergradute Research Intern, Spring 2024 - Summer 2024):
+<a href="https://www.linkedin.com/in/roye-wu-2378b9200/" target="_blank" rel="noopener noreferrer" style="text-decoration:none">
+    <i class="bi bi-linkedin" role="img" aria-label="LinkedIn"></i>
+</a>
+<a href="https://github.com/royewu" target="_blank" rel="noopener noreferrer" style="text-decoration:none">
+    <i class="bi bi-github" role="img" aria-label="GitHub"></i>
+</a>
+<br>
+
+<b>Bharath Raj Pragada</b> (Graduate Researcher, Fall 2023 - Summer 2024):
+<a href="https://www.linkedin.com/in/bharath-raj-pragada-0570401b6/" target="_blank" rel="noopener noreferrer" style="text-decoration:none">
+    <i class="bi bi-linkedin" role="img" aria-label="LinkedIn"></i>
+</a>
+<a href="https://github.com/PragadaBharathRaj" target="_blank" rel="noopener noreferrer" style="text-decoration:none">
+    <i class="bi bi-github" role="img" aria-label="GitHub"></i>
+</a>
+<br>
+
+<b>Nita Chaudhari</b> (Graduate Researcher, Fall 2023 - Spring 2024):
+<a href="https://www.linkedin.com/in/nita-chaudhari/" target="_blank" rel="noopener noreferrer" style="text-decoration:none">
+    <i class="bi bi-linkedin" role="img" aria-label="LinkedIn"></i>
+</a>
+<a href="https://github.com/nitaschaudhari" target="_blank" rel="noopener noreferrer" style="text-decoration:none">
+    <i class="bi bi-github" role="img" aria-label="GitHub"></i>
+</a>
+<br>
+
+<b>Dr. S. Emad Rezaei</b> (Postdoctoral Research Associate, through 2023):
+<a href="https://www.linkedin.com/in/emad-rezaei-4a9882273/" target="_blank" rel="noopener noreferrer" style="text-decoration:none">
+    <i class="bi bi-linkedin" role="img" aria-label="LinkedIn"></i>
+</a>
+<a href="https://scholar.google.com/citations?user=oTOap-kAAAAJ" target="_blank" rel="noopener noreferrer" style="text-decoration:none">
+    <i class="ai ai-google-scholar" role="img" aria-label="Google Scholar"></i>
+</a>
+<a href="https://www.researchgate.net/profile/Emad-Rezaei" target="_blank" rel="noopener noreferrer" style="text-decoration:none">
+    <i class="ai ai-researchgate" role="img" aria-label="ResearchGate"></i>
+</a>
+<a href="https://github.com/Emad-Rezaei" target="_blank" rel="noopener noreferrer" style="text-decoration:none">
+    <i class="bi bi-github" role="img" aria-label="GitHub"></i>
+</a>
+```
