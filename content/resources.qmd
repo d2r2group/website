@@ -18,10 +18,11 @@ Also, the recording is embedded below:
 
 {{< video https://www.youtube.com/embed/CFXp-rUTGAs?si=EErTTo8O7p1rcwrm >}}
 
-## Databases and Models from our Group
+## Software, Databases, and Models from our Group
 
-- Work Function and Cleavage Energy Database: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10381505.svg)](https://doi.org/10.5281/zenodo.10381505)
+- Work function and cleavage energy database: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10381505.svg)](https://doi.org/10.5281/zenodo.10381505)
 - ML model to predict the work function of surfaces: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10449567.svg)](https://doi.org/10.5281/zenodo.10449567)
+- MatFold Python package to generate cross-validation protocols for Materials Science data: [GitHub Repository](https://github.com/d2r2group/MatFold)
 
 ## Useful Links
 

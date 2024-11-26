@@ -42,7 +42,8 @@ aliases:
 <b>ChemRxiv  (2024)</b> <br>
 <small>M. Witman and <em class="text-primary">P. Schindler</em></small><br>
  <a class="btn btn-outline-primary btn-sm", href="https://doi.org/10.26434/chemrxiv-2024-bmw1n" target="_blank" rel="noopener noreferrer">
-    <i class="bi bi-file-earmark-pdf" role='img' aria-label='Preprint'></i> Preprint </a></li><li value='21'>
+    <i class="bi bi-file-earmark-pdf" role='img' aria-label='Preprint'></i> Preprint </a> <a class="btn btn-outline-primary btn-sm", href="https://github.com/d2r2group/MatFold/" target="_blank" rel="noopener noreferrer">
+    <i class="bi bi-github" role='img' aria-label='GitHub'></i> GitHub </a></li><li value='21'>
 <i>Discovery of Stable Surfaces with Extreme Work Functions by High-Throughput Density Functional Theory and Machine Learning</i><br>
 <b>Advanced Functional Materials 34, 19 (2024)</b> 2401764<br>
 <small><em class="text-primary">P. Schindler</em>, E. R. Antoniuk, G. Cheon, Y. Zhu, and E. J. Reed</small><br>
