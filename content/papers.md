@@ -39,9 +39,10 @@ aliases:
 <ol class="rbracket" style="counter-reset: num 23;list-style-type: none;">
 <li value='22'>
 <i>MatFold: systematic insights into materials discovery models' performance through standardized cross-validation protocols</i><br>
-<b>ChemRxiv  (2024)</b> <br>
-<small>M. Witman and <em class="text-primary">P. Schindler</em></small><br>
- <a class="btn btn-outline-primary btn-sm", href="https://doi.org/10.26434/chemrxiv-2024-bmw1n" target="_blank" rel="noopener noreferrer">
+<b>Digital Discovery  (2024)</b> <br>
+<small>M. D. Witman and <em class="text-primary">P. Schindler</em></small><br>
+<a class="btn btn-outline-primary btn-sm", href="https://doi.org/10.1039/D4DD00250D" target="_blank" rel="noopener noreferrer">
+    <i class="ai ai-archive" role='img' aria-label='Published'></i> Published </a> <a class="btn btn-outline-primary btn-sm", href="https://doi.org/10.26434/chemrxiv-2024-bmw1n" target="_blank" rel="noopener noreferrer">
     <i class="bi bi-file-earmark-pdf" role='img' aria-label='Preprint'></i> Preprint </a> <a class="btn btn-outline-primary btn-sm", href="https://github.com/d2r2group/MatFold/" target="_blank" rel="noopener noreferrer">
     <i class="bi bi-github" role='img' aria-label='GitHub'></i> GitHub </a></li><li value='21'>
 <i>Discovery of Stable Surfaces with Extreme Work Functions by High-Throughput Density Functional Theory and Machine Learning</i><br>

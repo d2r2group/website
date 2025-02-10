@@ -42,6 +42,8 @@ website:
             href: join/
           - text: Our Philosophy and Expectations
             href: expectations/
+          - text: Adventures
+            href: fun/
           - text: News
             href: index.qmd#recent-news-and-events
       - text: Research

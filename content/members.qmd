@@ -140,6 +140,65 @@ Computational Materials Science, Computational Chemistry, Density Functional The
 ::::
 
 
+:::: {.columns}
+
+::: {.column width="25%"}
+![](../images/group/mr.jpg)
+```{=html}
+<center>
+<a class="btn btn-outline-primary btn-sm", href="https://scholar.google.com/citations?user=nMJRKzYAAAAJ" target="_blank" rel="noopener noreferrer">
+    <i class="ai ai-google-scholar" role="img" aria-label="LinkedIn"></i>
+</a>
+<a class="btn btn-outline-primary btn-sm", href="https://www.researchgate.net/profile/Mohamad-Mahdi-Rafiee-2" target="_blank" rel="noopener noreferrer">
+    <i class="ai ai-researchgate" role="img" aria-label="ResearchGate"></i>
+</a>
+<a class="btn btn-outline-primary btn-sm", href="https://github.com/mmrafiee" target="_blank" rel="noopener noreferrer">
+    <i class="bi bi-github" role="img" aria-label="GitHub"></i>
+</a>
+<a class="btn btn-outline-primary btn-sm", href="https://www.linkedin.com/in/mmrafiee/" target="_blank" rel="noopener noreferrer">
+    <i class="bi bi-linkedin" role="img" aria-label="LinkedIn"></i>
+</a>
+<br>
+</center>
+```
+:::
+
+::: {.column width="5%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="70%"}
+### Mohamad Mahdi Rafiee {.unnumbered .unlisted}
+{{< fa envelope >}} <b>rafiee.m@NEU</b><br>
+<p class="text-primary">Ph.D. Student in Mechanical Engineering</p>
+{{< fa graduation-cap >}} M.Sc. in Mechanical Engineering, 2021 (University of Tehran)<br>
+{{< fa graduation-cap >}} B.Sc. in Mechanical Engineering, 2018 (Arak University)
+
+::: {.callout-note title="Bio" appearance="minimal" collapse=true}
+Mahdi holds a master’s degree in mechanical engineering from the University of Tehran, Iran, and has conducted research
+across a broad spectrum of topics. His work encompasses microstructure reconstruction, smart materials design,
+additive manufacturing, finite element analysis, molecular dynamics simulations, railway engineering, severe plastic
+deformation processes, and metal forming. These multidisciplinary experiences shaped his academic trajectory and
+culminated in a deep-seated interest in computational mechanics driven by data-centric approaches. Currently affiliated
+with the D2R2 group, he is committed to advancing the integration of materials science and computer science, focusing
+on pioneering research in materials informatics and computational materials science.
+
+:::
+
+::: {.callout-note title="Research Interests" appearance="minimal" collapse=true}
+Materials Informatics, Computational Materials Science, Data-Driven Methods, Machine Learning
+:::
+
+::: {.callout-note title="Fun Facts" appearance="minimal" collapse=true}
+Despite choosing academia, Mahdi spent his teenage years as a professional football (soccer) player but secretly
+dreams of racing through F1 tracks and composing scores for epic movies!
+:::
+
+:::
+
+::::
+
+
 ## Co-advised Ph.D. Students
 
 :::: {.columns}
@@ -160,9 +219,8 @@ Computational Materials Science, Computational Chemistry, Density Functional The
 ### Peiyun Feng {.unnumbered .unlisted}
 {{< fa envelope >}} <b>feng.peiy@NEU</b><br>
 <p class="text-primary">Ph.D. Candidate in Mechanical Engineering</p>
-{{< fa graduation-cap >}} B.Sc. in Material Science and Engineering, 2021 (Sichuan University)<br>
-{{< fa graduation-cap >}} B.Sc. in Material Science and Engineering, 2021 (University of Pittsburgh)
-
+{{< fa graduation-cap >}} B.Sc. in Material Science and Engineering, 2021 (University of Pittsburgh)<br>
+{{< fa graduation-cap >}} B.Sc. in Material Science and Engineering, 2019 (Sichuan University)
 
 ::: {.callout-note title="Bio" appearance="minimal" collapse=true}
 I was born and raised in Sichuan, China, and began my academic journey in Material Science at Sichuan University.
@@ -242,7 +300,57 @@ I will let my hair grow over my PhD. Prior to the Defense, I will cut them off t
 
 ::::
 
+
 ## Masters Students
+
+:::: {.columns}
+
+::: {.column width="25%"}
+![](../images/group/km.jpg)
+```{=html}
+<center>
+<a class="btn btn-outline-primary btn-sm", href="https://karan-mudaliar.github.io/portfolio/" target="_blank" rel="noopener noreferrer">
+    <i class="fa fa-globe" role="img" aria-label="Website"></i>
+</a>
+<a class="btn btn-outline-primary btn-sm", href="https://github.com/karan-mudaliar" target="_blank" rel="noopener noreferrer">
+    <i class="bi bi-github" role="img" aria-label="GitHub"></i>
+</a>
+<a class="btn btn-outline-primary btn-sm", href="https://www.linkedin.com/in/karan-mudaliar1999" target="_blank" rel="noopener noreferrer">
+    <i class="bi bi-linkedin" role="img" aria-label="LinkedIn"></i>
+</a>
+</center>
+```
+:::
+
+::: {.column width="5%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="70%"}
+### Karan Mudaliar {.unnumbered .unlisted}
+{{< fa envelope >}} <b>mudaliar.k@NEU</b><br>
+<p class="text-primary">M.Sc. Student in Data Science, Currently on Co-Op at Liberty Mutual</p>
+{{< fa graduation-cap >}}  B.Tech. in Computer Science, 2021 (Vellore Institute of Technology)
+
+::: {.callout-note title="Bio" appearance="minimal" collapse=true}
+I grew up in Mumbai but I’ve also lived in 4 different cities in India. I did my bachelors in
+computer science from VIT university India, and I am now pursuing a masters degree in Data Science at
+Northeastern university.
+:::
+
+::: {.callout-note title="Research Interests" appearance="minimal" collapse=true}
+I’m mainly studying applications of ML models in different disciplines, interpretability of machine learning models,
+machine unlearning and multimodal AI systems. I'm still trying to find my niche but I love working on all of the above fields.
+:::
+
+::: {.callout-note title="Fun Facts" appearance="minimal" collapse=true}
+I speak 4 languages (English, Tamil, Hindi, Marathi) and am learning at 5th language (Spanish)
+:::
+
+:::
+
+::::
+
 
 :::: {.columns}
 
@@ -296,69 +404,17 @@ I can juggle and I ran a marathon this past Spring!
 :::: {.columns}
 
 ::: {.column width="25%"}
-![](../images/group/ja.jpg)
+![](../images/group/is.jpg)
 ```{=html}
 <center>
-<a class="btn btn-outline-primary btn-sm", href="https://orcid.org/0000-0002-2232-2970" target="_blank" rel="noopener noreferrer">
-    <i class="ai ai-orcid" role="img" aria-label="ORCId"></i>
-</a>
-<a class="btn btn-outline-primary btn-sm", href="https://github.com/jawadAhmed232" target="_blank" rel="noopener noreferrer">
-    <i class="bi bi-github" role="img" aria-label="GitHub"></i>
-</a>
-<a class="btn btn-outline-primary btn-sm", href="https://www.linkedin.com/in/jawad-ahmed-b39a76a7/" target="_blank" rel="noopener noreferrer">
-    <i class="bi bi-linkedin" role="img" aria-label="LinkedIn"></i>
-</a>
-</center>
-```
-:::
-
-::: {.column width="5%"}
-<!-- empty column to create gap -->
-:::
-
-::: {.column width="70%"}
-### Jawad Ahmed {.unnumbered .unlisted}
-{{< fa envelope >}} <b>ahmed.ja@NEU</b><br>
-<p class="text-primary">M.Sc. Student in Energy Systems</p>
-{{< fa graduation-cap >}}  B.Eng. in Electrical Engineering, 2021 (NUST)
-
-::: {.callout-note title="Bio" appearance="minimal" collapse=true}
-Jawad is a Fulbright scholar from Pakistan, currently pursuing a Master of Science in Energy Systems at Northeastern
-University. His area of interest is the application of Machine Learning in the energy sector.<br>
-Prior to his master’s degree, Jawad earned a Bachelor of Engineering in Electrical Engineering from National University
-of Sciences and Technology (NUST). Upon graduation, he joined Reon Energy Limited as a Graduate Engineer, where his
-responsibilities included solar power forecasting, designing  decentralized energy systems for telecom towers, and
-deployment of the energy storage systems.
-:::
-
-::: {.callout-note title="Research Interests" appearance="minimal" collapse=true}
-Energy Informatics, Data-Driven Methods, Machine Learning, Renewable Energy, Artificial Intelligence
-:::
-
-::: {.callout-note title="Fun Facts" appearance="minimal" collapse=true}
-Jawad used to dream of becoming a historian, but he ended up going the engineering route because he was academically
-good in science subjects, and well, peer pressure played its part too.
-:::
-
-:::
-
-::::
-
-
-:::: {.columns}
-
-::: {.column width="25%"}
-![](../images/group/km.jpg)
-```{=html}
-<center>
-<a class="btn btn-outline-primary btn-sm", href="https://karan-mudaliar.github.io/portfolio/" target="_blank" rel="noopener noreferrer">
+<a class="btn btn-outline-primary btn-sm", href="https://www.lostarmory.com" target="_blank" rel="noopener noreferrer">
     <i class="fa fa-globe" role="img" aria-label="Website"></i>
 </a>
-<a class="btn btn-outline-primary btn-sm", href="https://github.com/karan-mudaliar" target="_blank" rel="noopener noreferrer">
-    <i class="bi bi-github" role="img" aria-label="GitHub"></i>
-</a>
-<a class="btn btn-outline-primary btn-sm", href="https://www.linkedin.com/in/karan-mudaliar1999" target="_blank" rel="noopener noreferrer">
+<a class="btn btn-outline-primary btn-sm", href="https://www.linkedin.com/in/isaiah-simpson/" target="_blank" rel="noopener noreferrer">
     <i class="bi bi-linkedin" role="img" aria-label="LinkedIn"></i>
+</a>
+<a class="btn btn-outline-primary btn-sm", href="https://www.instagram.com/son_of_simp/" target="_blank" rel="noopener noreferrer">
+    <i class="bi bi-instagram" role="img" aria-label="LinkedIn"></i>
 </a>
 </center>
 ```
@@ -369,24 +425,29 @@ good in science subjects, and well, peer pressure played its part too.
 :::
 
 ::: {.column width="70%"}
-### Karan Mudaliar {.unnumbered .unlisted}
-{{< fa envelope >}} <b>mudaliar.k@NEU</b><br>
-<p class="text-primary">M.Sc. Student in Data Science, Currently on Co-Op at Liberty Mutual</p>
-{{< fa graduation-cap >}}  B.Tech. in Computer Science, 2021 (Vellore Institute of Technology)
+### Isaiah Simpson  {.unnumbered .unlisted}
+{{< fa envelope >}} <b>simpson.i@NEU</b><br>
+<p class="text-primary">M.Sc. Student in Mechanical Engineering</p>
+{{< fa graduation-cap >}}  B.Sc. in Mechanical Engineering, 2019 (Wentworth Institute of Technology)
 
 ::: {.callout-note title="Bio" appearance="minimal" collapse=true}
-I grew up in Mumbai but I’ve also lived in 4 different cities in India. I did my bachelors in
-computer science from VIT university India, and I am now pursuing a masters degree in Data Science at
-Northeastern university.
+Isaiah Simpson is currently pursuing a MS in Mechanical Engineering at NEU, concentrating in Materials Science.
+He earned his BS in Mechanical Engineering at WIT in 2019. He has a passion for anatomical and mechanical design,
+which he intends to utilize to research and develop more advanced exoskeletons, bionic limbs, vehicles, and
+bioengineering apparatuses. He is highly proficient with 3D printing, designing, and prototyping, which he displays
+even in his hobbies. He also aspires to become a NASA Astronaut further down in engineering career.
+
 :::
 
 ::: {.callout-note title="Research Interests" appearance="minimal" collapse=true}
-I’m mainly studying applications of ML models in different disciplines, interpretability of machine learning models,
-machine unlearning and multimodal AI systems. I'm still trying to find my niche but I love working on all of the above fields.
+Exoskeletons, Materials Science, Thermodynamics, 3D Printing, Anatomy, Chemistry, Bioengineering, Mechanical Engineering, Electronics
 :::
 
 ::: {.callout-note title="Fun Facts" appearance="minimal" collapse=true}
-I speak 4 languages (English, Tamil, Hindi, Marathi) and am learning at 5th language (Spanish)
+- Black Belt in Taekwondo
+- Speaks Japanese
+- Plays Bass Guitar
+- Can Juggle
 :::
 
 :::
@@ -451,55 +512,6 @@ I have learned how to mountain bike and MIG weld but I am not good at either
 ::::
 
 
-:::: {.columns}
-
-::: {.column width="25%"}
-![](../images/group/nocr.jpg)
-```{=html}
-<center>
-<a class="btn btn-outline-primary btn-sm", href="https://github.com/craneno" target="_blank" rel="noopener noreferrer">
-    <i class="bi bi-github" role="img" aria-label="GitHub"></i>
-</a>
-<a class="btn btn-outline-primary btn-sm", href="https://www.linkedin.com/in/noah-crane/" target="_blank" rel="noopener noreferrer">
-    <i class="bi bi-linkedin" role="img" aria-label="LinkedIn"></i>
-</a>
-<a class="btn btn-outline-primary btn-sm", href="https://sites.google.com/view/noah-crane" target="_blank" rel="noopener noreferrer">
-    <i class="fa fa-globe" role="img" aria-label="Website"></i>
-</a>
-</center>
-```
-:::
-
-::: {.column width="5%"}
-<!-- empty column to create gap -->
-:::
-
-::: {.column width="70%"}
-### Noah Crane {.unnumbered .unlisted}
-{{< fa envelope >}} <b>crane.no@NEU</b><br>
-<p class="text-primary">B.Sc. Student in Mechanical Engineering</p>
-
-::: {.callout-note title="Bio" appearance="minimal" collapse=true}
-Born and raised in the California Silicon Valley, I have been surrounded with tech and engineering my whole life.
-I decided to pursue mechanical engineering, and after an amazing semester studying materials science, I reached out
-to seek a research opportunity in the field. I am very excited to join my first research position and work with
-such an inspiring group!
-
-:::
-
-::: {.callout-note title="Research Interests" appearance="minimal" collapse=true}
-Using AI/ML to model materials degradation, data-driven materials selection
-:::
-
-::: {.callout-note title="Fun Facts" appearance="minimal" collapse=true}
-I love to be active in my free time, whether lifting weights at the gym or rock climbing with my friends.
-:::
-
-:::
-
-::::
-
-
 ## Visiting Students/Scholars and Research Interns
 
 Please, reach out to me to discuss opportunities to work together. Open positions are listed [here](../join/)
@@ -554,7 +566,31 @@ Despite being 5’6, I’ve joined the rowing club at Northeastern, and I’m wo
 ## Alumni
 
 ```{=html}
-<b>Roye Wu</b> (Undergradute Research Intern, Spring 2024 - Summer 2024):
+<b>Jawad Ahmed</b> (Graduate Researcher, Fall 2023, Spring and Fall 2024):
+<a href="https://orcid.org/0000-0002-2232-2970" target="_blank" rel="noopener noreferrer", style="text-decoration:none">
+    <i class="ai ai-orcid" role="img" aria-label="ORCId"></i>
+</a>
+<a href="https://github.com/jawadAhmed232" target="_blank" rel="noopener noreferrer", style="text-decoration:none">
+    <i class="bi bi-github" role="img" aria-label="GitHub"></i>
+</a>
+<a href="https://www.linkedin.com/in/jawad-ahmed-b39a76a7/" target="_blank" rel="noopener noreferrer", style="text-decoration:none">
+    <i class="bi bi-linkedin" role="img" aria-label="LinkedIn"></i>
+</a>
+<br>
+
+<b>Noah Crane</b> (Undergraduate Researcher, Summer and Fall 2024):
+<a href="https://github.com/craneno" target="_blank" rel="noopener noreferrer", style="text-decoration:none">
+    <i class="bi bi-github" role="img" aria-label="GitHub"></i>
+</a>
+<a href="https://www.linkedin.com/in/noah-crane/" target="_blank" rel="noopener noreferrer", style="text-decoration:none">
+    <i class="bi bi-linkedin" role="img" aria-label="LinkedIn"></i>
+</a>
+<a href="https://sites.google.com/view/noah-crane" target="_blank" rel="noopener noreferrer", style="text-decoration:none">
+    <i class="fa fa-globe" role="img" aria-label="Website"></i>
+</a>
+<br>
+
+<b>Roye Wu</b> (Undergradute Research Intern, Spring and Summer 2024):
 <a href="https://www.linkedin.com/in/roye-wu-2378b9200/" target="_blank" rel="noopener noreferrer" style="text-decoration:none">
     <i class="bi bi-linkedin" role="img" aria-label="LinkedIn"></i>
 </a>
@@ -563,7 +599,7 @@ Despite being 5’6, I’ve joined the rowing club at Northeastern, and I’m wo
 </a>
 <br>
 
-<b>Bharath Raj Pragada</b> (Graduate Researcher, Fall 2023 - Summer 2024):
+<b>Bharath Raj Pragada</b> (Graduate Researcher, Fall 2023 and Spring 2024):
 <a href="https://www.linkedin.com/in/bharath-raj-pragada-0570401b6/" target="_blank" rel="noopener noreferrer" style="text-decoration:none">
     <i class="bi bi-linkedin" role="img" aria-label="LinkedIn"></i>
 </a>
@@ -572,7 +608,7 @@ Despite being 5’6, I’ve joined the rowing club at Northeastern, and I’m wo
 </a>
 <br>
 
-<b>Nita Chaudhari</b> (Graduate Researcher, Fall 2023 - Spring 2024):
+<b>Nita Chaudhari</b> (Graduate Researcher, Fall 2023):
 <a href="https://www.linkedin.com/in/nita-chaudhari/" target="_blank" rel="noopener noreferrer" style="text-decoration:none">
     <i class="bi bi-linkedin" role="img" aria-label="LinkedIn"></i>
 </a>
