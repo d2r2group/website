@@ -56,7 +56,8 @@ def button(url, label, icon):
 parser = bibtex.Parser()
 bib_data = parser.parse_file('biblio.bib')
 
-html_string = f'<ol class="rbracket" style="counter-reset: num {len(bib_data.entries)+1};list-style-type: none;">\n'
+html_string = f'<sup>&#10033;</sup> contributed equally, <sup><b>&#x25C7;</b></sup> corresponding author<br><br>' + \
+              f'<ol class="rbracket" style="counter-reset: num {len(bib_data.entries)+1};list-style-type: none;">\n'
 
 n = len(bib_data.entries)
 
@@ -64,10 +65,11 @@ for ind, e in enumerate(bib_data.entries):
     # Names
     names = [' '.join([b[0] + '.' for b in a.first_names]) + ' ' + ' '.join([c[0] + '.' for c in a.middle_names]) +
              ' ' + ' '.join(a.last_names) for a in bib_data.entries[e].persons['author']]
-    name_string = readable_list([n.replace('  ', ' ').replace('Â', '') for n in names]).replace('P. Schindler', '<em class="text-primary">P. Schindler</em>')
+    name_string = readable_list([n.replace('  ', ' ').replace('Â', '') for n in names]) \
+                   .replace('P. Schindler', '<em class="text-primary">P. Schindler</em>').replace("+", "<sup><b>&#x25C7;</b></sup>").replace("*", "<sup>&#10033;</sup>")
 
     # Title
-    title = bib_data.entries[e].fields['title'].replace('{', '').replace('}', '')
+    title = bib_data.entries[e].fields['title'].replace('{', '').replace('}', '').replace('O2', 'O<sub>2</sub>').replace('O3', 'O<sub>3</sub>')
 
     # Year
     year = bib_data.entries[e].fields['year']
