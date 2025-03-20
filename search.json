@@ -1,80 +1,24 @@
 [
   {
-    "objectID": "content/resources.html",
-    "href": "content/resources.html",
-    "title": "Resources and Links",
-    "section": "",
-    "text": "This page contains useful resources such as previous presentations and links."
-  },
-  {
-    "objectID": "content/resources.html#presentations",
-    "href": "content/resources.html#presentations",
-    "title": "Resources and Links",
-    "section": "Presentations",
-    "text": "Presentations\nProf. Peter gave a seminar at the Experiential AI (EAI) Institute at Northeastern University. Further information such as abstract, slides, and the recording is available here. Also, the recording is embedded below:"
-  },
-  {
-    "objectID": "content/resources.html#software-databases-and-models-from-our-group",
-    "href": "content/resources.html#software-databases-and-models-from-our-group",
-    "title": "Resources and Links",
-    "section": "Software, Databases, and Models from our Group",
-    "text": "Software, Databases, and Models from our Group\n\nWork function and cleavage energy database: \nML model to predict the work function of surfaces: \nMatFold Python package to generate cross-validation protocols for Materials Science data: GitHub Repository"
-  },
-  {
-    "objectID": "content/resources.html#useful-links",
-    "href": "content/resources.html#useful-links",
-    "title": "Resources and Links",
-    "section": "Useful Links",
-    "text": "Useful Links\n\nOur group’s GitHub page\nOur group’s knowledge base is maintained on Slite [only accessible to invited group members]\nNortheastern’s High-Performance Computing Cluster Discovery is hosted at the MGHPCC: website and wiki\nDepartment of Mechanical and Industrial Engineering: website and search for courses\nPackage to run Quantum Espresso (QE) with ASE (works with QE v7): ase-espresso\nCommonly used QE pseudo-potentials (PBE): link\nUseful Tutorials can be found on our website here\nWhere to ask questions about computational materials science: MatSci Community Discourse and Matter Modeling StackExchange\nOur favorite Python IDE is PyCharm Community Edition and we use Miniconda to manage Python environments"
-  },
-  {
-    "objectID": "content/teaching.html",
-    "href": "content/teaching.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "Those who know, do. Those that understand, teach.  — Aristotle\n\nTeaching is a key mission of every academic institution and I feel very passionately about sharing my expertise with the next generation of students and researchers. Sharing the diverse topics I learned as a researcher is a very fulfilling opportunity that enables me to give back to the academic community. My teaching style was inspired by the very passionate teachers I was fortunate to have had during my undergraduate years at the University of Vienna, during which I absorbed the fundamentals of Physics and Mathematics."
-  },
-  {
-    "objectID": "content/teaching.html#philosophy",
-    "href": "content/teaching.html#philosophy",
-    "title": "Teaching",
-    "section": "",
-    "text": "Those who know, do. Those that understand, teach.  — Aristotle\n\nTeaching is a key mission of every academic institution and I feel very passionately about sharing my expertise with the next generation of students and researchers. Sharing the diverse topics I learned as a researcher is a very fulfilling opportunity that enables me to give back to the academic community. My teaching style was inspired by the very passionate teachers I was fortunate to have had during my undergraduate years at the University of Vienna, during which I absorbed the fundamentals of Physics and Mathematics."
-  },
-  {
-    "objectID": "content/teaching.html#courses-at-northeastern-university",
-    "href": "content/teaching.html#courses-at-northeastern-university",
-    "title": "Teaching",
-    "section": "Courses at Northeastern University",
-    "text": "Courses at Northeastern University\n\n\n\n\n\n\n\nMATL 7355 – Thermodynamics of Materials Taught in Fall semesters 4 semester-hours\nFurther information: \n Course Website\n\n\n\n\n\n\n\n\n\nME 2340 – Introduction to Materials Science Taught in Fall and Spring semesters 4 semester-hours\nStudent Feedback: \n RateMyProfessors"
-  },
-  {
-    "objectID": "content/teaching.html#other-courses-and-tutorials",
-    "href": "content/teaching.html#other-courses-and-tutorials",
-    "title": "Teaching",
-    "section": "Other Courses and Tutorials",
-    "text": "Other Courses and Tutorials\n\n\n\n\n\n\n\nMaterials Informatics Originally taught as a demonstration lecture at Northeastern University. This interactive Python tutorial is designed to teach advanced materials and crystallography concepts using the pymatgen package in Python. It further lays out the basics of requesting materials data using the Materials Project API. Presentation slides/recording upon request.\n\n Tutorial\n\n\n\n\n\n\n\n\n\nDensity Functional Theory with ASE and GPAW Originally taught as a guest lecture at Stanford University in course ME420 Advanced Electrochemistry. I conceptualized and taught an interactive tutorial on how to use Density Functional Theory (DFT) facilitated by easy to follow Python code. The interactive, hands-on tutorial enables student to run basic DFT calculations without needing to install any software on their computer. Presentation slides upon request.\n\n Tutorial\n\n\n\n\n\n\n\n\n\n\n\nSymmetry of (Liquid) Crystals Originally taught as a demonstration lecture at TU Delft in course Structure and Properties of Materials. Included an interactive Python tutorial to effectively explain Monte Carlo simulations and how they can be used to study phase transformations in liquid crystals. Presentation slides upon request.\n\n Tutorial"
-  },
-  {
     "objectID": "content/papers.html",
     "href": "content/papers.html",
     "title": "Research Dissemination",
     "section": "",
-    "text": "Illustration of our research displayed on the frontispiece of Advanced Functional Materials, 2024, volume 34, issue 19\n\n\n\n\n \n\n\n\n\n\nOur research displayed on the supplementary cover of ACS Applied Materials and Interfaces, 2023, issue 15\n\n\n\n\n \n\n\n\n\n\nIllustration of our research displayed on the frontispiece of Advanced Materials, 2021, issue 44\n\n\n\n\n\n\n\n\n \n\n\n\n\n\nOur research displayed on the journal cover of ACS Energy Letters, 2019, issue 4\n\n\n\n\n \n\n\n\n\n\nIllustration of passivation-gas-incorporated ALD at the atomic scale. Nature Catalysis, 2018, issue 1"
+    "text": "Illustration of our research displayed on the front cover of Digital Discovery, 2025, volume 4, issue 3\n\n\n\n\n \n\n\n\n\n\nIllustration of our research displayed on the frontispiece of Advanced Functional Materials, 2024, volume 34, issue 19\n\n\n\n\n \n\n\n\n\n\nIllustration of our research displayed on the frontispiece of Advanced Materials, 2021, issue 44\n\n\n\n\n\n\n\n\n\n\n\nOur research displayed on the supplementary cover of ACS Applied Materials and Interfaces, 2023, issue 15\n\n\n\n\n \n\n\n\n\n\nOur research displayed on the journal cover of ACS Energy Letters, 2019, issue 4\n\n\n\n\n \n\n\n\n\n\nIllustration of passivation-gas-incorporated ALD at the atomic scale. Nature Catalysis, 2018, issue 1"
   },
   {
     "objectID": "content/papers.html#highlights",
     "href": "content/papers.html#highlights",
     "title": "Research Dissemination",
     "section": "",
-    "text": "Illustration of our research displayed on the frontispiece of Advanced Functional Materials, 2024, volume 34, issue 19\n\n\n\n\n \n\n\n\n\n\nOur research displayed on the supplementary cover of ACS Applied Materials and Interfaces, 2023, issue 15\n\n\n\n\n \n\n\n\n\n\nIllustration of our research displayed on the frontispiece of Advanced Materials, 2021, issue 44\n\n\n\n\n\n\n\n\n \n\n\n\n\n\nOur research displayed on the journal cover of ACS Energy Letters, 2019, issue 4\n\n\n\n\n \n\n\n\n\n\nIllustration of passivation-gas-incorporated ALD at the atomic scale. Nature Catalysis, 2018, issue 1"
+    "text": "Illustration of our research displayed on the front cover of Digital Discovery, 2025, volume 4, issue 3\n\n\n\n\n \n\n\n\n\n\nIllustration of our research displayed on the frontispiece of Advanced Functional Materials, 2024, volume 34, issue 19\n\n\n\n\n \n\n\n\n\n\nIllustration of our research displayed on the frontispiece of Advanced Materials, 2021, issue 44\n\n\n\n\n\n\n\n\n\n\n\nOur research displayed on the supplementary cover of ACS Applied Materials and Interfaces, 2023, issue 15\n\n\n\n\n \n\n\n\n\n\nOur research displayed on the journal cover of ACS Energy Letters, 2019, issue 4\n\n\n\n\n \n\n\n\n\n\nIllustration of passivation-gas-incorporated ALD at the atomic scale. Nature Catalysis, 2018, issue 1"
   },
   {
     "objectID": "content/papers.html#publications",
     "href": "content/papers.html#publications",
     "title": "Research Dissemination",
     "section": "Publications",
-    "text": "Publications\n\n\n\n✱ contributed equally, ◇ corresponding author\n\nMatFold: systematic insights into materials discovery models' performance through standardized cross-validation protocols\nDigit. Discov.  (2024) \nM. D. Witman and P. Schindler◇\n\n     Published  \n     Preprint  \n     GitHub \nDiscovery of Stable Surfaces with Extreme Work Functions by High-Throughput Density Functional Theory and Machine Learning\nAdv. Funct. Mater. 34, 19 (2024) 2401764\nP. Schindler◇, E. R. Antoniuk, G. Cheon, Y. Zhu, and E. J. Reed\n\n     Published  \n     Preprint  \n     GitHub \nRevealing Large Room-Temperature Nernst Coefficients in 2D Materials by First-Principles Modeling\nNanoscale 16, 12 (2024) 6142–6150\nS. E. Rezaei and P. Schindler◇\n\n     Published  \n     Preprint \nElectrolyte Coatings for High Adhesion Interfaces in Solid-State Batteries from First Principles\nACS Appl. Mater. Interfaces 15, 37 (2023) 44394-44403\nB. Ransom, A. Ramdas, E. Lomeli, J. Fidawi, A. Sendek, T. Devereaux, E. J. Reed, and P. Schindler◇\n\n     Published  \n     Preprint \nImproving intrinsic oxygen reduction activity and stability: Atomic layer deposition preparation of platinum-titanium alloy catalysts\nAppl. Catal., B 300 (2022) 120741\nY. Kim, S. Xu, J. Park, A. L. Dadlani, O. Vinogradova, D. Krishnamurthy, M. Orazov, D. U. Lee, S. Dull, P. Schindler, H. S. Han, Z. Wang, T. Graf, T. D. Schladt, J. E. Mueller, R. Sarangi, R. Davis, V. Viswanathan◇, T. F. Jaramillo◇, D. C. Higgins◇, and F. B. Prinz◇\n\n     Published \nNovel Ultrabright and Air-Stable Photocathodes Discovered from Machine Learning and Density Functional Theory Driven Screening\nAdv. Mater. 33, 44 (2021) 2104081\nE. R. Antoniuk◇, P. Schindler, W. A. Schroeder, B. Dunham, P. Pianetta, T. Vecchione, and E. J. Reed◇\n\n     Published \nDirect Integration of Strained-Pt Catalysts into Proton-Exchange-Membrane Fuel Cells with Atomic Layer Deposition\nAdv. Mater. 33, 30 (2021) 2007885\nS. Xu◇, Z. Wang, S. Dull, Y. Liu, D. U. Lee, J. S. L. Pacheco, M. Orazov, P. E. Vullum, A. L. Dadlani, O. Vinogradova, P. Schindler, Q. Tam, T. D. Schladt, J. E. Mueller, S. Kirsch, G. Huebner, D. Higgins, J. Torgersen, V. Viswanathan, T. F. Jaramillo, and F. B. Prinz◇\n\n     Published \nGeneralizable density functional theory based photoemission model for the accelerated development of photocathodes and other photoemissive devices\nPhys. Rev. B 101, 23 (2020) 235447\nE. R. Antoniuk, Y. Yue, Y. Zhou, P. Schindler, W. A. Schroeder, B. Dunham, P. Pianetta, T. Vecchione, and E. J. Reed\n\n     Published \nSurface Photovoltage-Induced Ultralow Work Function Material for Thermionic Energy Converters\nACS Energy Lett. 4, 10 (2019) 2436–2443\nP. Schindler◇, D. C. Riley, I. Bargatin, K. Sahasrabuddhe, J. W. Schwede, S. Sun, P. Pianetta, Z. Shen, R. T. Howe, and N. A. Melosh\n\n     Published \nElectrical Properties of Ultrathin Platinum Films by Plasma-Enhanced Atomic Layer Deposition\nACS Appl. Mater. Interfaces 11, 9 (2019) 9594–9599\nH. J. K. Kim◇, K. E. Kaplan, P. Schindler, S. Xu, M. M. Winterkorn, D. B. Heinz, T. S. English, J. Provine, F. B. Prinz, and T. W. Kenny\n\n     Published \nExtending the limits of Pt/C catalysts with passivation-gas-incorporated atomic layer deposition\nNat. Catal. 1 (2018) 624–630\nS. Xu, Y. Kim, J. Park, D. Higgins, S. Shen, P. Schindler, D. Thian, J. Provine, J. Torgersen, T. Graf, T. D. Schladt, M. Orazov, B. H. Liu, T. F. Jaramillo, and F. B. Prinz◇\n\n     Published \nSelf-limiting atomic layer deposition of barium oxide and barium titanate thin films using a novel pyrrole based precursor\nJ. Mater. Chem. C 4, 10 (2016) 1945–1952\nS. Acharya✱◇, J. Torgersen✱◇, Y. Kim, J. Park, P. Schindler, A. L. Dadlani, M. Winterkorn, S. Xu, S. P. Walch, T. Usui, C. Schildknecht, and F. B. Prinz\n\n     Published \nPlasma-enhanced atomic layer deposition of barium titanate with aluminum incorporation\nActa Mater. 117 (2016) 153–159\nY. Kim, P. Schindler, A. L. Dadlani, S. Acharya, J. Provine, J. An◇, and F. B. Prinz\n\n     Published \nPlasma-Enhanced Atomic Layer Deposition of SiN--AlN Composites for Ultra Low Wet Etch Rates in Hydrofluoric Acid\nACS Appl. Mater. Interfaces 8, 27 (2016) 17599–17605\nY. Kim, J. Provine◇, S. P. Walch, J. Park, W. Phuthong, A. L. Dadlani, H. Kim, P. Schindler, K. Kim, and F. B. Prinz\n\n     Published \nCorrelation of film density and wet etch rate in hydrofluoric acid of plasma enhanced atomic layer deposited silicon nitride\nAIP Adv. 6, 6 (2016) \nJ. Provine◇, P. Schindler, Y. Kim, S. P. Walch, H. J. Kim, K. Kim, and F. B. Prinz\n\n     Published \nAtomically Flat Silicon Oxide Monolayer Generated by Remote Plasma\nJ. Phys. Chem. C 120, 15 (2016) 8148–8156\nD. Thian, Y. T. Yemane, M. Logar, S. Xu, P. Schindler, M. M. Winterkorn, J. Provine, and F. B. Prinz◇\n\n     Published \nOscillatory barrier-assisted Langmuir--Blodgett deposition of large-scale quantum dot monolayers\nAppl. Surf. Sci. 367 (2016) 500–506\nS. Xu◇, A. L. Dadlani, S. Acharya, P. Schindler, and F. B. Prinz\n\n     Published \nAtomic layer deposition by reaction of molecular oxygen with tetrakisdimethylamido-metal precursors\nJ. Vac. Sci. Technol., A 34, 1 (2016) \nJ. Provine✱◇, P. Schindler✱, J. Torgersen, H. J. Kim, H. Karnthaler, and F. B. Prinz\n\n     Published \nPlasma-enhanced atomic layer deposition of BaTiO3\nScr. Mater. 111 (2016) 106–109\nP. Schindler, Y. Kim, D. Thian, J. An◇, and F. B. Prinz\n\n     Published \nExploring the local electronic structure and geometric arrangement of ALD Zn(O,S) buffer layers using X-ray absorption spectroscopy\nJ. Mater. Chem. C 3, 47 (2015) 12192–12198\nA. L. Dadlani✱, O. Trejo✱, S. Acharya✱, J. Torgersen, I. Petousis, D. Nordlund, R. Sarangi, P. Schindler, and F. B. Prinz◇\n\n     Published \nEnhanced Step Coverage of TiO2 Deposited on High Aspect Ratio Surfaces by Plasma-Enhanced Atomic Layer Deposition\nLangmuir 31, 18 (2015) 5057–5062\nP. Schindler, M. Logar, J. Provine, and F. B. Prinz◇\n\n     Published \nEnergy States of Ligand Capped Ag Nanoparticles: Relating Surface Plasmon Resonance to Work Function\nJ. Phys. Chem. C 118, 43 (2014) 24827–24832\nA. L. Dadlani, P. Schindler, M. Logar, S. P. Walch, and F. B. Prinz◇\n\n     Published"
+    "text": "Publications\n\n\n\n✱ contributed equally, ◇ corresponding author\n\nMatFold: systematic insights into materials discovery models' performance through standardized cross-validation protocols\nDigit. Discov. 4, 3 (2025) 625–635\nM. D. Witman and P. Schindler◇\n\n     Published  \n     Preprint  \n     GitHub \nDiscovery of Stable Surfaces with Extreme Work Functions by High-Throughput Density Functional Theory and Machine Learning\nAdv. Funct. Mater. 34, 19 (2024) 2401764\nP. Schindler◇, E. R. Antoniuk, G. Cheon, Y. Zhu, and E. J. Reed\n\n     Published  \n     Preprint  \n     GitHub \nRevealing Large Room-Temperature Nernst Coefficients in 2D Materials by First-Principles Modeling\nNanoscale 16, 12 (2024) 6142–6150\nS. E. Rezaei and P. Schindler◇\n\n     Published  \n     Preprint \nElectrolyte Coatings for High Adhesion Interfaces in Solid-State Batteries from First Principles\nACS Appl. Mater. Interfaces 15, 37 (2023) 44394-44403\nB. Ransom, A. Ramdas, E. Lomeli, J. Fidawi, A. Sendek, T. Devereaux, E. J. Reed, and P. Schindler◇\n\n     Published  \n     Preprint \nImproving intrinsic oxygen reduction activity and stability: Atomic layer deposition preparation of platinum-titanium alloy catalysts\nAppl. Catal., B 300 (2022) 120741\nY. Kim, S. Xu, J. Park, A. L. Dadlani, O. Vinogradova, D. Krishnamurthy, M. Orazov, D. U. Lee, S. Dull, P. Schindler, H. S. Han, Z. Wang, T. Graf, T. D. Schladt, J. E. Mueller, R. Sarangi, R. Davis, V. Viswanathan◇, T. F. Jaramillo◇, D. C. Higgins◇, and F. B. Prinz◇\n\n     Published \nNovel Ultrabright and Air-Stable Photocathodes Discovered from Machine Learning and Density Functional Theory Driven Screening\nAdv. Mater. 33, 44 (2021) 2104081\nE. R. Antoniuk◇, P. Schindler, W. A. Schroeder, B. Dunham, P. Pianetta, T. Vecchione, and E. J. Reed◇\n\n     Published \nDirect Integration of Strained-Pt Catalysts into Proton-Exchange-Membrane Fuel Cells with Atomic Layer Deposition\nAdv. Mater. 33, 30 (2021) 2007885\nS. Xu◇, Z. Wang, S. Dull, Y. Liu, D. U. Lee, J. S. L. Pacheco, M. Orazov, P. E. Vullum, A. L. Dadlani, O. Vinogradova, P. Schindler, Q. Tam, T. D. Schladt, J. E. Mueller, S. Kirsch, G. Huebner, D. Higgins, J. Torgersen, V. Viswanathan, T. F. Jaramillo, and F. B. Prinz◇\n\n     Published \nGeneralizable density functional theory based photoemission model for the accelerated development of photocathodes and other photoemissive devices\nPhys. Rev. B 101, 23 (2020) 235447\nE. R. Antoniuk, Y. Yue, Y. Zhou, P. Schindler, W. A. Schroeder, B. Dunham, P. Pianetta, T. Vecchione, and E. J. Reed\n\n     Published \nSurface Photovoltage-Induced Ultralow Work Function Material for Thermionic Energy Converters\nACS Energy Lett. 4, 10 (2019) 2436–2443\nP. Schindler◇, D. C. Riley, I. Bargatin, K. Sahasrabuddhe, J. W. Schwede, S. Sun, P. Pianetta, Z. Shen, R. T. Howe, and N. A. Melosh\n\n     Published \nElectrical Properties of Ultrathin Platinum Films by Plasma-Enhanced Atomic Layer Deposition\nACS Appl. Mater. Interfaces 11, 9 (2019) 9594–9599\nH. J. K. Kim◇, K. E. Kaplan, P. Schindler, S. Xu, M. M. Winterkorn, D. B. Heinz, T. S. English, J. Provine, F. B. Prinz, and T. W. Kenny\n\n     Published \nExtending the limits of Pt/C catalysts with passivation-gas-incorporated atomic layer deposition\nNat. Catal. 1 (2018) 624–630\nS. Xu, Y. Kim, J. Park, D. Higgins, S. Shen, P. Schindler, D. Thian, J. Provine, J. Torgersen, T. Graf, T. D. Schladt, M. Orazov, B. H. Liu, T. F. Jaramillo, and F. B. Prinz◇\n\n     Published \nSelf-limiting atomic layer deposition of barium oxide and barium titanate thin films using a novel pyrrole based precursor\nJ. Mater. Chem. C 4, 10 (2016) 1945–1952\nS. Acharya✱◇, J. Torgersen✱◇, Y. Kim, J. Park, P. Schindler, A. L. Dadlani, M. Winterkorn, S. Xu, S. P. Walch, T. Usui, C. Schildknecht, and F. B. Prinz\n\n     Published \nPlasma-enhanced atomic layer deposition of barium titanate with aluminum incorporation\nActa Mater. 117 (2016) 153–159\nY. Kim, P. Schindler, A. L. Dadlani, S. Acharya, J. Provine, J. An◇, and F. B. Prinz\n\n     Published \nPlasma-Enhanced Atomic Layer Deposition of SiN--AlN Composites for Ultra Low Wet Etch Rates in Hydrofluoric Acid\nACS Appl. Mater. Interfaces 8, 27 (2016) 17599–17605\nY. Kim, J. Provine◇, S. P. Walch, J. Park, W. Phuthong, A. L. Dadlani, H. Kim, P. Schindler, K. Kim, and F. B. Prinz\n\n     Published \nCorrelation of film density and wet etch rate in hydrofluoric acid of plasma enhanced atomic layer deposited silicon nitride\nAIP Adv. 6, 6 (2016) \nJ. Provine◇, P. Schindler, Y. Kim, S. P. Walch, H. J. Kim, K. Kim, and F. B. Prinz\n\n     Published \nAtomically Flat Silicon Oxide Monolayer Generated by Remote Plasma\nJ. Phys. Chem. C 120, 15 (2016) 8148–8156\nD. Thian, Y. T. Yemane, M. Logar, S. Xu, P. Schindler, M. M. Winterkorn, J. Provine, and F. B. Prinz◇\n\n     Published \nOscillatory barrier-assisted Langmuir--Blodgett deposition of large-scale quantum dot monolayers\nAppl. Surf. Sci. 367 (2016) 500–506\nS. Xu◇, A. L. Dadlani, S. Acharya, P. Schindler, and F. B. Prinz\n\n     Published \nAtomic layer deposition by reaction of molecular oxygen with tetrakisdimethylamido-metal precursors\nJ. Vac. Sci. Technol., A 34, 1 (2016) \nJ. Provine✱◇, P. Schindler✱, J. Torgersen, H. J. Kim, H. Karnthaler, and F. B. Prinz\n\n     Published \nPlasma-enhanced atomic layer deposition of BaTiO3\nScr. Mater. 111 (2016) 106–109\nP. Schindler, Y. Kim, D. Thian, J. An◇, and F. B. Prinz\n\n     Published \nExploring the local electronic structure and geometric arrangement of ALD Zn(O,S) buffer layers using X-ray absorption spectroscopy\nJ. Mater. Chem. C 3, 47 (2015) 12192–12198\nA. L. Dadlani✱, O. Trejo✱, S. Acharya✱, J. Torgersen, I. Petousis, D. Nordlund, R. Sarangi, P. Schindler, and F. B. Prinz◇\n\n     Published \nEnhanced Step Coverage of TiO2 Deposited on High Aspect Ratio Surfaces by Plasma-Enhanced Atomic Layer Deposition\nLangmuir 31, 18 (2015) 5057–5062\nP. Schindler, M. Logar, J. Provine, and F. B. Prinz◇\n\n     Published \nEnergy States of Ligand Capped Ag Nanoparticles: Relating Surface Plasmon Resonance to Work Function\nJ. Phys. Chem. C 118, 43 (2014) 24827–24832\nA. L. Dadlani, P. Schindler, M. Logar, S. P. Walch, and F. B. Prinz◇\n\n     Published"
   },
   {
     "objectID": "content/members.html",
@@ -140,27 +84,6 @@
     "text": "Alumni\nJawad Ahmed (Graduate Researcher, Fall 2023, Spring and Fall 2024):\n\n    \n\n\n    \n\n\n    \n\n\n\nNoah Crane (Undergraduate Researcher, Summer and Fall 2024):\n\n    \n\n\n    \n\n\n    \n\n\n\nRoye Wu (Undergradute Research Intern, Spring and Summer 2024):\n\n    \n\n\n    \n\n\n\nBharath Raj Pragada (Graduate Researcher, Fall 2023 and Spring 2024):\n\n    \n\n\n    \n\n\n\nNita Chaudhari (Graduate Researcher, Fall 2023):\n\n    \n\n\n    \n\n\n\nDr. S. Emad Rezaei (Postdoctoral Research Associate, through 2023):"
   },
   {
-    "objectID": "content/matl6290.html",
-    "href": "content/matl6290.html",
-    "title": "Interactive DFT Tutorial",
-    "section": "",
-    "text": "Both ASE and GPAW operate through Python. We will be using Google’s Colab service to make it easy to follow along. No need to install Python locally - you only need a browser. Our code will be running in a Jupyter notebook using Google’s resources.\nTo access a Python notebook just follow this link and then click on ‘File’ &gt; ‘Save a copy in Drive…’.\n\n\n\n\n\nOnce you have copied the notebook to your Google Drive you can edit, execute and work on it."
-  },
-  {
-    "objectID": "index.html#the-data-driven-renewables-research-group",
-    "href": "index.html#the-data-driven-renewables-research-group",
-    "title": "D2R2 Group",
-    "section": "The Data-Driven Renewables Research Group",
-    "text": "The Data-Driven Renewables Research Group\nThe Data-Driven Renewables Research (D2R2 - Disney, please don’t sue) Group led by Dr. Peter Schindler is seeking to discover novel materials for renewable energy applications using high-throughput quantum chemistry calculations and data-driven materials property predictions.\n\nCurrently, we have one opening for a Postdoctoral Research Associate. Details can be found here.\n\n\n\n\n\n\n\n\n  More Photos\n from our Groups' Social Gatherings, Conference Attendances, and Awards."
-  },
-  {
-    "objectID": "index.html#recent-news-and-events",
-    "href": "index.html#recent-news-and-events",
-    "title": "D2R2 Group",
-    "section": "Recent News and Events",
-    "text": "Recent News and Events\n\n\n\n\n\n\nDate\n\n\nNews\n\n\n\n\n\n\n2025-01-13\n\n\nIsaiah Simpsons has joined the D2R2 group working on a Master’s project focused on high-temperature materials selection and modeling. Welcome!\n\n\n\n\n2025-01-06\n\n\nMahdi Rafiee has joined the D2R2 group as a Ph.D. student. Excited to work on materials informatics research together! Welcome to the group!\n\n\n\n\n2025-01-01\n\n\nNoah has started his Co-Op at Specter Aerospace as a Propulsion Engineer. Big congratulations!\n\n\n\n\n2024-12-01\n\n\nArdavan and Prof. Peter presented their work at the MRS Fall Meeting in Boston.\n\n\n\n\n2024-10-30\n\n\nJawad was part of a team that won the Longevity, AI, & Cognitive Research Hackathon held at the MIT Media Lab. Congratulations!\n\n\n\n\n2024-10-07\n\n\nJordan Leung from the Oakland Campus has joined remotely as an undergraduate research intern and is co-supervised by Prof. Robin Walters. A warm virtual welcome!\n\n\n\n\n2024-09-16\n\n\nEmma Ortiz has joined the D2R2 group as a M.Sc. student to work on tranfser learning for eletronic materials property predictions. Welcome to the group!\n\n\n\n\n2024-09-02\n\n\nClaire Schlesinger has joined the D2R2 group as an undergraduate research assistant. She is working on equivariant graph neural networks for surface property prediction and is co-supervised by Prof. Robin Walters. Welcome, Claire!\n\n\n\n\n2024-08-01\n\n\nThanks to EAI Institute for Seed funding with Prof. Robin Walters to develop generative models for novel catalysts. \n\n\n\n\n2024-07-01\n\n\nThanks to Northeastern Research Development for Interdisciplinary TIER 1 Seed funding.\n\n\n\n\n2024-06-01\n\n\nJawad secured an internship for Summer 2024 at Apex Clean Energy! Big congratulations!\n\n\n\n\n2024-05-06\n\n\nNoah Crane has joined the D2R2 group as an undergraduate research student and will be working on using ML interatomic potentials to predict materials thermodynamic stability. Welcome!\n\n\n\n\n2024-05-01\n\n\nKaran secured Co-Ops for the Summer and Fall 2024 at CVS Health and Liberty Mutual! Big congratulations!\n\n\n\n\n2024-04-12\n\n\nBharath received the Student Employee Award in the category Technology and Innovation. Big congratulations! You have been a great addition to the D2R2 team!\n\n\n\n\n2024-03-05\n\n\nProf. Peter gave an invited talk at TMS 2024 titled Discovery of Surfaces with Extreme Work Functions and High Stability by Machine Learning and he chaired session III of the Computational Discovery and Design of Materials symposium.\n\n\n\n\n2024-02-28\n\n\nRoye Wu has joined the group as a visiting research intern. Looking forward to working with you!\n\n\n\n\n2023-12-11\n\n\nPeiyun Feng has joined the group as a co-advised Ph.D. student. Her primary advisor is Prof. Jung. Excited to work on the intersection of experiment and modeling with you!\n\n\n\n\n2023-12-01\n\n\nLuca Reichert has joined as a co-advised Ph.D. student - he is a Ph.D. student at Technical University of Munich working on ORR and PEM fuel-cells under Prof. Jan Torgersen.\n\n\n\n\n2023-11-30\n\n\nPostdoc Dr. S. Emad Rezaei has successfully obtained a position as a research scientist at the semiconductor company Onsemi. Congratulations and all the best for your future career!!\n\n\n\n\n2023-11-27\n\n\nProf. Peter is chairing the Monday afternoon session DS03.02: Machine Learning and Simulation II at MRS Fall 2023. Come join the talks and say hi!\n\n\n\n\n2023-11-01\n\n\nJawad Ahmed has joined the D2R2 group. He is a M.Sc. student in Energy Systems and a Fulbright Scholar and is going to work on graph-neural networks for materials proprety prediction. Excited to have you in the group!\n\n\n\n\n2023-11-01\n\n\nKaran Mudaliar has joined the team as a M.Sc. student in Data Science. He is going to work on deep learning of surface property predictions. Welcome!\n\n\n\n\n2023-09-13\n\n\nProf. Peter is giving a seminar presentation How AI is Revolutionizing the Discovery of Materials hosted by the Experiential AI Institute at Northeastern University. Watch the recording here.\n\n\n\n\n2023-09-01\n\n\nBharath Raj Pragada has joined the D2R2 group as a M.Sc. student to work on materials database management and API development. Welcome to the group - looking forward to working with you!\n\n\n\n\n2023-09-01\n\n\nNita Chaudhari has joined the D2R2 group as a M.Sc. student to work on deep learning research together. Very exciting - welcome to the group!\n\n\n\n\n2023-09-01\n\n\nArdavan Mehdizadeh has joined the D2R2 group as the first Ph.D. student. Thrilled about working on exciting computational research together! Welcome to the group!\n\n\n\n\n2023-02-17\n\n\nDr. Emad Rezaei joined the D2R2 Group as a postdoctoral researcher. He is a expert in first principles calculations for thermoelectric and thermomagnetic materials. Welcome, Dr. Emad - looking forward to working on exciting research together!\n\n\n\n\n2023-01-09\n\n\nProf. Peter is giving an invited talk at IIT Mumbai titled Data-driven Discovery of Materials for Energy Conversion\n\n\n\n\n2022-11-30\n\n\nCome catch Prof. Peter’s presentation at MRS Fall in Boston in session DS03.11: AI for Discovery. His talk is titled Data-Driven Discovery of Materials with Tuned Surface Properties for Thermionic Energy Conversion.\n\n\n\n\n2022-08-22\n\n\nDr. Peter Schindler joined Northeastern University (Department of Mechanical and Industrial Engineering) as an Assistant Professor.\n\n\n\n\n\n\nNo matching items"
-  },
-  {
     "objectID": "content/expectations.html",
     "href": "content/expectations.html",
     "title": "Group Philosophy, Expectations and Code of Conduct",
@@ -210,6 +133,111 @@
     "text": "My Specific Expectations of You as a…\n\nPost-doctoral Researcher/Scholar or Visiting Scholar\n\nYou are already an independent researcher 😄 Hence, we are working together similar to scientific collaborators. You have skills I don’t have and I have skills that you don’t have. I will still advise you on the general direction of our projects together and also help you plan for your next career steps.\nYou will be expected to advise graduate and undergraduate students in our group and help them getting up to speed with various computational topics.\nYou will have opportunities to support me during teaching (especially critical if you want to pursue an academic career).\nOverall I give you a lot of freedom in pursuing your research interests (especially if you have your own funding/scholarship). However, I do expect some contribution to the group’s code base and development of computational workflows that benefit the entire group’s research activities. If you are hired for a specific externally funded project, then you are of course in charge of it.\n\nPh.D. Student/Candidate\n\nThe Ph.D. is a marathon and I am here to support you along the way.\nI closely advise you on research and career development. In the beginning I will tell you what to focus on and in our discussions I will mostly know the answers to problems. As you progress during your Ph.D. my involvement as an advisor steadily decreases and by the end of it you will know the answers and I won’t. That evolution will be exciting to see unfold!\nResearch and fulfilling your course credits will be a full-time job. Typically, during the summer you can focus entirely on research.\nThe courses you pick ideally complement the research that you do for your thesis (while also covering all core materials science courses).\nI generally advise doing an internship towards the later stages of your PhD (end of 3rd year) and I will help you with the search. Ideally, that internship complements your research expertise (while enhancing it).\n\nMaster’s and Undergraduate Students\n\nThe project we work on together is usually clearly defined and the scope and effort per week for a certain duration is agreed upon in our initial meeting.\nA reasonable research project usually is a commitment of at least 10 hours/week for at least 1 semester. This is also the typical minimum to justify a recommendation letter (depending on your performance). Two semesters is typically better to finalize meaningful work and potentially publish the results.\nI advise the necessary steps during most of the project but I am happy to see self-guided initiative as well.\nI support you and provide you guidance on next career steps."
   },
   {
+    "objectID": "content/teaching.html",
+    "href": "content/teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Those who know, do. Those that understand, teach.  — Aristotle\n\nTeaching is a key mission of every academic institution and I feel very passionately about sharing my expertise with the next generation of students and researchers. Sharing the diverse topics I learned as a researcher is a very fulfilling opportunity that enables me to give back to the academic community. My teaching style was inspired by the very passionate teachers I was fortunate to have had during my undergraduate years at the University of Vienna, during which I absorbed the fundamentals of Physics and Mathematics."
+  },
+  {
+    "objectID": "content/teaching.html#philosophy",
+    "href": "content/teaching.html#philosophy",
+    "title": "Teaching",
+    "section": "",
+    "text": "Those who know, do. Those that understand, teach.  — Aristotle\n\nTeaching is a key mission of every academic institution and I feel very passionately about sharing my expertise with the next generation of students and researchers. Sharing the diverse topics I learned as a researcher is a very fulfilling opportunity that enables me to give back to the academic community. My teaching style was inspired by the very passionate teachers I was fortunate to have had during my undergraduate years at the University of Vienna, during which I absorbed the fundamentals of Physics and Mathematics."
+  },
+  {
+    "objectID": "content/teaching.html#courses-at-northeastern-university",
+    "href": "content/teaching.html#courses-at-northeastern-university",
+    "title": "Teaching",
+    "section": "Courses at Northeastern University",
+    "text": "Courses at Northeastern University\n\n\n\n\n\n\n\nMATL 7355 – Thermodynamics of Materials Taught in Fall semesters 4 semester-hours\nFurther information: \n Course Website\n\n\n\n\n\n\n\n\n\nME 2340 – Introduction to Materials Science Taught in Fall and Spring semesters 4 semester-hours\nStudent Feedback: \n RateMyProfessors"
+  },
+  {
+    "objectID": "content/teaching.html#other-courses-and-tutorials",
+    "href": "content/teaching.html#other-courses-and-tutorials",
+    "title": "Teaching",
+    "section": "Other Courses and Tutorials",
+    "text": "Other Courses and Tutorials\n\n\n\n\n\n\n\nMaterials Informatics Originally taught as a demonstration lecture at Northeastern University. This interactive Python tutorial is designed to teach advanced materials and crystallography concepts using the pymatgen package in Python. It further lays out the basics of requesting materials data using the Materials Project API. Presentation slides/recording upon request.\n\n Tutorial\n\n\n\n\n\n\n\n\n\nDensity Functional Theory with ASE and GPAW Originally taught as a guest lecture at Stanford University in course ME420 Advanced Electrochemistry. I conceptualized and taught an interactive tutorial on how to use Density Functional Theory (DFT) facilitated by easy to follow Python code. The interactive, hands-on tutorial enables student to run basic DFT calculations without needing to install any software on their computer. Presentation slides upon request.\n\n Tutorial\n\n\n\n\n\n\n\n\n\n\n\nSymmetry of (Liquid) Crystals Originally taught as a demonstration lecture at TU Delft in course Structure and Properties of Materials. Included an interactive Python tutorial to effectively explain Monte Carlo simulations and how they can be used to study phase transformations in liquid crystals. Presentation slides upon request.\n\n Tutorial"
+  },
+  {
+    "objectID": "content/resources.html",
+    "href": "content/resources.html",
+    "title": "Resources and Links",
+    "section": "",
+    "text": "This page contains useful resources such as previous presentations and links."
+  },
+  {
+    "objectID": "content/resources.html#presentations",
+    "href": "content/resources.html#presentations",
+    "title": "Resources and Links",
+    "section": "Presentations",
+    "text": "Presentations\nProf. Peter gave a seminar at the Experiential AI (EAI) Institute at Northeastern University. Further information such as abstract, slides, and the recording is available here. Also, the recording is embedded below:"
+  },
+  {
+    "objectID": "content/resources.html#software-databases-and-models-from-our-group",
+    "href": "content/resources.html#software-databases-and-models-from-our-group",
+    "title": "Resources and Links",
+    "section": "Software, Databases, and Models from our Group",
+    "text": "Software, Databases, and Models from our Group\n\nWork function and cleavage energy database: \nML model to predict the work function of surfaces: \nMatFold Python package to generate cross-validation protocols for Materials Science data: GitHub Repository"
+  },
+  {
+    "objectID": "content/resources.html#useful-links",
+    "href": "content/resources.html#useful-links",
+    "title": "Resources and Links",
+    "section": "Useful Links",
+    "text": "Useful Links\n\nOur group’s GitHub page\nOur group’s knowledge base is maintained on Slite [only accessible to invited group members]\nNortheastern’s High-Performance Computing Cluster Discovery is hosted at the MGHPCC: website and wiki\nDepartment of Mechanical and Industrial Engineering: website and search for courses\nPackage to run Quantum Espresso (QE) with ASE (works with QE v7): ase-espresso\nCommonly used QE pseudo-potentials (PBE): link\nUseful Tutorials can be found on our website here\nWhere to ask questions about computational materials science: MatSci Community Discourse and Matter Modeling StackExchange\nOur favorite Python IDE is PyCharm Community Edition and we use Miniconda to manage Python environments"
+  },
+  {
+    "objectID": "index.html#the-data-driven-renewables-research-group",
+    "href": "index.html#the-data-driven-renewables-research-group",
+    "title": "D2R2 Group",
+    "section": "The Data-Driven Renewables Research Group",
+    "text": "The Data-Driven Renewables Research Group\nThe Data-Driven Renewables Research (D2R2 - Disney, please don’t sue) Group led by Dr. Peter Schindler is seeking to discover novel materials for renewable energy applications using high-throughput quantum chemistry calculations and data-driven materials property predictions.\n\nCurrently, we have one opening for a Postdoctoral Research Associate. Details can be found here.\n\n\n\n\n\n\n\n\n  More Photos\n from our Groups' Social Gatherings, Conference Attendances, and Awards."
+  },
+  {
+    "objectID": "index.html#recent-news-and-events",
+    "href": "index.html#recent-news-and-events",
+    "title": "D2R2 Group",
+    "section": "Recent News and Events",
+    "text": "Recent News and Events\n\n\n\n\n\n\nDate\n\n\nNews\n\n\n\n\n\n\n2025-01-13\n\n\nIsaiah Simpsons has joined the D2R2 group working on a Master’s project focused on high-temperature materials selection and modeling. Welcome!\n\n\n\n\n2025-01-06\n\n\nMahdi Rafiee has joined the D2R2 group as a Ph.D. student. Excited to work on materials informatics research together! Welcome to the group!\n\n\n\n\n2025-01-01\n\n\nNoah has started his Co-Op at Specter Aerospace as a Propulsion Engineer. Big congratulations!\n\n\n\n\n2024-12-01\n\n\nArdavan and Prof. Peter presented their work at the MRS Fall Meeting in Boston.\n\n\n\n\n2024-10-30\n\n\nJawad was part of a team that won the Longevity, AI, & Cognitive Research Hackathon held at the MIT Media Lab. Congratulations!\n\n\n\n\n2024-10-07\n\n\nJordan Leung from the Oakland Campus has joined remotely as an undergraduate research intern and is co-supervised by Prof. Robin Walters. A warm virtual welcome!\n\n\n\n\n2024-09-16\n\n\nEmma Ortiz has joined the D2R2 group as a M.Sc. student to work on tranfser learning for eletronic materials property predictions. Welcome to the group!\n\n\n\n\n2024-09-02\n\n\nClaire Schlesinger has joined the D2R2 group as an undergraduate research assistant. She is working on equivariant graph neural networks for surface property prediction and is co-supervised by Prof. Robin Walters. Welcome, Claire!\n\n\n\n\n2024-08-01\n\n\nThanks to EAI Institute for Seed funding with Prof. Robin Walters to develop generative models for novel catalysts. \n\n\n\n\n2024-07-01\n\n\nThanks to Northeastern Research Development for Interdisciplinary TIER 1 Seed funding.\n\n\n\n\n2024-06-01\n\n\nJawad secured an internship for Summer 2024 at Apex Clean Energy! Big congratulations!\n\n\n\n\n2024-05-06\n\n\nNoah Crane has joined the D2R2 group as an undergraduate research student and will be working on using ML interatomic potentials to predict materials thermodynamic stability. Welcome!\n\n\n\n\n2024-05-01\n\n\nKaran secured Co-Ops for the Summer and Fall 2024 at CVS Health and Liberty Mutual! Big congratulations!\n\n\n\n\n2024-04-12\n\n\nBharath received the Student Employee Award in the category Technology and Innovation. Big congratulations! You have been a great addition to the D2R2 team!\n\n\n\n\n2024-03-05\n\n\nProf. Peter gave an invited talk at TMS 2024 titled Discovery of Surfaces with Extreme Work Functions and High Stability by Machine Learning and he chaired session III of the Computational Discovery and Design of Materials symposium.\n\n\n\n\n2024-02-28\n\n\nRoye Wu has joined the group as a visiting research intern. Looking forward to working with you!\n\n\n\n\n2023-12-11\n\n\nPeiyun Feng has joined the group as a co-advised Ph.D. student. Her primary advisor is Prof. Jung. Excited to work on the intersection of experiment and modeling with you!\n\n\n\n\n2023-12-01\n\n\nLuca Reichert has joined as a co-advised Ph.D. student - he is a Ph.D. student at Technical University of Munich working on ORR and PEM fuel-cells under Prof. Jan Torgersen.\n\n\n\n\n2023-11-30\n\n\nPostdoc Dr. S. Emad Rezaei has successfully obtained a position as a research scientist at the semiconductor company Onsemi. Congratulations and all the best for your future career!!\n\n\n\n\n2023-11-27\n\n\nProf. Peter is chairing the Monday afternoon session DS03.02: Machine Learning and Simulation II at MRS Fall 2023. Come join the talks and say hi!\n\n\n\n\n2023-11-01\n\n\nJawad Ahmed has joined the D2R2 group. He is a M.Sc. student in Energy Systems and a Fulbright Scholar and is going to work on graph-neural networks for materials proprety prediction. Excited to have you in the group!\n\n\n\n\n2023-11-01\n\n\nKaran Mudaliar has joined the team as a M.Sc. student in Data Science. He is going to work on deep learning of surface property predictions. Welcome!\n\n\n\n\n2023-09-13\n\n\nProf. Peter is giving a seminar presentation How AI is Revolutionizing the Discovery of Materials hosted by the Experiential AI Institute at Northeastern University. Watch the recording here.\n\n\n\n\n2023-09-01\n\n\nBharath Raj Pragada has joined the D2R2 group as a M.Sc. student to work on materials database management and API development. Welcome to the group - looking forward to working with you!\n\n\n\n\n2023-09-01\n\n\nNita Chaudhari has joined the D2R2 group as a M.Sc. student to work on deep learning research together. Very exciting - welcome to the group!\n\n\n\n\n2023-09-01\n\n\nArdavan Mehdizadeh has joined the D2R2 group as the first Ph.D. student. Thrilled about working on exciting computational research together! Welcome to the group!\n\n\n\n\n2023-02-17\n\n\nDr. Emad Rezaei joined the D2R2 Group as a postdoctoral researcher. He is a expert in first principles calculations for thermoelectric and thermomagnetic materials. Welcome, Dr. Emad - looking forward to working on exciting research together!\n\n\n\n\n2023-01-09\n\n\nProf. Peter is giving an invited talk at IIT Mumbai titled Data-driven Discovery of Materials for Energy Conversion\n\n\n\n\n2022-11-30\n\n\nCome catch Prof. Peter’s presentation at MRS Fall in Boston in session DS03.11: AI for Discovery. His talk is titled Data-Driven Discovery of Materials with Tuned Surface Properties for Thermionic Energy Conversion.\n\n\n\n\n2022-08-22\n\n\nDr. Peter Schindler joined Northeastern University (Department of Mechanical and Industrial Engineering) as an Assistant Professor.\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "content/fun.html",
+    "href": "content/fun.html",
+    "title": "Social Gatherings, Conferences, and Awards",
+    "section": "",
+    "text": "It’s not all about research and science - we also like to have other types of fun and will keep a record here of the social events we did together:\n\n\n\nThird group lunch on February 5th, 2025\n\n\n\n\n\nAt the end of Fall Semester 2024 we went bowling on December 12th, 2024\n\n\n\n\n\nEnd of Spring Semester indoor mini-golf at Puttshack on March 29th, 2024\n\n\n\n\n\nEnd of Fall Semester Escape Game at Boxaroo on December 14th, 2023 - we barely missed making it out on time…. :/\n\n\n\n\n\nSecond group lunch on November 8th, 2023\n\n\n\n\n\nFirst group lunch on September 20th, 2023"
+  },
+  {
+    "objectID": "content/fun.html#social-gatherings",
+    "href": "content/fun.html#social-gatherings",
+    "title": "Social Gatherings, Conferences, and Awards",
+    "section": "",
+    "text": "It’s not all about research and science - we also like to have other types of fun and will keep a record here of the social events we did together:\n\n\n\nThird group lunch on February 5th, 2025\n\n\n\n\n\nAt the end of Fall Semester 2024 we went bowling on December 12th, 2024\n\n\n\n\n\nEnd of Spring Semester indoor mini-golf at Puttshack on March 29th, 2024\n\n\n\n\n\nEnd of Fall Semester Escape Game at Boxaroo on December 14th, 2023 - we barely missed making it out on time…. :/\n\n\n\n\n\nSecond group lunch on November 8th, 2023\n\n\n\n\n\nFirst group lunch on September 20th, 2023"
+  },
+  {
+    "objectID": "content/fun.html#conference-attendances-and-awards-of-our-group-members",
+    "href": "content/fun.html#conference-attendances-and-awards-of-our-group-members",
+    "title": "Social Gatherings, Conferences, and Awards",
+    "section": "Conference Attendances and Awards of our Group Members",
+    "text": "Conference Attendances and Awards of our Group Members\n\n\n\nProf. Peter gave a talk about MatFold at the MRS Fall Meeting 2024 in Boston\n\n\n\n\n\nArdavan presented his poster at the MRS Fall Meeting 2024 in Boston\n\n\n\n\n\nBharath received the Student Employee Award in the category Technology and Innovation on April 12th, 2024. Big congratulations!\n\n\n\n\n\nProf. Peter was invited to give a talk at the TMS 2024 in Orlando"
+  },
+  {
+    "objectID": "content/fun.html#previous-group-photos",
+    "href": "content/fun.html#previous-group-photos",
+    "title": "Social Gatherings, Conferences, and Awards",
+    "section": "Previous Group Photos",
+    "text": "Previous Group Photos\n\n\n\nFirst Group Photo, Fall 2023"
+  },
+  {
+    "objectID": "content/matl6290.html",
+    "href": "content/matl6290.html",
+    "title": "Interactive DFT Tutorial",
+    "section": "",
+    "text": "Both ASE and GPAW operate through Python. We will be using Google’s Colab service to make it easy to follow along. No need to install Python locally - you only need a browser. Our code will be running in a Jupyter notebook using Google’s resources.\nTo access a Python notebook just follow this link and then click on ‘File’ &gt; ‘Save a copy in Drive…’.\n\n\n\n\n\nOnce you have copied the notebook to your Google Drive you can edit, execute and work on it."
+  },
+  {
     "objectID": "content/join.html",
     "href": "content/join.html",
     "title": "Open Positions",
@@ -243,34 +271,6 @@
     "title": "Open Positions",
     "section": "Visiting Researchers and Fellows",
     "text": "Visiting Researchers and Fellows\nVisiting researchers and researchers with a fellowship are always welcome to reach out to me to discuss the opportunity to work on a project together. International applicants: J1 visa processing typically takes 3-6 months. Further information can be found here."
-  },
-  {
-    "objectID": "content/fun.html",
-    "href": "content/fun.html",
-    "title": "Social Gatherings, Conferences, and Awards",
-    "section": "",
-    "text": "It’s not all about research and science - we also like to have other types of fun and will keep a record here of the social events we did together:\n\n\n\nThird group lunch on February 5th, 2025\n\n\n\n\n\nAt the end of Fall Semester 2024 we went bowling on December 12th, 2024\n\n\n\n\n\nEnd of Spring Semester indoor mini-golf at Puttshack on March 29th, 2024\n\n\n\n\n\nEnd of Fall Semester Escape Game at Boxaroo on December 14th, 2023 - we barely missed making it out on time…. :/\n\n\n\n\n\nSecond group lunch on November 8th, 2023\n\n\n\n\n\nFirst group lunch on September 20th, 2023"
-  },
-  {
-    "objectID": "content/fun.html#social-gatherings",
-    "href": "content/fun.html#social-gatherings",
-    "title": "Social Gatherings, Conferences, and Awards",
-    "section": "",
-    "text": "It’s not all about research and science - we also like to have other types of fun and will keep a record here of the social events we did together:\n\n\n\nThird group lunch on February 5th, 2025\n\n\n\n\n\nAt the end of Fall Semester 2024 we went bowling on December 12th, 2024\n\n\n\n\n\nEnd of Spring Semester indoor mini-golf at Puttshack on March 29th, 2024\n\n\n\n\n\nEnd of Fall Semester Escape Game at Boxaroo on December 14th, 2023 - we barely missed making it out on time…. :/\n\n\n\n\n\nSecond group lunch on November 8th, 2023\n\n\n\n\n\nFirst group lunch on September 20th, 2023"
-  },
-  {
-    "objectID": "content/fun.html#conference-attendances-and-awards-of-our-group-members",
-    "href": "content/fun.html#conference-attendances-and-awards-of-our-group-members",
-    "title": "Social Gatherings, Conferences, and Awards",
-    "section": "Conference Attendances and Awards of our Group Members",
-    "text": "Conference Attendances and Awards of our Group Members\n\n\n\nProf. Peter gave a talk about MatFold at the MRS Fall Meeting 2024 in Boston\n\n\n\n\n\nArdavan presented his poster at the MRS Fall Meeting 2024 in Boston\n\n\n\n\n\nBharath received the Student Employee Award in the category Technology and Innovation on April 12th, 2024. Big congratulations!\n\n\n\n\n\nProf. Peter was invited to give a talk at the TMS 2024 in Orlando"
-  },
-  {
-    "objectID": "content/fun.html#previous-group-photos",
-    "href": "content/fun.html#previous-group-photos",
-    "title": "Social Gatherings, Conferences, and Awards",
-    "section": "Previous Group Photos",
-    "text": "Previous Group Photos\n\n\n\nFirst Group Photo, Fall 2023"
   },
   {
     "objectID": "content/research.html",
