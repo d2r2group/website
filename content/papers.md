@@ -16,14 +16,16 @@ aliases:
 ## Highlights
 
 ::: {layout="[[32.0,-2.0,32.0,-2.0,32.0]]"}
-![Illustration of our research displayed on the frontispiece of Advanced Functional Materials, 2024, volume 34, issue 19](../images/frontispiece_advfuncmat.jpg)
+![Illustration of our research displayed on the front cover of Digital Discovery, 2025, volume 4, issue 3](../images/front_cover_digital_discovery.jpg)
 
-![Our research displayed on the supplementary cover of ACS Applied Materials and Interfaces, 2023, issue 15](../images/aami_suppl_cover.jpg)
+![Illustration of our research displayed on the frontispiece of Advanced Functional Materials, 2024, volume 34, issue 19](../images/frontispiece_advfuncmat.jpg)
 
 ![Illustration of our research displayed on the frontispiece of Advanced Materials, 2021, issue 44](../images/frontispiece_advmat.jpg)
 :::
 
-::: {layout="[[-17.0,32.0,-2.0,32.0,-17.0]]"}
+::: {layout="[[32.0,-2.0,32.0,-2.0,32.0]]"}
+![Our research displayed on the supplementary cover of ACS Applied Materials and Interfaces, 2023, issue 15](../images/aami_suppl_cover.jpg)
+
 ![Our research displayed on the journal cover of ACS Energy Letters, 2019, issue 4](../images/cover_ACS_EL.jpg)
 
 ![Illustration of passivation-gas-incorporated ALD at the atomic scale. Nature Catalysis, 2018, issue 1](../images/naturecat.png)
@@ -39,7 +41,7 @@ aliases:
 <sup>&#10033;</sup> contributed equally, <sup><b>&#x25C7;</b></sup> corresponding author<br><br><ol class="rbracket" style="counter-reset: num 23;list-style-type: none;">
 <li value='22'>
 <i>MatFold: systematic insights into materials discovery models' performance through standardized cross-validation protocols</i><br>
-<b>Digit. Discov.  (2024)</b> <br>
+<b>Digit. Discov. 4, 3 (2025)</b> 625–635<br>
 <small>M. D. Witman and <em class="text-primary">P. Schindler</em><sup><b>&#x25C7;</b></sup></small><br>
 <a class="btn btn-outline-primary btn-sm", href="https://doi.org/10.1039/D4DD00250D" target="_blank" rel="noopener noreferrer">
     <i class="ai ai-archive" role='img' aria-label='Published'></i> Published </a> <a class="btn btn-outline-primary btn-sm", href="https://doi.org/10.26434/chemrxiv-2024-bmw1n" target="_blank" rel="noopener noreferrer">

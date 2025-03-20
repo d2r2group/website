@@ -18,14 +18,16 @@ aliases:
 ## Highlights
 
 ::: {layout="[[32.0,-2.0,32.0,-2.0,32.0]]"}
-![Illustration of our research displayed on the frontispiece of Advanced Functional Materials, 2024, volume 34, issue 19](../images/frontispiece_advfuncmat.jpg)
+![Illustration of our research displayed on the front cover of Digital Discovery, 2025, volume 4, issue 3](../images/front_cover_digital_discovery.jpg)
 
-![Our research displayed on the supplementary cover of ACS Applied Materials and Interfaces, 2023, issue 15](../images/aami_suppl_cover.jpg)
+![Illustration of our research displayed on the frontispiece of Advanced Functional Materials, 2024, volume 34, issue 19](../images/frontispiece_advfuncmat.jpg)
 
 ![Illustration of our research displayed on the frontispiece of Advanced Materials, 2021, issue 44](../images/frontispiece_advmat.jpg)
 :::
 
-::: {layout="[[-17.0,32.0,-2.0,32.0,-17.0]]"}
+::: {layout="[[32.0,-2.0,32.0,-2.0,32.0]]"}
+![Our research displayed on the supplementary cover of ACS Applied Materials and Interfaces, 2023, issue 15](../images/aami_suppl_cover.jpg)
+
 ![Our research displayed on the journal cover of ACS Energy Letters, 2019, issue 4](../images/cover_ACS_EL.jpg)
 
 ![Illustration of passivation-gas-incorporated ALD at the atomic scale. Nature Catalysis, 2018, issue 1](../images/naturecat.png)
