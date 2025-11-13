@@ -13,6 +13,8 @@ aliases:
 It's not all about research and science - we also like to have other types of fun and will keep a record here of the
 social events we did together:
 
+![Board game evening (Emma and Isaiah were there too but left before the photo was taken) on April 22nd, 2025](../images/group/social/20250422_BoardGames.jpg){width=80% fig-align="center"}
+
 ![Third group lunch on February 5th, 2025](../images/group/social/20250205_Group_Lunch.jpg){width=80% fig-align="center"}
 
 ![At the end of Fall Semester 2024 we went bowling on December 12th, 2024](../images/group/social/20241212_Bowling.jpg){width=80% fig-align="center"}
@@ -28,6 +30,10 @@ social events we did together:
 
 ## Conference Attendances and Awards of our Group Members
 
+![Claire getting honored at the AS Academic Honors Convocation 2025 for her NSF GRFP](../images/group/social/2025_04_16_AS_Academic_Honors_Convocation.jpg){width=80% fig-align="center"}
+
+![Circe (left) and Claire (right) presenting a poster at RISE 2025 in Boston](../images/group/social/2025_04_11_RISE.jpg){width=80% fig-align="center"}
+
 ![Prof. Peter gave a talk about MatFold at the MRS Fall Meeting 2024 in Boston](../images/group/social/20241212_MRS_Peter.jpg){width=80% fig-align="center"}
 
 ![Ardavan presented his poster at the MRS Fall Meeting 2024 in Boston](../images/group/social/20241204_MRS_Ardavan.jpg){width=80% fig-align="center"}
@@ -36,7 +42,18 @@ social events we did together:
 
 ![Prof. Peter was invited to give a talk at the TMS 2024 in Orlando](../images/group/social/20240304_TMS_Peter.jpg){width=80% fig-align="center"}
 
+## Graduation
+
+Embbeded video of Isaiah's graduation speech.
+
+![Karan graduated with a Master of Science in Data Science, Summer 2025](../images/group/social/2025_Karan_Graduation.jpg){width=80% fig-align="center"}
+
+![Bharath graduated with a Master of Science in Data Analytics Engineering, Summer 2025](../images/group/social/2025_Bharath_Graduation.jpg){width=80% fig-align="center"}
+
+
 ## Previous Group Photos
+
+![Second Group Photo, Fall 2024](../images/group/social/group_photo_fall2024.jpg){width=80% fig-align="center"}
 
 ![First Group Photo, Fall 2023](../images/group/social/group_photo_fall2023.jpg){width=80% fig-align="center"}
 

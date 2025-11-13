@@ -11,15 +11,10 @@ aliases:
 
 These are the current (fully funded) positions at the D2R2 group at Northeastern University:
 
-- 1 Postdoctoral Research Associate (2025) -- Apply [here](https://northeastern.wd1.myworkdayjobs.com/careers/job/Boston-MA-Main-Campus/Postdoctoral-Research-Associate_R132430)
+- ~~1 Postdoctoral Research Associate (2025)~~ [filled]
 - ~~1 Graduate Research Assistant (Fall 2024)~~ [filled]
 - ~~1 Graduate Research Assistant (Fall 2023)~~ [filled]
 - ~~1 Postdoctoral Researcher (Spring 2023)~~ [filled]
-
-Details for the **postdoctoral research associate** position in our group are described in the flyer below.<br>
-If this sounds interesting to you, please apply [here](https://northeastern.wd1.myworkdayjobs.com/careers/job/Boston-MA-Main-Campus/Postdoctoral-Research-Associate_R132430) and email me your CV.
-
-{{< pdf ../images/group/D2R2group_Postdoc_Position_Fall2023.pdf width=80% height=800 >}}
 
 Regardless of open positions, feel free to reach out to me to discuss potential future opportunities.<br>
 
@@ -43,7 +38,7 @@ Undergraduate students from Northeastern University interested in computational 
 informatics/machine learning are always welcome to contact me and we can establish undergraduate research projects
 or Master's thesis under my supervision.<br>
 **Funding opportunities may be available (email me).** Minimum time commitment: 10 hours/week for ~6 months.<br>
-A great way to fund an undergraduate research project in my group are the [PEAK Awards](https://undergraduate.northeastern.edu/research/awards/peak-awards-overview/).
+A great way to fund an undergraduate research project in my group are the [PEAK Awards](https://undergraduate.northeastern.edu/research/awards/peak-fellowships-overview/).
 
 ## Co-Ops and Internships
 

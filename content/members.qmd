@@ -78,7 +78,63 @@ He does however dance Bachata and Kizomba and knows how to play the drums. He is
 
 ## Postdoctoral Researchers
 
-Currently hiring: See [here](../join/).
+:::: {.columns}
+
+::: {.column width="25%"}
+![](../images/group/ser.jpg)
+```{=html}
+<center>
+<a class="btn btn-outline-primary btn-sm", href="https://scholar.google.com/citations?user=oTOap-kAAAAJ" target="_blank" rel="noopener noreferrer">
+    <i class="ai ai-google-scholar" role="img" aria-label="Google Scholar"></i>
+</a>
+<a class="btn btn-outline-primary btn-sm", href="https://www.researchgate.net/profile/Emad-Rezaei" target="_blank" rel="noopener noreferrer">
+    <i class="ai ai-researchgate" role="img" aria-label="ResearchGate"></i>
+</a>
+<a class="btn btn-outline-primary btn-sm", href="https://github.com/Emad-Rezaei" target="_blank" rel="noopener noreferrer">
+    <i class="bi bi-github" role="img" aria-label="GitHub"></i>
+</a>
+<a class="btn btn-outline-primary btn-sm", href="https://www.linkedin.com/in/emad-rezaei-4a9882273/" target="_blank" rel="noopener noreferrer">
+    <i class="bi bi-linkedin" role="img" aria-label="LinkedIn"></i>
+</a>
+<br>
+<b>s.rezaei@NEU</b>
+</center>
+```
+:::
+
+::: {.column width="5%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="70%"}
+### Dr. S. Emad Rezaei {.unnumbered .unlisted}
+<p class="text-primary">Postdoctoral Research Associate at Northeastern University, MIE</p>
+{{< fa graduation-cap >}} Ph.D. in Electrical Engineering, 2022 (University of Virginia)<br>
+{{< fa graduation-cap >}} M.Sc. in Mechanical and Materials Engineering, 2018 (Wright State University)<br>
+{{< fa graduation-cap >}} B.Sc. in Materials Science and Engineering, 2015 (Sharif University of Technology)
+
+::: {.callout-note title="Bio" appearance="minimal" collapse=true}
+Dr. Emad Rezaei is a Postdoctoral Research Associate in the D2R2 group, where he focuses 
+on discovering materials with exotic properties and modeling their performance for energy 
+and electronic applications. Prior to joining the D2R2 group, he worked as a Research 
+Engineer at Onsemi, studying charge transport in electronic devices, analyzing data, 
+and optimizing device performance. He earned his Ph.D. in Electrical Engineering from 
+the University of Virginia, where his research examined transport phenomena under 
+magnetic fields and temperature gradients using first-principles calculations.
+:::
+
+::: {.callout-note title="Research Interests" appearance="minimal" collapse=true}
+Computational Materials Science, Charge Transport, Materials Informatics
+:::
+
+::: {.callout-note title="Fun Facts" appearance="minimal" collapse=true}
+I hand-fed and raised a green cheek conure, cared for him and taught him to speak a 
+few words as well as how to step up and wave.
+:::
+
+:::
+
+::::
 
 ## Ph.D. Students
 
@@ -241,6 +297,61 @@ Peiyun has two ragdoll cats named Cinnamon and Azam!
 
 ::::
 
+
+:::: {.columns}
+
+::: {.column width="25%"}
+![](../images/group/cs.jpg)
+```{=html}
+<center>
+<a class="btn btn-outline-primary btn-sm", href="https://github.com/esslushy" target="_blank" rel="noopener noreferrer">
+    <i class="bi bi-github" role="img" aria-label="GitHub"></i>
+</a>
+<a class="btn btn-outline-primary btn-sm", href="https://www.linkedin.com/in/claire-schlesinger/" target="_blank" rel="noopener noreferrer">
+    <i class="bi bi-linkedin" role="img" aria-label="LinkedIn"></i>
+</a>
+<a class="btn btn-outline-primary btn-sm", href="https://scholar.google.com/citations?user=W-XyPHkAAAAJ" target="_blank" rel="noopener noreferrer">
+    <i class="ai ai-google-scholar" role="img" aria-label="Google Scholar"></i>
+</a>
+<a class="btn btn-outline-primary btn-sm", href="https://sites.google.com/view/claire-schlesinger" target="_blank" rel="noopener noreferrer">
+    <i class="fa fa-globe" role="img" aria-label="Website"></i>
+</a>
+</center>
+```
+:::
+
+::: {.column width="5%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="70%"}
+### Claire Schlesinger {.unnumbered .unlisted}
+{{< fa envelope >}} <b>schlesinger.e@NEU</b><br>
+<p class="text-primary">Ph.D. Student in Computer Science (Khoury College); NSF GRFP Awardee</p>
+{{< fa graduation-cap >}} B.Sc. in Computer Science (Northeastern University)
+
+::: {.callout-note title="Bio" appearance="minimal" collapse=true}
+Hi, I am Claire Schlesinger, a first year Ph.D. student in computer science at Northeastern University 
+where I also received my B.Sc. degree. I received the NSF GRFP and I primarily do research in applied machine learning - specifically 
+generative AI. I am interested in the intersection of machine learning and physics 
+especially how it relates to condensed matter and materials science. In my free time 
+I enjoy baking bread and trying new recipes.
+
+:::
+
+::: {.callout-note title="Research Interests" appearance="minimal" collapse=true}
+Applied machine learning, Generative AI, Condensed matter physics, materials science
+:::
+
+::: {.callout-note title="Fun Facts" appearance="minimal" collapse=true}
+I have learned how to mountain bike and MIG weld but I am not good at either
+:::
+
+:::
+
+::::
+
+
 :::: {.columns}
 
 ::: {.column width="25%"}
@@ -301,56 +412,7 @@ I will let my hair grow over my PhD. Prior to the Defense, I will cut them off t
 ::::
 
 
-## Masters Students
-
-:::: {.columns}
-
-::: {.column width="25%"}
-![](../images/group/km.jpg)
-```{=html}
-<center>
-<a class="btn btn-outline-primary btn-sm", href="https://karan-mudaliar.github.io/portfolio/" target="_blank" rel="noopener noreferrer">
-    <i class="fa fa-globe" role="img" aria-label="Website"></i>
-</a>
-<a class="btn btn-outline-primary btn-sm", href="https://github.com/karan-mudaliar" target="_blank" rel="noopener noreferrer">
-    <i class="bi bi-github" role="img" aria-label="GitHub"></i>
-</a>
-<a class="btn btn-outline-primary btn-sm", href="https://www.linkedin.com/in/karan-mudaliar1999" target="_blank" rel="noopener noreferrer">
-    <i class="bi bi-linkedin" role="img" aria-label="LinkedIn"></i>
-</a>
-</center>
-```
-:::
-
-::: {.column width="5%"}
-<!-- empty column to create gap -->
-:::
-
-::: {.column width="70%"}
-### Karan Mudaliar {.unnumbered .unlisted}
-{{< fa envelope >}} <b>mudaliar.k@NEU</b><br>
-<p class="text-primary">M.Sc. Student in Data Science, Currently on Co-Op at Liberty Mutual</p>
-{{< fa graduation-cap >}}  B.Tech. in Computer Science, 2021 (Vellore Institute of Technology)
-
-::: {.callout-note title="Bio" appearance="minimal" collapse=true}
-I grew up in Mumbai but I’ve also lived in 4 different cities in India. I did my bachelors in
-computer science from VIT university India, and I am now pursuing a masters degree in Data Science at
-Northeastern university.
-:::
-
-::: {.callout-note title="Research Interests" appearance="minimal" collapse=true}
-I’m mainly studying applications of ML models in different disciplines, interpretability of machine learning models,
-machine unlearning and multimodal AI systems. I'm still trying to find my niche but I love working on all of the above fields.
-:::
-
-::: {.callout-note title="Fun Facts" appearance="minimal" collapse=true}
-I speak 4 languages (English, Tamil, Hindi, Marathi) and am learning at 5th language (Spanish)
-:::
-
-:::
-
-::::
-
+## Master's Students
 
 :::: {.columns}
 
@@ -400,61 +462,6 @@ I can juggle and I ran a marathon this past Spring!
 
 ::::
 
-
-:::: {.columns}
-
-::: {.column width="25%"}
-![](../images/group/is.jpg)
-```{=html}
-<center>
-<a class="btn btn-outline-primary btn-sm", href="https://www.lostarmory.com" target="_blank" rel="noopener noreferrer">
-    <i class="fa fa-globe" role="img" aria-label="Website"></i>
-</a>
-<a class="btn btn-outline-primary btn-sm", href="https://www.linkedin.com/in/isaiah-simpson/" target="_blank" rel="noopener noreferrer">
-    <i class="bi bi-linkedin" role="img" aria-label="LinkedIn"></i>
-</a>
-<a class="btn btn-outline-primary btn-sm", href="https://www.instagram.com/son_of_simp/" target="_blank" rel="noopener noreferrer">
-    <i class="bi bi-instagram" role="img" aria-label="LinkedIn"></i>
-</a>
-</center>
-```
-:::
-
-::: {.column width="5%"}
-<!-- empty column to create gap -->
-:::
-
-::: {.column width="70%"}
-### Isaiah Simpson  {.unnumbered .unlisted}
-{{< fa envelope >}} <b>simpson.i@NEU</b><br>
-<p class="text-primary">M.Sc. Student in Mechanical Engineering</p>
-{{< fa graduation-cap >}}  B.Sc. in Mechanical Engineering, 2019 (Wentworth Institute of Technology)
-
-::: {.callout-note title="Bio" appearance="minimal" collapse=true}
-Isaiah Simpson is currently pursuing a MS in Mechanical Engineering at NEU, concentrating in Materials Science.
-He earned his BS in Mechanical Engineering at WIT in 2019. He has a passion for anatomical and mechanical design,
-which he intends to utilize to research and develop more advanced exoskeletons, bionic limbs, vehicles, and
-bioengineering apparatuses. He is highly proficient with 3D printing, designing, and prototyping, which he displays
-even in his hobbies. He also aspires to become a NASA Astronaut further down in engineering career.
-
-:::
-
-::: {.callout-note title="Research Interests" appearance="minimal" collapse=true}
-Exoskeletons, Materials Science, Thermodynamics, 3D Printing, Anatomy, Chemistry, Bioengineering, Mechanical Engineering, Electronics
-:::
-
-::: {.callout-note title="Fun Facts" appearance="minimal" collapse=true}
-- Black Belt in Taekwondo
-- Speaks Japanese
-- Plays Bass Guitar
-- Can Juggle
-:::
-
-:::
-
-::::
-
-
 ## Undergraduate Students
 
 Please, reach out to me to discuss opportunities to work together. Open positions are listed [here](../join/)
@@ -463,20 +470,14 @@ and what to expect when joining the group is discussed [here](../expectations/).
 :::: {.columns}
 
 ::: {.column width="25%"}
-![](../images/group/cs.jpg)
+![](../images/group/sl.jpg)
 ```{=html}
 <center>
-<a class="btn btn-outline-primary btn-sm", href="https://github.com/esslushy" target="_blank" rel="noopener noreferrer">
-    <i class="bi bi-github" role="img" aria-label="GitHub"></i>
+<a class="btn btn-outline-primary btn-sm", href="https://github.com/lacroix-sa" target="_blank" rel="noopener noreferrer">
+    <i class="bi bi-github" role="img" aria-label="LinkedIn"></i>
 </a>
-<a class="btn btn-outline-primary btn-sm", href="https://www.linkedin.com/in/claire-schlesinger/" target="_blank" rel="noopener noreferrer">
+<a class="btn btn-outline-primary btn-sm", href="https://www.linkedin.com/in/sarah-lacroix/" target="_blank" rel="noopener noreferrer">
     <i class="bi bi-linkedin" role="img" aria-label="LinkedIn"></i>
-</a>
-<a class="btn btn-outline-primary btn-sm", href="https://scholar.google.com/citations?user=W-XyPHkAAAAJ" target="_blank" rel="noopener noreferrer">
-    <i class="ai ai-google-scholar" role="img" aria-label="Google Scholar"></i>
-</a>
-<a class="btn btn-outline-primary btn-sm", href="https://sites.google.com/view/claire-schlesinger" target="_blank" rel="noopener noreferrer">
-    <i class="fa fa-globe" role="img" aria-label="Website"></i>
 </a>
 </center>
 ```
@@ -487,24 +488,30 @@ and what to expect when joining the group is discussed [here](../expectations/).
 :::
 
 ::: {.column width="70%"}
-### Claire Schlesinger {.unnumbered .unlisted}
-{{< fa envelope >}} <b>schlesinger.e@NEU</b><br>
-<p class="text-primary">B.Sc. Student in Computer Science</p>
+###  Sarah LaCroix {.unnumbered .unlisted}
+<p class="text-primary">B.Sc. Student in Chemical Engineering and Computer Science; AJC Merit Scholar</p>
 
 ::: {.callout-note title="Bio" appearance="minimal" collapse=true}
-Hi, I am Claire Schlesinger, a fourth year undergraduate in computer science at Northeastern university. I primarily
-do research in applied machine learning - specifically generative AI. I am interested in the intersection of machine
-learning and physics especially how it relates to condensed matter and materials science. In my free time I enjoy
-baking bread and trying new recipes.
+Sarah LaCroix is an undergraduate researcher with a growing focus on computational 
+materials science. She began her research journey with the Qing Zhao Group studying 
+hydrogen generation via ammonia decomposition on single atom alloy surfaces using 
+density functional theory (DFT) with VASP. Funded by the AJC Merit Research Scholarship, 
+Sarah is joining the D2R2 group to expand her knowledge and capabilities into the realm 
+of machine learning for materials property discovery. She is excited to leverage this 
+opportunity to form a stronger foundation in computer science, machine learning, and 
+computational tools. In the future, she sees herself pursuing a research career in a 
+national lab or independent R&D setting.
 
 :::
 
 ::: {.callout-note title="Research Interests" appearance="minimal" collapse=true}
-Applied machine learning, Generative AI, Condensed matter physics, materials science
+Materials informatics, machine learning, structure-property relationships in materials, sustainability and renewable energy, DFT, heterogeneous catalysis.
 :::
 
 ::: {.callout-note title="Fun Facts" appearance="minimal" collapse=true}
-I have learned how to mountain bike and MIG weld but I am not good at either
+- Sarah has four dogs whom she loves dearly including two hound brothers named Smokey and Hippo and two pitbull mixes named Chaos and Mayhem.
+- In high school, Sarah was a massive band nerd, playing trumpet all four years in marching band, concert band, jazz band, and beyond. She even learned how to play the cymbals solely to participate in the Indoor Percussion group during the marching band off-season.
+- In recent years, Sarah has become an avid WNBA fan. Some of her favorite players are Leonie Fiebich and Natasha Howard.
 :::
 
 :::
@@ -520,13 +527,13 @@ and what to expect when joining the group is discussed [here](../expectations/).
 :::: {.columns}
 
 ::: {.column width="25%"}
-![](../images/group/jl.jpg)
+![](../images/group/ew.jpg)
 ```{=html}
 <center>
-<a class="btn btn-outline-primary btn-sm", href="https://github.com/jleung40" target="_blank" rel="noopener noreferrer">
-    <i class="bi bi-github" role="img" aria-label="GitHub"></i>
+<a class="btn btn-outline-primary btn-sm", href="https://github.com/elainewixted" target="_blank" rel="noopener noreferrer">
+    <i class="bi bi-github" role="img" aria-label="LinkedIn"></i>
 </a>
-<a class="btn btn-outline-primary btn-sm", href="https://www.linkedin.com/in/jordan-leung-607084227/" target="_blank" rel="noopener noreferrer">
+<a class="btn btn-outline-primary btn-sm", href="https://www.linkedin.com/in/elaine-wixted-354127260/" target="_blank" rel="noopener noreferrer">
     <i class="bi bi-linkedin" role="img" aria-label="LinkedIn"></i>
 </a>
 </center>
@@ -538,24 +545,23 @@ and what to expect when joining the group is discussed [here](../expectations/).
 :::
 
 ::: {.column width="70%"}
-### Jordan Leung {.unnumbered .unlisted}
-{{< fa envelope >}} <b>leung.jor@NEU</b>
-<p class="text-primary">B.Sc. Student in Computer Science (Oakland campus) and Research Intern at D2R2 Group</p>
+###  Elaine Wixted {.unnumbered .unlisted}
+<p class="text-primary">B.Sc. Student in Materials Science and Engineering (University of Wisconsin-Madison)</p>
 
 ::: {.callout-note title="Bio" appearance="minimal" collapse=true}
-Growing up in the heart of New York City, I’ve had the privilege of connecting with people from all walks of life
-(not to mention keeping up with their lightning-fast pace!). My journey started as a curious “CS nerd,” but I found
-myself diving into mechanical engineering throughout high school. Later, I discovered a passion for this field
-through my work with SeaWipes—a Big Ideas Contest startup focused on materials science. I’m eager to further
-develop my AI skills while expanding my materials science knowledge through hands-on research.
+Hi, I’m Elaine Wixted, and I am from a small town south of Boston. I am currently an 
+undergraduate studying materials science and engineering at the University of 
+Wisconsin-Madison, and I am really interested in using materials science to 
+address environmental challenges.
+
 :::
 
 ::: {.callout-note title="Research Interests" appearance="minimal" collapse=true}
-Natural Language Processing, Data Science, Deep Learning, Machine Learning, Artificial Intelligence, Materials Science
+Renewable Energy Systems and Technologies, Sustainable Materials, and Computational Materials Science
 :::
 
 ::: {.callout-note title="Fun Facts" appearance="minimal" collapse=true}
-Despite being 5’6, I’ve joined the rowing club at Northeastern, and I’m working extra hard in the gym to keep up with the team!
+I love to sail and used to race a lot growing up!
 :::
 
 :::
@@ -563,9 +569,43 @@ Despite being 5’6, I’ve joined the rowing club at Northeastern, and I’m wo
 ::::
 
 
+
 ## Alumni
 
 ```{=html}
+<b>Karan Mudaliar</b> (Graduate Researcher, Fall 2023, Spring and Fall 2024, Spring 2025):
+<a href="https://karan-mudaliar.github.io/portfolio/" target="_blank" rel="noopener noreferrer", style="text-decoration:none">
+    <i class="fa fa-globe" role="img" aria-label="Website"></i>
+</a>
+<a href="https://github.com/karan-mudaliar" target="_blank" rel="noopener noreferrer", style="text-decoration:none">
+    <i class="bi bi-github" role="img" aria-label="GitHub"></i>
+</a>
+<a href="https://www.linkedin.com/in/karan-mudaliar1999" target="_blank" rel="noopener noreferrer", style="text-decoration:none">
+    <i class="bi bi-linkedin" role="img" aria-label="LinkedIn"></i>
+</a>
+<br>
+
+<b>Isaiah Simpson</b> (Graduate Researcher for M.Sc. project, Spring 2025):
+<a href="https://www.lostarmory.com" target="_blank" rel="noopener noreferrer", style="text-decoration:none">
+    <i class="fa fa-globe" role="img" aria-label="Website"></i>
+</a>
+<a href="https://www.instagram.com/son_of_simp/" target="_blank" rel="noopener noreferrer", style="text-decoration:none">
+    <i class="bi bi-instagram" role="img" aria-label="GitHub"></i>
+</a>
+<a href="https://www.linkedin.com/in/isaiah-simpson/" target="_blank" rel="noopener noreferrer", style="text-decoration:none">
+    <i class="bi bi-linkedin" role="img" aria-label="LinkedIn"></i>
+</a>
+<br>
+
+<b>Jordan Leung</b> (Undergraduate Researcher, Fall 2024 and Spring 2025):
+<a href="https://github.com/jleung40" target="_blank" rel="noopener noreferrer", style="text-decoration:none">
+    <i class="bi bi-github" role="img" aria-label="GitHub"></i>
+</a>
+<a href="https://www.linkedin.com/in/jordan-leung-607084227/" target="_blank" rel="noopener noreferrer", style="text-decoration:none">
+    <i class="bi bi-linkedin" role="img" aria-label="LinkedIn"></i>
+</a>
+<br>
+
 <b>Jawad Ahmed</b> (Graduate Researcher, Fall 2023, Spring and Fall 2024):
 <a href="https://orcid.org/0000-0002-2232-2970" target="_blank" rel="noopener noreferrer", style="text-decoration:none">
     <i class="ai ai-orcid" role="img" aria-label="ORCId"></i>

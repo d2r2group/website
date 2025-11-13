@@ -3,10 +3,11 @@ page-layout: full
 resources:
     - "images/banner.png"
     - "images/banner_dark.png"
-    - "images/group/group_photo_fall2024.jpg"
+    - "images/group/group_photo_spring2025.jpg"
 toc: false
 listing:
   date-format: short
+  page-size: 10
   # feed: true
   filter-ui: false
   type: table
@@ -28,10 +29,7 @@ The Data-Driven Renewables Research (D2R2 - Disney, please don't sue) Group led 
 discover novel materials for renewable energy applications using high-throughput quantum chemistry calculations
 and data-driven materials property predictions.
 
-> Currently, we have one opening for a **Postdoctoral Research Associate**.
-> Details can be found [here](join/).
-
-![](../images/group/group_photo_fall2024.jpg){width=80% fig-align="center"}
+![](../images/group/group_photo_spring2025.jpg){width=80% fig-align="center"}
 
 ```{=html}
 <center>
