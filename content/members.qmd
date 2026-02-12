@@ -462,6 +462,63 @@ I can juggle and I ran a marathon this past Spring!
 
 ::::
 
+
+:::: {.columns}
+
+::: {.column width="25%"}
+![](../images/group/sjm.jpg)
+```{=html}
+<center>
+<a class="btn btn-outline-primary btn-sm", href="https://github.com/SukjinMun" target="_blank" rel="noopener noreferrer">
+    <i class="bi bi-github" role="img" aria-label="GitHub"></i>
+</a>
+<a class="btn btn-outline-primary btn-sm", href="https://www.linkedin.com/in/suk-jin-mun-0ba0b4224/" target="_blank" rel="noopener noreferrer">
+    <i class="bi bi-linkedin" role="img" aria-label="LinkedIn"></i>
+</a>
+<a class="btn btn-outline-primary btn-sm", href="https://scholar.google.com/citations?user=4GZ-Vby3bxQC" target="_blank" rel="noopener noreferrer">
+    <i class="ai ai-google-scholar" role="img" aria-label="LinkedIn"></i>
+</a>
+<a class="btn btn-outline-primary btn-sm", href="https://orcid.org/0009-0008-6961-2861" target="_blank" rel="noopener noreferrer">
+    <i class="ai ai-orcid" role="img" aria-label="ORCId"></i>
+</a>
+</center>
+```
+:::
+
+::: {.column width="5%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="70%"}
+### Suk Jin Mun  {.unnumbered .unlisted}
+{{< fa envelope >}} <b>ortiz.em@NEU</b><br>
+<p class="text-primary">M.Sc. Student in Data Science</p>
+{{< fa graduation-cap >}}  B.Sc. in Physics, 2021 (The Hong Kong University of Science and Technology)
+
+::: {.callout-note title="Bio" appearance="minimal" collapse=true}
+During my undergraduate years, I initially pursued extragalactic astrophysics through internships studying active
+galactic nuclei with VLBI and neutral hydrogen gas in galaxies using KaVA data. I then had the opportunity to work at
+a thin film growth lab in Germany, where I learned synthesis of thin films via oxide molecular beam epitaxy (MBE).
+This experience sparked me a strong interest in condensed matter research. After completing my undergraduate degree,
+I spent about two to three years as a research assistant at the Center for Integrated Nanostructure Physics, Institute
+for Basic Science in Korea. There, I contributed to crystal structure determination and magnetic space group analysis
+of magnetoelectric materials using X-ray and neutron diffraction. During this time, I also developed a CNN model to
+automate structural analysis of powder X-ray diffraction data and Rietveld refinement, and this bridged my growing
+interest in data-driven methods with experimental characterization.
+:::
+
+::: {.callout-note title="Research Interests" appearance="minimal" collapse=true}
+Computational materials science, materials informatics, and condensed matter physics.
+:::
+
+::: {.callout-note title="Fun Facts" appearance="minimal" collapse=true}
+I have lived in four countries across three continents and can order coffee in all of them, but I still cannot agree on which one makes it best.
+:::
+
+:::
+
+::::
+
 ## Undergraduate Students
 
 Please, reach out to me to discuss opportunities to work together. Open positions are listed [here](../join/)
@@ -512,6 +569,50 @@ Materials informatics, machine learning, structure-property relationships in mat
 - Sarah has four dogs whom she loves dearly including two hound brothers named Smokey and Hippo and two pitbull mixes named Chaos and Mayhem.
 - In high school, Sarah was a massive band nerd, playing trumpet all four years in marching band, concert band, jazz band, and beyond. She even learned how to play the cymbals solely to participate in the Indoor Percussion group during the marching band off-season.
 - In recent years, Sarah has become an avid WNBA fan. Some of her favorite players are Leonie Fiebich and Natasha Howard.
+:::
+
+:::
+
+::::
+
+
+:::: {.columns}
+
+::: {.column width="25%"}
+![](../images/group/ig.jpg)
+```{=html}
+<center>
+<a class="btn btn-outline-primary btn-sm", href="https://github.com/IsiahGomez" target="_blank" rel="noopener noreferrer">
+    <i class="bi bi-github" role="img" aria-label="LinkedIn"></i>
+</a>
+<a class="btn btn-outline-primary btn-sm", href="https://www.linkedin.com/in/isiah-gomez" target="_blank" rel="noopener noreferrer">
+    <i class="bi bi-linkedin" role="img" aria-label="LinkedIn"></i>
+</a>
+</center>
+```
+:::
+
+::: {.column width="5%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="70%"}
+###  Isiah Gomez {.unnumbered .unlisted}
+<p class="text-primary">B.Sc. Student in Mechanical Engineering; UPLIFT Program</p>
+
+::: {.callout-note title="Bio" appearance="minimal" collapse=true}
+Hi, my name is Isiah Valentin Gomez. I am currently an undergraduate student at Northeastern University majoring in
+Mechanical Engineering and Design. I am on A-Board for Society of Hispanic Professional Engineers as Social Engagement
+Chair and involved in other clubs such as ALPFA (Association of Latino Professionals For America), PODER (Promoting
+Our Diaspora through Empowerment & Resources), NU Place Fellows, & LASO (Latin American Student Organization).
+:::
+
+::: {.callout-note title="Research Interests" appearance="minimal" collapse=true}
+My research interests include challenging myself to learn more than soft skills of different applications and working in a code heavy research position.
+:::
+
+::: {.callout-note title="Fun Facts" appearance="minimal" collapse=true}
+Fun facts about me include that I am a first-generation student from Houston and  I have a passion for cars and fishing.
 :::
 
 :::
