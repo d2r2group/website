@@ -108,6 +108,7 @@ He does however dance Bachata and Kizomba and knows how to play the drums. He is
 
 ::: {.column width="70%"}
 ### Dr. S. Emad Rezaei {.unnumbered .unlisted}
+{{< fa envelope >}} <b>s.rezaei@NEU</b><br>
 <p class="text-primary">Postdoctoral Research Associate at Northeastern University, MIE</p>
 {{< fa graduation-cap >}} Ph.D. in Electrical Engineering, 2022 (University of Virginia)<br>
 {{< fa graduation-cap >}} M.Sc. in Mechanical and Materials Engineering, 2018 (Wright State University)<br>
@@ -491,7 +492,7 @@ I can juggle and I ran a marathon this past Spring!
 
 ::: {.column width="70%"}
 ### Suk Jin Mun  {.unnumbered .unlisted}
-{{< fa envelope >}} <b>ortiz.em@NEU</b><br>
+{{< fa envelope >}} <b>mun.s@NEU</b><br>
 <p class="text-primary">M.Sc. Student in Data Science</p>
 {{< fa graduation-cap >}}  B.Sc. in Physics, 2021 (The Hong Kong University of Science and Technology)
 
@@ -546,6 +547,7 @@ and what to expect when joining the group is discussed [here](../expectations/).
 
 ::: {.column width="70%"}
 ###  Sarah LaCroix {.unnumbered .unlisted}
+{{< fa envelope >}} <b>lacroix.sa@NEU</b><br>
 <p class="text-primary">B.Sc. Student in Chemical Engineering and Computer Science; AJC Merit Scholar</p>
 
 ::: {.callout-note title="Bio" appearance="minimal" collapse=true}
@@ -598,6 +600,7 @@ Materials informatics, machine learning, structure-property relationships in mat
 
 ::: {.column width="70%"}
 ###  Isiah Gomez {.unnumbered .unlisted}
+{{< fa envelope >}} <b>gomez.is@NEU</b><br>
 <p class="text-primary">B.Sc. Student in Mechanical Engineering; UPLIFT Program</p>
 
 ::: {.callout-note title="Bio" appearance="minimal" collapse=true}
