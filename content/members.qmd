@@ -97,7 +97,6 @@ He does however dance Bachata and Kizomba and knows how to play the drums. He is
     <i class="bi bi-linkedin" role="img" aria-label="LinkedIn"></i>
 </a>
 <br>
-<b>s.rezaei@NEU</b>
 </center>
 ```
 :::
