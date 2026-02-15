@@ -263,6 +263,10 @@ dreams of racing through F1 tracks and composing scores for epic movies!
 ![](../images/group/pf.jpg)
 ```{=html}
 <center>
+<a class="btn btn-outline-primary btn-sm", href="https://github.com/Thranpp" target="_blank" rel="noopener noreferrer">
+    <i class="bi bi-github" role="img" aria-label="GitHub"></i>
+</a>
+<br>
 </center>
 ```
 :::
