@@ -42,14 +42,14 @@ aliases:
 <li value='24'>
 <i>FIRE-GNN: Force-Informed, Relaxed Equivariance Graph Neural Network for Rapid and Accurate Prediction of Surface Properties</i><br>
 <b>Adv. Intell. Discov.  (2025)</b> e202500162<br>
-<small>C. Hsu, C. Schlesinger, K. Mudaliar, J. Leung, R. Walters, and <em class="text-primary">P. Schindler</em></small><br>
+<small>C. Hsu, C. Schlesinger, K. Mudaliar, J. Leung, R. Walters, and <em class="text-primary">P. Schindler</em><sup><b>&#x25C7;</b></sup></small><br>
 <a class="btn btn-outline-primary btn-sm", href="https://doi.org/10.1002/aidi.202500162" target="_blank" rel="noopener noreferrer">
     <i class="ai ai-archive" role='img' aria-label='Published'></i> Published </a> <a class="btn btn-outline-primary btn-sm", href="https://arxiv.org/abs/2508.16012" target="_blank" rel="noopener noreferrer">
     <i class="bi bi-file-earmark-pdf" role='img' aria-label='Preprint'></i> Preprint </a> <a class="btn btn-outline-primary btn-sm", href="https://github.com/d2r2group/FIRE-GNN" target="_blank" rel="noopener noreferrer">
     <i class="bi bi-github" role='img' aria-label='GitHub'></i> GitHub </a></li><li value='23'>
 <i>Surface stability modeling with universal machine learning interatomic potentials: a comprehensive cleavage energy benchmarking study</i><br>
 <b>AI Sci. 1, 2 (2025)</b> 025002<br>
-<small>A. Mehdizadeh and <em class="text-primary">P. Schindler</em></small><br>
+<small>A. Mehdizadeh and <em class="text-primary">P. Schindler</em><sup><b>&#x25C7;</b></sup></small><br>
 <a class="btn btn-outline-primary btn-sm", href="https://doi.org/10.1088/3050-287X/ae1408" target="_blank" rel="noopener noreferrer">
     <i class="ai ai-archive" role='img' aria-label='Published'></i> Published </a> <a class="btn btn-outline-primary btn-sm", href="https://arxiv.org/abs/2508.21663" target="_blank" rel="noopener noreferrer">
     <i class="bi bi-file-earmark-pdf" role='img' aria-label='Preprint'></i> Preprint </a> <a class="btn btn-outline-primary btn-sm", href="https://github.com/d2r2group/mlip-cleavage-benchmark" target="_blank" rel="noopener noreferrer">

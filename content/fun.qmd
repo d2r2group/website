@@ -13,6 +13,10 @@ aliases:
 It's not all about research and science - we also like to have other types of fun and will keep a record here of the
 social events we did together:
 
+![Winter Holiday party at Prof. Peter's place (where we had dinner with Austrian and Indian dishes as well as Lady M tiramisu cake and brownies) on December 7th, 2025](../images/group/social/20251207_Winter_Holiday_Party.jpg){width=80% fig-align="center"}
+
+![Indoor mini-golf for the second time at Puttshack on November 17th, 2025](../images/group/social/20251117_Indoor_Golf.jpg){width=80% fig-align="center"}
+
 ![Board game evening (Emma and Isaiah were there too but left before the photo was taken) on April 22nd, 2025](../images/group/social/20250422_BoardGames.jpg){width=80% fig-align="center"}
 
 ![Third group lunch on February 5th, 2025](../images/group/social/20250205_Group_Lunch.jpg){width=80% fig-align="center"}
@@ -27,34 +31,52 @@ social events we did together:
 
 ![First group lunch on September 20th, 2023](../images/group/social/20230920_Group_Lunch.jpg){width=80% fig-align="center"}
 
-
-## Conference Attendances and Awards of our Group Members
-
-![Claire getting honored at the AS Academic Honors Convocation 2025 for her NSF GRFP](../images/group/social/2025_04_16_AS_Academic_Honors_Convocation.jpg){width=80% fig-align="center"}
-
-![Circe (left) and Claire (right) presenting a poster at RISE 2025 in Boston](../images/group/social/2025_04_11_RISE.jpg){width=80% fig-align="center"}
-
-![Prof. Peter gave a talk about MatFold at the MRS Fall Meeting 2024 in Boston](../images/group/social/20241212_MRS_Peter.jpg){width=80% fig-align="center"}
-
-![Ardavan presented his poster at the MRS Fall Meeting 2024 in Boston](../images/group/social/20241204_MRS_Ardavan.jpg){width=80% fig-align="center"}
-
-![Bharath received the *Student Employee Award* in the category *Technology and Innovation* on April 12th, 2024. Big congratulations!](../images/group/social/20240412_Bharath_Award.jpg){width=80% fig-align="center"}
-
-![Prof. Peter was invited to give a talk at the TMS 2024 in Orlando](../images/group/social/20240304_TMS_Peter.jpg){width=80% fig-align="center"}
-
-## Graduation
-
-Embbeded video of Isaiah's graduation speech.
-
-![Karan graduated with a Master of Science in Data Science, Summer 2025](../images/group/social/2025_Karan_Graduation.jpg){width=80% fig-align="center"}
-
-![Bharath graduated with a Master of Science in Data Analytics Engineering, Summer 2025](../images/group/social/2025_Bharath_Graduation.jpg){width=80% fig-align="center"}
-
-
 ## Previous Group Photos
 
 ![Second Group Photo, Fall 2024](../images/group/social/group_photo_fall2024.jpg){width=80% fig-align="center"}
 
 ![First Group Photo, Fall 2023](../images/group/social/group_photo_fall2023.jpg){width=80% fig-align="center"}
+
+## Graduation
+
+![Isaiah gave the graduation speech - watch the video [here](https://youtu.be/a_JJWT_e75k), Summer 2025](../images/group/social/2025_Isaiah_Graduate_Speech.jpg){width=80% fig-align="center"}
+
+![Karan graduated with a Master of Science in Data Science, Summer 2025](../images/group/social/2025_Karan_Graduation.jpg){width=80% fig-align="center"}
+
+![Bharath graduated with a Master of Science in Data Analytics Engineering, Summer 2025](../images/group/social/2025_Bharath_Graduation.jpg){width=80% fig-align="center"}
+
+## Awards and Other Recognitions of our Group Members
+
+![Emma's team won first place in the technical track of the U.S. Department of Energy (DOE)'s 2024 Geothermal Collegiate Competition!](../images/group/social/Emma_1st_Place_DOEs_Geothermal_Collegiate_Competition.jpg){width=80% fig-align="center"}
+
+![Claire getting honored at the AS Academic Honors Convocation 2025 for her NSF GRFP](../images/group/social/20250416_AS_Academic_Honors_Convocation.jpg){width=80% fig-align="center"}
+
+![Bharath received the *Student Employee Award* in the category *Technology and Innovation* on April 12th, 2024. Big congratulations!](../images/group/social/20240412_Bharath_Award.jpg){width=80% fig-align="center"}
+
+## Conference Attendances and Awards of our Group Members
+
+![Ardavan presented a lightning talk at the MIE Graduate Research Expo (Mahdi also presented a poster there, but I don't have a photo), 2025 in Boston](../images/group/social/20251204_MIE_Graduate_Research_Expo_Ardavan.jpg){width=80% fig-align="center"}
+
+![Mahdi presented his poster at the MRS Fall Meeting 2025 in Boston](../images/group/social/20251202_MRS_Mahdi.jpg){width=80% fig-align="center"}
+
+![Ardavan presented his poster at the MRS Fall Meeting 2025 in Boston](../images/group/social/20251202_MRS_Ardavan.jpg){width=80% fig-align="center"}
+
+![Circe (left) and Claire (right) presenting a poster at RISE 2025 in Boston](../images/group/social/20250411_RISE.jpg){width=80% fig-align="center"}
+
+![Ardavan presented his poster at the MRS Fall Meeting 2024 in Boston](../images/group/social/20241204_MRS_Ardavan.jpg){width=80% fig-align="center"}
+
+## Talks by Prof. Peter
+
+![Prof. Peter gave a talk at the ICACC26 in Daytona](../images/group/social/20260130_ICACC26_Peter.jpg){width=80% fig-align="center"}
+
+![Prof. Peter gave an invited talk at the MRS Fall Meeting 2025 in Boston](../images/group/social/20251201_MRS_Peter.jpg){width=80% fig-align="center"}
+
+![Prof. Peter was invited to give a talk at the University of Florida (MAE Department Seminar) in November 2025](../images/group/social/20251113_UF_MAE_Seminar.jpg){width=80% fig-align="center"}
+
+![Prof. Peter gave a talk about [MatFold](https://github.com/d2r2group/MatFold) at the MRS Fall Meeting 2024 in Boston](../images/group/social/20241212_MRS_Peter.jpg){width=80% fig-align="center"}
+
+![Prof. Peter was invited to give a talk at the TMS 2024 in Orlando](../images/group/social/20240304_TMS_Peter.jpg){width=80% fig-align="center"}
+
+
 
 

@@ -331,7 +331,7 @@ Peiyun has two ragdoll cats named Cinnamon and Azam!
 ::: {.column width="70%"}
 ### Claire Schlesinger {.unnumbered .unlisted}
 {{< fa envelope >}} <b>schlesinger.e@NEU</b><br>
-<p class="text-primary">Ph.D. Student in Computer Science (Khoury College); NSF GRFP Awardee</p>
+<p class="text-primary">Ph.D. Student in Computer Science<br>**NSF GRFP Awardee**</p>
 {{< fa graduation-cap >}} B.Sc. in Computer Science (Northeastern University)
 
 ::: {.callout-note title="Bio" appearance="minimal" collapse=true}
@@ -382,8 +382,8 @@ I have learned how to mountain bike and MIG weld but I am not good at either
 ::: {.column width="70%"}
 ###  Luca Reichert {.unnumbered .unlisted}
 <p class="text-primary">Ph.D. Student at Technical University of Munich (TUM)</p>
-{{< fa graduation-cap >}} M. Eng. in Material Science, 2021 (University of Koblenz, Germany)<br>
-{{< fa graduation-cap >}} B. Eng. in Material Science, 2021 (University of Applied Science, Koblenz, Germany)
+{{< fa graduation-cap >}} M. Eng. in Material Science, 2021 (University of Koblenz)<br>
+{{< fa graduation-cap >}} B. Eng. in Material Science, 2021 (University of Applied Science, Koblenz)
 
 
 ::: {.callout-note title="Bio" appearance="minimal" collapse=true}
@@ -441,7 +441,7 @@ I will let my hair grow over my PhD. Prior to the Defense, I will cut them off t
 ::: {.column width="70%"}
 ### Emma Ortiz  {.unnumbered .unlisted}
 {{< fa envelope >}} <b>ortiz.em@NEU</b><br>
-<p class="text-primary">M.Sc. Student in Mechanical Engineering</p>
+<p class="text-primary">M.Sc. Student in Mechanical Engineering<br>**DoD SMART Scholar**</p>
 {{< fa graduation-cap >}}  B.Sc. in Physics, 2024 (Gettysburg College)
 
 ::: {.callout-note title="Bio" appearance="minimal" collapse=true}
@@ -523,6 +523,59 @@ I have lived in four countries across three continents and can order coffee in a
 
 ::::
 
+
+:::: {.columns}
+
+::: {.column width="25%"}
+![](../images/group/ml.jpg)
+```{=html}
+<center>
+<a class="btn btn-outline-primary btn-sm", href="https://github.com/mitchellmlibby" target="_blank" rel="noopener noreferrer">
+    <i class="bi bi-github" role="img" aria-label="GitHub"></i>
+</a>
+<a class="btn btn-outline-primary btn-sm", href="https://www.linkedin.com/in/mitchell-libby-736663175/" target="_blank" rel="noopener noreferrer">
+    <i class="bi bi-linkedin" role="img" aria-label="LinkedIn"></i>
+</a>
+</center>
+```
+:::
+
+::: {.column width="5%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="70%"}
+### Mitchell Libby  {.unnumbered .unlisted}
+{{< fa envelope >}} <b>libby.mi@NEU</b><br>
+<p class="text-primary">M.Sc. Student in Mechanical Engineering</p>
+{{< fa graduation-cap >}}  B.Sc. in Chemistry, 2022 (Emmanuel College, Boston)
+
+::: {.callout-note title="Bio" appearance="minimal" collapse=true}
+My research focuses on catalytic and structural materials that govern propellant performance and reactive emissions in
+aerospace and automotive systems. I am particularly interested in how structural/property relationships,
+thermochemical cycling, and manufacturing processes influence performance at scale.<br>
+I am driven by the belief that deeper technical understanding of reactive material systems can enable both advanced
+propulsion technologies and more responsible stewardship of our planet.<br>
+I can be found working at engine test sites, in wet labs, or on manufacturing floors to bridge theory with hardware.
+:::
+
+::: {.callout-note title="Research Interests" appearance="minimal" collapse=true}
+- Multiscale Structural & Property Modeling of Functional Materials
+- Heterogeneous Catalysis: Experimentation, Modeling, and Manufacturing
+- Cyclic Thermochemical Processes and Irreversible Material Behavior
+:::
+
+::: {.callout-note title="Fun Facts" appearance="minimal" collapse=true}
+- I’ve managed coed soccer sessions for 60+ people
+- I’ve learned how to fly a glider aircraft and I’ve handled rocket propellants
+- I’m a proud Mainer
+- My favorite candy bar is Kit-Kats
+:::
+
+:::
+
+::::
+
 ## Undergraduate Students
 
 Please, reach out to me to discuss opportunities to work together. Open positions are listed [here](../join/)
@@ -551,7 +604,7 @@ and what to expect when joining the group is discussed [here](../expectations/).
 ::: {.column width="70%"}
 ###  Sarah LaCroix {.unnumbered .unlisted}
 {{< fa envelope >}} <b>lacroix.sa@NEU</b><br>
-<p class="text-primary">B.Sc. Student in Chemical Engineering and Computer Science; AJC Merit Scholar</p>
+<p class="text-primary">B.Sc. Student in Chemical Engineering and Computer Science<br>**AJC Merit Scholar**</p>
 
 ::: {.callout-note title="Bio" appearance="minimal" collapse=true}
 Sarah LaCroix is an undergraduate researcher with a growing focus on computational 
@@ -604,7 +657,7 @@ Materials informatics, machine learning, structure-property relationships in mat
 ::: {.column width="70%"}
 ###  Isiah Gomez {.unnumbered .unlisted}
 {{< fa envelope >}} <b>gomez.is@NEU</b><br>
-<p class="text-primary">B.Sc. Student in Mechanical Engineering; UPLIFT Program</p>
+<p class="text-primary">B.Sc. Student in Mechanical Engineering<br>**UPLIFT Program**</p>
 
 ::: {.callout-note title="Bio" appearance="minimal" collapse=true}
 Hi, my name is Isiah Valentin Gomez. I am currently an undergraduate student at Northeastern University majoring in
@@ -764,6 +817,7 @@ I love to sail and used to race a lot growing up!
 </a>
 <br>
 
+<!--
 <b>Dr. S. Emad Rezaei</b> (Postdoctoral Research Associate, through 2023):
 <a href="https://www.linkedin.com/in/emad-rezaei-4a9882273/" target="_blank" rel="noopener noreferrer" style="text-decoration:none">
     <i class="bi bi-linkedin" role="img" aria-label="LinkedIn"></i>
@@ -777,4 +831,5 @@ I love to sail and used to race a lot growing up!
 <a href="https://github.com/Emad-Rezaei" target="_blank" rel="noopener noreferrer" style="text-decoration:none">
     <i class="bi bi-github" role="img" aria-label="GitHub"></i>
 </a>
+-->
 ```
