@@ -52,11 +52,10 @@ aliases:
 ::: {.callout-note title="Bio" appearance="minimal" collapse=true}
 Dr. Peter Schindler is leading the Data-Driven Renewables Research (D2R2) group that seeks to discover novel materials
 for renewable energy applications using high-throughput, quantum chemistry calculations, and data-driven materials
-property predictions. He is a scientific advisory board member (and former senior scientist)
-at [Aionics Inc.](https://aionics.io/), a startup that has become a recognized leader in the field of battery informatics,
-by co-innovating with battery manufacturers through AI and high-performance computing. During his postdoctoral research
-at the University of Vienna and Stanford University, his research established renewable energy materials both
-computationally and experimentally, for which he was awarded the Erwin-Schrödinger fellowship by the
+property predictions. Before joining Northeastern, he was a senior scientist and scientific advisory board member at [Aionics Inc.](https://aionics.io/) 
+His work was featured in the *RSC Nanoscale 2024 Emerging Investigators* collection and on the covers of *Advanced Materials*, *ACS Energy Letters*, 
+and *Digital Discovery*. During his postdoctoral research at the University of Vienna and Stanford University, his research established 
+renewable energy materials both computationally and experimentally, for which he was awarded the *Erwin-Schrödinger fellowship* by the
 Austrian Science Fund (FWF). He received his Ph.D. in physics from the University of Vienna working on thin-film
 semiconductor synthesis and characterization. His expertise in both experimental synthesis and computational materials
 simulations enables him to carry out cutting-edge research at the intersection of the two fields.
