@@ -38,8 +38,13 @@ aliases:
 ::: {.cell-output .cell-output-display}
 
 ```{=html}
-<sup>&#10033;</sup> contributed equally, <sup><b>&#x25C7;</b></sup> corresponding author<br><br><ol class="rbracket" style="counter-reset: num 25;list-style-type: none;">
-<li value='24'>
+<sup>&#10033;</sup> contributed equally, <sup><b>&#x25C7;</b></sup> corresponding author<br><br><ol class="rbracket" style="counter-reset: num 26;list-style-type: none;">
+<li value='25'>
+<i>The 2025 thermionic converters roadmap</i><br>
+<b>J. Phys. D: Appl. Phys.  (2026)</b> <br>
+<small>A. Bellucci<sup><b>&#x25C7;</b></sup>, D. M. Trucchi, G. Segev, R. Jacobs, D. Morgan, J. Booske, M. Hasan, R. Zulkharnay, N. Fox, P. W. May, L. Ang, C. Franey, M. Ghashami, A. Mezzi, J. Schwede, N. A. Loubet, K. Bezdjian, E. Lopez, A. Datas, M. Jalili, A. Nojeh, E. Rahman, X. Zhang, <em class="text-primary">P. Schindler</em>, E. D. Juette, V. P. Carey, J. Fleurial, M. Mastellone, G. Zheng, L. Wang, X. Gang, and H. Qiu</small><br>
+<a class="btn btn-outline-primary btn-sm", href="https://doi.org/10.1088/1361-6463/ae611e" target="_blank" rel="noopener noreferrer">
+    <i class="ai ai-archive" role='img' aria-label='Published'></i> Published </a></li><li value='24'>
 <i>FIRE-GNN: Force-Informed, Relaxed Equivariance Graph Neural Network for Rapid and Accurate Prediction of Surface Properties</i><br>
 <b>Adv. Intell. Discov.  (2025)</b> e202500162<br>
 <small>C. Hsu, C. Schlesinger, K. Mudaliar, J. Leung, R. Walters, and <em class="text-primary">P. Schindler</em><sup><b>&#x25C7;</b></sup></small><br>
