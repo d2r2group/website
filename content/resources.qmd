@@ -16,7 +16,7 @@ Prof. Peter gave a seminar at the Experiential AI (EAI) Institute at Northeaster
 as abstract, slides, and the recording is available [here](https://ai.northeastern.edu/ai-events/how-ai-is-revolutionizing-the-discovery-of-materials/).
 Also, the recording is embedded below:
 
-{{< video https://www.youtube.com/embed/CFXp-rUTGAs?si=EErTTo8O7p1rcwrm >}}
+{{< video https://www.youtube.com/embed/CFXp-rUTGAs >}}
 
 ## Software, Databases, and Models from our Group
 

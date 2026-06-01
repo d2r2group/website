@@ -1,3 +1,4 @@
+.DS_Store
 .idea
 /.quarto/
 *.RData
@@ -5,3 +6,4 @@
 *.rdx
 /_site/
 /site_libs/
+**/*.quarto_ipynb

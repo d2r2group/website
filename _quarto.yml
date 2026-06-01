@@ -1,6 +1,10 @@
 project:
   type: website
   output-dir: _site
+  render:
+    - "**/*.qmd"
+    - "!content/papers.md"
+    - "!content/papers.html.md"
 
 date: last-modified
 
@@ -14,7 +18,7 @@ website:
   favicon: favicon.ico
   page-footer:
     # right: "This page is built with [Quarto](https://quarto.org/)."
-    left: 2023–2025 &copy; Peter Schindler
+    left: 2023–2026 &copy; Peter Schindler
     #center:
       #- icon: linkedin
       #  href: https://www.linkedin.com/in/schindlerp/

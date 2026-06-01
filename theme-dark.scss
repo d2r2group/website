@@ -75,3 +75,17 @@ li {
 div.callout-note.callout {
   border-left-color: #751ED7 !important;
 }
+
+.nav-footer .nav-footer-right p {
+  text-align: right;
+}
+
+#quarto-document-content .img-toggle + section > h2:first-child {
+  margin-top: 2rem;
+}
+
+.pagination .page-item.disabled .page-link {
+  color: #751ED7;
+  background-color: #242424;
+  border-color: #dee2e6;
+}

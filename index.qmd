@@ -1,4 +1,6 @@
 ---
+template-partials:
+  - content/partials/title_only/title-block.html
 page-layout: full
 resources:
     - "images/banner.png"
