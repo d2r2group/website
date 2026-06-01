@@ -47,8 +47,8 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-4bd490e9cd57f2396cbd188312c0541c.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-6a721268c11ab7a9f33c8fb5febbff19.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark-71709df19a75cd65ead7903f6fd6a509.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-f1644760e06bb3e73f304b8a24860afc.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark-41e641eec9ecad199d820875e537f475.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -89,7 +89,7 @@ ul.task-list li input[type="checkbox"] {
       valueNames: ['listing-Date','listing-News',{ data: ['index'] },{ data: ['categories'] }],
       page: 10,
     pagination: { item: "<li class='page-item'><a class='page page-link' href='#'></a></li>" },
-      searchColumns: ["listing-News","listing-Date"],
+      searchColumns: ["listing-News","listing-Date","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -405,9 +405,10 @@ window.Quarto = {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(47)</span></div><div class="category" data-category="QWNoaWV2ZW1lbnRz">Achievements <span class="quarto-category-count">(14)</span></div><div class="category" data-category="UHJlc2VudGF0aW9ucw==">Presentations <span class="quarto-category-count">(12)</span></div><div class="category" data-category="VGVhbQ==">Team <span class="quarto-category-count">(21)</span></div></div></div>
 <!-- main -->
-<main class="content column-page" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
+<main class="content column-page-left" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
 
 
 <header id="title-block-header">
@@ -434,6 +435,51 @@ window.Quarto = {
 </section>
 <section id="recent-news-and-events" class="level2">
 <h2 class="anchored" data-anchor-id="recent-news-and-events">Recent News and Events</h2>
+<style>
+#quarto-margin-sidebar {
+  display: none !important;
+}
+.quarto-listing-category.category-default {
+  display: flex !important;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin-bottom: 0.75rem;
+  padding: 0;
+  background: none;
+  border: none;
+}
+.quarto-listing-category .category {
+  cursor: pointer;
+  padding: 0.375rem 0.75rem;
+  border: 1px solid #751ED7;
+  border-radius: 0;
+  font-size: 0.875rem;
+  white-space: nowrap;
+  color: #751ED7;
+  background-color: transparent;
+  font-weight: normal;
+  transition: background-color 0.15s, color 0.15s, border-color 0.15s;
+}
+.quarto-listing-category .category:hover,
+.quarto-listing-category .category.active {
+  background-color: #751ED7;
+  color: #fff !important;
+  border-color: #751ED7;
+  font-weight: normal !important;
+}
+</style>
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  var categoryDiv = document.querySelector('#quarto-margin-sidebar .quarto-listing-category');
+  var listingEl = document.getElementById('listing-news-list');
+  if (categoryDiv && listingEl) {
+    listingEl.parentNode.insertBefore(categoryDiv, listingEl);
+  }
+  var allBtn = document.querySelector('.quarto-listing-category .category[data-category=""]');
+  if (allBtn) allBtn.classList.add('active');
+});
+</script>
 <div id="listing-news-list" class="quarto-listing quarto-listing-container-table">
 <table class="quarto-listing-table table">
 <thead>
@@ -451,7 +497,7 @@ News
 </thead>
 <tbody class="list">
 
-<tr data-index="0">
+<tr data-index="0" data-categories="UHJlc2VudGF0aW9ucw==">
 <td>
 <span class="listing-Date">2026-02-12</span>
 </td>
@@ -461,7 +507,7 @@ News
 
 </tr>
 
-<tr data-index="1">
+<tr data-index="1" data-categories="UHJlc2VudGF0aW9ucw==">
 <td>
 <span class="listing-Date">2026-01-30</span>
 </td>
@@ -471,7 +517,7 @@ News
 
 </tr>
 
-<tr data-index="2">
+<tr data-index="2" data-categories="VGVhbQ==">
 <td>
 <span class="listing-Date">2026-01-27</span>
 </td>
@@ -481,7 +527,7 @@ News
 
 </tr>
 
-<tr data-index="3">
+<tr data-index="3" data-categories="VGVhbQ==">
 <td>
 <span class="listing-Date">2026-01-21</span>
 </td>
@@ -491,7 +537,7 @@ News
 
 </tr>
 
-<tr data-index="4">
+<tr data-index="4" data-categories="VGVhbQ==">
 <td>
 <span class="listing-Date">2026-01-12</span>
 </td>
@@ -501,7 +547,7 @@ News
 
 </tr>
 
-<tr data-index="5">
+<tr data-index="5" data-categories="UHJlc2VudGF0aW9ucw==">
 <td>
 <span class="listing-Date">2025-12-04</span>
 </td>
@@ -511,7 +557,7 @@ News
 
 </tr>
 
-<tr data-index="6">
+<tr data-index="6" data-categories="UHJlc2VudGF0aW9ucw==">
 <td>
 <span class="listing-Date">2025-12-01</span>
 </td>
@@ -521,7 +567,7 @@ News
 
 </tr>
 
-<tr data-index="7">
+<tr data-index="7" data-categories="UHJlc2VudGF0aW9ucw==">
 <td>
 <span class="listing-Date">2025-11-13</span>
 </td>
@@ -531,7 +577,7 @@ News
 
 </tr>
 
-<tr data-index="8">
+<tr data-index="8" data-categories="QWNoaWV2ZW1lbnRz">
 <td>
 <span class="listing-Date">2025-11-10</span>
 </td>
@@ -541,7 +587,7 @@ News
 
 </tr>
 
-<tr data-index="9">
+<tr data-index="9" data-categories="QWNoaWV2ZW1lbnRz">
 <td>
 <span class="listing-Date">2025-11-01</span>
 </td>
@@ -551,7 +597,7 @@ News
 
 </tr>
 
-<tr data-index="10">
+<tr data-index="10" data-categories="QWNoaWV2ZW1lbnRz">
 <td>
 <span class="listing-Date">2025-09-01</span>
 </td>
@@ -561,7 +607,7 @@ News
 
 </tr>
 
-<tr data-index="11">
+<tr data-index="11" data-categories="VGVhbQ==">
 <td>
 <span class="listing-Date">2025-09-01</span>
 </td>
@@ -571,7 +617,7 @@ News
 
 </tr>
 
-<tr data-index="12">
+<tr data-index="12" data-categories="VGVhbQ==">
 <td>
 <span class="listing-Date">2025-09-01</span>
 </td>
@@ -581,7 +627,7 @@ News
 
 </tr>
 
-<tr data-index="13">
+<tr data-index="13" data-categories="UHJlc2VudGF0aW9ucw==">
 <td>
 <span class="listing-Date">2025-09-12</span>
 </td>
@@ -591,7 +637,7 @@ News
 
 </tr>
 
-<tr data-index="14">
+<tr data-index="14" data-categories="QWNoaWV2ZW1lbnRz">
 <td>
 <span class="listing-Date">2025-05-01</span>
 </td>
@@ -601,7 +647,7 @@ News
 
 </tr>
 
-<tr data-index="15">
+<tr data-index="15" data-categories="QWNoaWV2ZW1lbnRz">
 <td>
 <span class="listing-Date">2025-05-01</span>
 </td>
@@ -611,7 +657,7 @@ News
 
 </tr>
 
-<tr data-index="16">
+<tr data-index="16" data-categories="VGVhbQ==">
 <td>
 <span class="listing-Date">2025-01-13</span>
 </td>
@@ -621,7 +667,7 @@ News
 
 </tr>
 
-<tr data-index="17">
+<tr data-index="17" data-categories="VGVhbQ==">
 <td>
 <span class="listing-Date">2025-01-06</span>
 </td>
@@ -631,7 +677,7 @@ News
 
 </tr>
 
-<tr data-index="18">
+<tr data-index="18" data-categories="QWNoaWV2ZW1lbnRz">
 <td>
 <span class="listing-Date">2025-01-01</span>
 </td>
@@ -641,7 +687,7 @@ News
 
 </tr>
 
-<tr data-index="19">
+<tr data-index="19" data-categories="UHJlc2VudGF0aW9ucw==">
 <td>
 <span class="listing-Date">2024-12-01</span>
 </td>
@@ -651,7 +697,7 @@ News
 
 </tr>
 
-<tr data-index="20">
+<tr data-index="20" data-categories="QWNoaWV2ZW1lbnRz">
 <td>
 <span class="listing-Date">2024-10-30</span>
 </td>
@@ -661,7 +707,7 @@ News
 
 </tr>
 
-<tr data-index="21">
+<tr data-index="21" data-categories="VGVhbQ==">
 <td>
 <span class="listing-Date">2024-10-07</span>
 </td>
@@ -671,7 +717,7 @@ News
 
 </tr>
 
-<tr data-index="22">
+<tr data-index="22" data-categories="VGVhbQ==">
 <td>
 <span class="listing-Date">2024-09-16</span>
 </td>
@@ -681,7 +727,7 @@ News
 
 </tr>
 
-<tr data-index="23">
+<tr data-index="23" data-categories="VGVhbQ==">
 <td>
 <span class="listing-Date">2024-09-02</span>
 </td>
@@ -691,7 +737,7 @@ News
 
 </tr>
 
-<tr data-index="24">
+<tr data-index="24" data-categories="QWNoaWV2ZW1lbnRz">
 <td>
 <span class="listing-Date">2024-08-01</span>
 </td>
@@ -701,7 +747,7 @@ News
 
 </tr>
 
-<tr data-index="25">
+<tr data-index="25" data-categories="QWNoaWV2ZW1lbnRz">
 <td>
 <span class="listing-Date">2024-07-01</span>
 </td>
@@ -711,7 +757,7 @@ News
 
 </tr>
 
-<tr data-index="26">
+<tr data-index="26" data-categories="QWNoaWV2ZW1lbnRz">
 <td>
 <span class="listing-Date">2024-06-01</span>
 </td>
@@ -721,7 +767,7 @@ News
 
 </tr>
 
-<tr data-index="27">
+<tr data-index="27" data-categories="VGVhbQ==">
 <td>
 <span class="listing-Date">2024-05-06</span>
 </td>
@@ -731,7 +777,7 @@ News
 
 </tr>
 
-<tr data-index="28">
+<tr data-index="28" data-categories="QWNoaWV2ZW1lbnRz">
 <td>
 <span class="listing-Date">2024-05-01</span>
 </td>
@@ -741,7 +787,7 @@ News
 
 </tr>
 
-<tr data-index="29">
+<tr data-index="29" data-categories="QWNoaWV2ZW1lbnRz">
 <td>
 <span class="listing-Date">2024-04-12</span>
 </td>
@@ -751,7 +797,7 @@ News
 
 </tr>
 
-<tr data-index="30">
+<tr data-index="30" data-categories="UHJlc2VudGF0aW9ucw==">
 <td>
 <span class="listing-Date">2024-03-05</span>
 </td>
@@ -761,7 +807,7 @@ News
 
 </tr>
 
-<tr data-index="31">
+<tr data-index="31" data-categories="VGVhbQ==">
 <td>
 <span class="listing-Date">2024-02-28</span>
 </td>
@@ -771,7 +817,7 @@ News
 
 </tr>
 
-<tr data-index="32">
+<tr data-index="32" data-categories="VGVhbQ==">
 <td>
 <span class="listing-Date">2023-12-11</span>
 </td>
@@ -781,7 +827,7 @@ News
 
 </tr>
 
-<tr data-index="33">
+<tr data-index="33" data-categories="QWNoaWV2ZW1lbnRz">
 <td>
 <span class="listing-Date">2023-12-01</span>
 </td>
@@ -791,7 +837,7 @@ News
 
 </tr>
 
-<tr data-index="34">
+<tr data-index="34" data-categories="VGVhbQ==">
 <td>
 <span class="listing-Date">2023-12-01</span>
 </td>
@@ -801,7 +847,7 @@ News
 
 </tr>
 
-<tr data-index="35">
+<tr data-index="35" data-categories="QWNoaWV2ZW1lbnRz">
 <td>
 <span class="listing-Date">2023-11-30</span>
 </td>
@@ -811,7 +857,7 @@ News
 
 </tr>
 
-<tr data-index="36">
+<tr data-index="36" data-categories="UHJlc2VudGF0aW9ucw==">
 <td>
 <span class="listing-Date">2023-11-27</span>
 </td>
@@ -821,7 +867,7 @@ News
 
 </tr>
 
-<tr data-index="37">
+<tr data-index="37" data-categories="VGVhbQ==">
 <td>
 <span class="listing-Date">2023-11-01</span>
 </td>
@@ -831,7 +877,7 @@ News
 
 </tr>
 
-<tr data-index="38">
+<tr data-index="38" data-categories="VGVhbQ==">
 <td>
 <span class="listing-Date">2023-11-01</span>
 </td>
@@ -841,7 +887,7 @@ News
 
 </tr>
 
-<tr data-index="39">
+<tr data-index="39" data-categories="UHJlc2VudGF0aW9ucw==">
 <td>
 <span class="listing-Date">2023-09-13</span>
 </td>
@@ -851,7 +897,7 @@ News
 
 </tr>
 
-<tr data-index="40">
+<tr data-index="40" data-categories="VGVhbQ==">
 <td>
 <span class="listing-Date">2023-09-01</span>
 </td>
@@ -861,7 +907,7 @@ News
 
 </tr>
 
-<tr data-index="41">
+<tr data-index="41" data-categories="VGVhbQ==">
 <td>
 <span class="listing-Date">2023-09-01</span>
 </td>
@@ -871,7 +917,7 @@ News
 
 </tr>
 
-<tr data-index="42">
+<tr data-index="42" data-categories="VGVhbQ==">
 <td>
 <span class="listing-Date">2023-09-01</span>
 </td>
@@ -881,7 +927,7 @@ News
 
 </tr>
 
-<tr data-index="43">
+<tr data-index="43" data-categories="VGVhbQ==">
 <td>
 <span class="listing-Date">2023-02-17</span>
 </td>
@@ -891,7 +937,7 @@ News
 
 </tr>
 
-<tr data-index="44">
+<tr data-index="44" data-categories="UHJlc2VudGF0aW9ucw==">
 <td>
 <span class="listing-Date">2023-01-09</span>
 </td>
@@ -901,7 +947,7 @@ News
 
 </tr>
 
-<tr data-index="45">
+<tr data-index="45" data-categories="UHJlc2VudGF0aW9ucw==">
 <td>
 <span class="listing-Date">2022-11-30</span>
 </td>
@@ -911,7 +957,7 @@ News
 
 </tr>
 
-<tr data-index="46">
+<tr data-index="46" data-categories="VGVhbQ==">
 <td>
 <span class="listing-Date">2022-08-22</span>
 </td>
