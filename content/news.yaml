@@ -1,94 +1,141 @@
 - News: "Prof. Peter presented an invited talk at NC State University, Department of Chemistry Seminar on *Data-Driven Discovery of Materials with Tailored Surface Properties*."
   Date: 2026-02-12
+  categories: [Presentations]
 - News: "Prof. Peter gave a presentation at the ICACC26 in Daytona, Florida."
   Date: 2026-01-30
+  categories: [Presentations]
 - News: "Suk Jin Mun joined the group as a M.Sc. student to work on GNN-based property predictions of 2D materials. Welcome!"
   Date: 2026-01-27
+  categories: [Team]
 - News: "Mitchell Libby will be doing a Master's thesis on utilizing universal machine learning interatomic potentials to study catalytically driven nitrous oxide decomposition. Welcome to the team!"
   Date: 2026-01-21
+  categories: [Team]
 - News: "Isiah Gomez joined the team as an undergraduate researcher through the [UPLIFT Program](https://stem.northeastern.edu/uplift/) and will be working with materials science data and predict properties. Looking forward to having you in the group!"
   Date: 2026-01-12
+  categories: [Team]
 - News: "Ardavan gave a lightning talk and Mahdi presented a poster at the MIE Graduate Research Expo. Great job sharing your work!"
   Date: 2025-12-04
+  categories: [Presentations]
 - News: "Prof. Peter presented an invited talk at the MRS Fall Meeting 2025 in Boston (session MT04.02: Machine Learning Potentials II). Ardavan and Mahdi successfully presented posters there."
   Date: 2025-12-01
+  categories: [Presentations]
 - News: "Prof. Peter gave an invited talk at the University of Florida, MAE Department Seminar on *Data-driven Discovery of Stable Surfaces with Tailored Properties via E(3)-GNNs and MLIPs*."
   Date: 2025-11-13
+  categories: [Presentations]
 - News: "Our recent work led by Ardavan was highlighted on the news: [EurekAlert News](https://www.eurekalert.org/news-releases/1105029)."
   Date: 2025-11-10
+  categories: [Achievements]
 - News: "Emma's team won first place in the technical track of the U.S. Department of Energy (DOE)'s 2024 Geothermal Collegiate Competition! Great achievement! This was highighted on [Northeastern Global News](https://news.northeastern.edu/2025/12/19/northeastern-husky-heat-harvesters/)!"
   Date: 2025-11-01
+  categories: [Achievements]
 - News: "Claire received the prestigious NSF GFRP and is joining Khoury College as a PhD student advised by [Prof. Robin Walters](https://www.robinwalters.com/) and coadvised by Prof. Peter."
   Date: 2025-09-01
+  categories: [Achievements]
 - News: "Sarah LaCroix joined the group as an AJC Merit Scholar to conduct research on phase diagram predictions using machine learning interatomic potentials. Welcome!"
   Date: 2025-09-01
+  categories: [Team]
 - News: "Elaine Wixted joined to group as an external undergraduate research intern. Looking forward to working with you!"
   Date: 2025-09-01
+  categories: [Team]
 - News: "Prof. Peter presented virtually at the Sandia National Lab Annual ML/DL Workshop about *Physics-based and Graph-based Machine Learning Models for Surface Property Predictions*."
   Date: 2025-09-12
+  categories: [Presentations]
 - News: "Claire graduated with a Bachelor of Science in Computer Science. Congratulations!"
   Date: 2025-05-01
+  categories: [Achievements]
 - News: "Bharath, Karan, Jawad, and Isaiah graduated their respective Master of Science degrees. Big congratulations!"
   Date: 2025-05-01
+  categories: [Achievements]
 - News: "Isaiah Simpsons has joined the D2R2 group working on a Master's project focused on high-temperature materials selection and modeling. Welcome!"
   Date: 2025-01-13
+  categories: [Team]
 - News: "Mahdi Rafiee has joined the D2R2 group as a Ph.D. student. Excited to work on materials informatics research together! Welcome to the group!"
   Date: 2025-01-06
+  categories: [Team]
 - News: "Noah has started his Co-Op at Specter Aerospace as a Propulsion Engineer. Big congratulations!"
   Date: 2025-01-01
+  categories: [Achievements]
 - News: "Ardavan and Prof. Peter presented their work at the MRS Fall Meeting in Boston."
   Date: 2024-12-01
+  categories: [Presentations]
 - News: "Jawad was part of a team that won the Longevity, AI, & Cognitive Research Hackathon held at the MIT Media Lab. Congratulations!"
   Date: 2024-10-30
+  categories: [Achievements]
 - News: "Jordan Leung from the Oakland Campus has joined remotely as an undergraduate research intern and is co-supervised by [Prof. Robin Walters](https://www.robinwalters.com/). A warm virtual welcome!"
   Date: 2024-10-07
+  categories: [Team]
 - News: "Emma Ortiz has joined the D2R2 group as a M.Sc. student to work on tranfser learning for eletronic materials property predictions. Welcome to the group!"
   Date: 2024-09-16
+  categories: [Team]
 - News: "Claire Schlesinger has joined the D2R2 group as an undergraduate research assistant. She is working on equivariant graph neural networks for surface property prediction and is co-supervised by [Prof. Robin Walters](https://www.robinwalters.com/). Welcome, Claire!"
   Date: 2024-09-02
+  categories: [Team]
 - News: "Thanks to [EAI Institute](https://ai.northeastern.edu/) for Seed funding with [Prof. Robin Walters](https://www.robinwalters.com/) to develop generative models for novel catalysts. "
   Date: 2024-08-01
+  categories: [Achievements]
 - News: "Thanks to [Northeastern Research Development](https://resdev.northeastern.edu/) for *Interdisciplinary TIER 1 Seed funding*."
   Date: 2024-07-01
+  categories: [Achievements]
 - News: "Jawad secured an internship for Summer 2024 at *Apex Clean Energy*! Big congratulations!"
   Date: 2024-06-01
+  categories: [Achievements]
 - News: "Noah Crane has joined the D2R2 group as an undergraduate research student and will be working on using ML interatomic potentials to predict materials thermodynamic stability. Welcome!"
   Date: 2024-05-06
+  categories: [Team]
 - News: "Karan secured Co-Ops for the Summer and Fall 2024 at *CVS Health* and *Liberty Mutual*! Big congratulations!"
   Date: 2024-05-01
+  categories: [Achievements]
 - News: "Bharath received the *Student Employee Award* in the category *Technology and Innovation*. Big congratulations! You have been a great addition to the D2R2 team!"
   Date: 2024-04-12
+  categories: [Achievements]
 - News: "Prof. Peter gave an invited talk at TMS 2024 titled *Discovery of Surfaces with Extreme Work Functions and High Stability by Machine Learning* and he chaired session III of the *Computational Discovery and Design of Materials* symposium."
   Date: 2024-03-05
+  categories: [Presentations]
 - News: "Roye Wu has joined the group as a visiting research intern. Looking forward to working with you!"
   Date: 2024-02-28
+  categories: [Team]
 - News: "Peiyun Feng has joined the group as a co-advised Ph.D. student. Her primary advisor is Prof. Jung. Excited to work on the intersection of experiment and modeling with you!"
   Date: 2023-12-11
+  categories: [Team]
 - News: "Nita graduated with a Master of Science in Data Analytics Engineering. Big congratulations!"
   Date: 2023-12-01
+  categories: [Achievements]
 - News: "Luca Reichert has joined as a co-advised Ph.D. student - he is a Ph.D. student at Technical University of Munich working on ORR and PEM fuel-cells under Prof. Jan Torgersen."
   Date: 2023-12-01
+  categories: [Team]
 - News: "Postdoc Dr. S. Emad Rezaei has successfully obtained a position as a research scientist at the semiconductor company *Onsemi*. Congratulations and all the best for your future career!!"
   Date: 2023-11-30
+  categories: [Achievements]
 - News: "Prof. Peter is chairing the Monday afternoon session DS03.02: *Machine Learning and Simulation II* at MRS Fall 2023. Come join the talks and say hi!"
   Date: 2023-11-27
+  categories: [Presentations]
 - News: "Jawad Ahmed has joined the D2R2 group. He is a M.Sc. student in Energy Systems and a Fulbright Scholar and is going to work on graph-neural networks for materials proprety prediction. Excited to have you in the group!"
   Date: 2023-11-01
+  categories: [Team]
 - News: "Karan Mudaliar has joined the team as a M.Sc. student in Data Science. He is going to work on deep learning of surface property predictions. Welcome!"
   Date: 2023-11-01
+  categories: [Team]
 - News: "Prof. Peter is giving a seminar presentation *How AI is Revolutionizing the Discovery of Materials* hosted by the Experiential AI Institute at Northeastern University. Watch the recording [here](https://ai.northeastern.edu/ai-events/how-ai-is-revolutionizing-the-discovery-of-materials/)."
   Date: 2023-09-13
+  categories: [Presentations]
 - News: "Bharath Raj Pragada has joined the D2R2 group as a M.Sc. student to work on materials database management and API development. Welcome to the group - looking forward to working with you!"
   Date: 2023-09-01
+  categories: [Team]
 - News: "Nita Chaudhari has joined the D2R2 group as a M.Sc. student to work on deep learning research together. Very exciting - welcome to the group!"
   Date: 2023-09-01
+  categories: [Team]
 - News: "Ardavan Mehdizadeh has joined the D2R2 group as the first Ph.D. student. Thrilled about working on exciting computational research together! Welcome to the group!"
   Date: 2023-09-01
+  categories: [Team]
 - News: "Dr. Emad Rezaei joined the D2R2 Group as a postdoctoral researcher. He is a expert in first principles calculations for thermoelectric and thermomagnetic materials. Welcome, Dr. Emad - looking forward to working on exciting research together!"
   Date: 2023-02-17
+  categories: [Team]
 - News: "Prof. Peter is giving an invited talk at IIT Mumbai titled *Data-driven Discovery of Materials for Energy Conversion*"
   Date: 2023-01-09
+  categories: [Presentations]
 - News: "Come catch Prof. Peter's presentation at MRS Fall in Boston in session DS03.11: AI for Discovery. His talk is titled *Data-Driven Discovery of Materials with Tuned Surface Properties for Thermionic Energy Conversion*."
   Date: 2022-11-30
+  categories: [Presentations]
 - News: "Dr. Peter Schindler joined Northeastern University (Department of Mechanical and Industrial Engineering) as an Assistant Professor."
   Date: 2022-08-22
+  categories: [Team]

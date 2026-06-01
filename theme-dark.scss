@@ -87,5 +87,15 @@ div.callout-note.callout {
 .pagination .page-item.disabled .page-link {
   color: #751ED7;
   background-color: #242424;
-  border-color: #dee2e6;
+  border-color: #751ED7;
+}
+
+.pagination .page-item:not(.active):not(.disabled) .page-link {
+  border-color: #751ED7;
+}
+
+.pagination .page-item:not(.active):not(.disabled) .page-link:hover {
+  background-color: #751ED7;
+  border-color: #751ED7;
+  color: #fff;
 }

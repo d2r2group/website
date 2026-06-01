@@ -15,7 +15,7 @@ listing:
   type: table
   sort-ui: false
   sort: "date desc"
-  categories: false
+  categories: true
   fields: [Date, News]
   id: news-list
   contents: content/news.yaml
@@ -42,6 +42,54 @@ and data-driven materials property predictions.
 ```
 
 ## Recent News and Events
+
+```{=html}
+<style>
+#quarto-margin-sidebar {
+  display: none !important;
+}
+.quarto-listing-category.category-default {
+  display: flex !important;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin-bottom: 0.75rem;
+  padding: 0;
+  background: none;
+  border: none;
+}
+.quarto-listing-category .category {
+  cursor: pointer;
+  padding: 0.375rem 0.75rem;
+  border: 1px solid #751ED7;
+  border-radius: 0;
+  font-size: 0.875rem;
+  white-space: nowrap;
+  color: #751ED7;
+  background-color: transparent;
+  font-weight: normal;
+  transition: background-color 0.15s, color 0.15s, border-color 0.15s;
+}
+.quarto-listing-category .category:hover,
+.quarto-listing-category .category.active {
+  background-color: #751ED7;
+  color: #fff !important;
+  border-color: #751ED7;
+  font-weight: normal !important;
+}
+</style>
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  var categoryDiv = document.querySelector('#quarto-margin-sidebar .quarto-listing-category');
+  var listingEl = document.getElementById('listing-news-list');
+  if (categoryDiv && listingEl) {
+    listingEl.parentNode.insertBefore(categoryDiv, listingEl);
+  }
+  var allBtn = document.querySelector('.quarto-listing-category .category[data-category=""]');
+  if (allBtn) allBtn.classList.add('active');
+});
+</script>
+```
 
 ::: {#news-list}
 :::
