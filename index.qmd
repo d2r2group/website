@@ -48,6 +48,9 @@ and data-driven materials property predictions.
 #quarto-margin-sidebar {
   display: none !important;
 }
+main#quarto-document-content {
+  grid-column: page-start / page-end !important;
+}
 .quarto-listing-category.category-default {
   display: flex !important;
   flex-direction: row;
