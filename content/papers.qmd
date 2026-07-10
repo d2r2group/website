@@ -33,7 +33,9 @@ aliases:
 ![Illustration of passivation-gas-incorporated ALD at the atomic scale. Nature Catalysis, 2018, issue 1](../images/naturecat.png)
 :::
 
-## Publications
+> <sup>&#10033;</sup> contributed equally, <sup><b>&#x25C7;</b></sup> corresponding author
+
+## Preprints
 
 ```{python}
 from pybtex.database.input import bibtex
@@ -55,74 +57,103 @@ def button(url, label, icon):
     <i class="{icon_base} {icon}" role='img' aria-label='{label}'></i> {label} </a>"""
 
 
-parser = bibtex.Parser()
-bib_data = parser.parse_file('biblio.bib')
-
-html_string = f'<sup>&#10033;</sup> contributed equally, <sup><b>&#x25C7;</b></sup> corresponding author<br><br>' + \
-              f'<ol class="rbracket" style="counter-reset: num {len(bib_data.entries)+1};list-style-type: none;">\n'
-
-n = len(bib_data.entries)
-
-for ind, e in enumerate(bib_data.entries):
+def format_entry(fields, persons):
     # Names
     names = [' '.join([b[0] + '.' for b in a.first_names]) + ' ' + ' '.join([c[0] + '.' for c in a.middle_names]) +
-             ' ' + ' '.join(a.last_names) for a in bib_data.entries[e].persons['author']]
+             ' ' + ' '.join(a.last_names) for a in persons['author']]
     name_string = readable_list([n.replace('  ', ' ').replace('Â', '') for n in names]) \
                    .replace('P. Schindler', '<em class="text-primary">P. Schindler</em>').replace("+", "<sup><b>&#x25C7;</b></sup>").replace("*", "<sup>&#10033;</sup>")
 
     # Title
-    title = bib_data.entries[e].fields['title'].replace('{', '').replace('}', '').replace('O2', 'O<sub>2</sub>').replace('O3', 'O<sub>3</sub>')
+    title = fields['title'].replace('{', '').replace('}', '').replace('O2', 'O<sub>2</sub>').replace('O3', 'O<sub>3</sub>')
 
     # Year
-    year = bib_data.entries[e].fields['year']
+    year = fields['year']
 
     # Volume and Issue
     vi = ' '
-    if 'volume' in bib_data.entries[e].fields:
-        vi += bib_data.entries[e].fields['volume']
-    if 'number' in bib_data.entries[e].fields:
-        vi += ', ' + bib_data.entries[e].fields['number']
+    if 'volume' in fields:
+        vi += fields['volume']
+    if 'number' in fields:
+        vi += ', ' + fields['number']
 
     # Pages
-    page = bib_data.entries[e].fields['pages'].replace('--', '–') if 'pages' in bib_data.entries[e].fields else ''
+    page = fields['pages'].replace('--', '–') if 'pages' in fields else ''
 
     # Journal
-    if 'journal' in bib_data.entries[e].fields:
-        journal = bib_data.entries[e].fields['journal'].replace('\\', '')
-    elif 'publisher' in bib_data.entries[e].fields:
-        journal = bib_data.entries[e].fields['publisher']
-        if 'note' in bib_data.entries[e].fields:
-            vi = ' ' + bib_data.entries[e].fields['note']
+    if 'journal' in fields:
+        journal = fields['journal'].replace('\\', '')
+    elif 'publisher' in fields:
+        journal = fields['publisher']
+        if 'note' in fields:
+            vi = ' ' + fields['note']
     else:
         raise ValueError('Error. No journal or publisher specified.')
 
-    # print(bib_data.entries[e].fields.values())
-
     # DOI
     try:
-        doi = bib_data.entries[e].fields['doi']
+        doi = fields['doi']
     except KeyError:
         doi = None
 
-    button_label = 'Published'
-    button_style = 'ai-archive'
+    return {
+        'name_string': name_string,
+        'title': title,
+        'year': year,
+        'vi': vi,
+        'page': page,
+        'journal': journal,
+        'doi': doi,
+        'comment': fields.get('comment'),
+    }
 
-    html_string += f"<li value='{n-ind}'>\n"
-    html_string += f"<i>{title}</i><br>\n"
-    html_string += f"<b>{journal}{vi} ({year})</b> {page}<br>\n"
-    html_string += f"<small>{name_string}</small><br>\n"
-    if doi is not None:
-        html_string += button('https://doi.org/' + doi, button_label, button_style)
-    # Github Button
-    if 'comment' in bib_data.entries[e].fields:
-        for link in str(bib_data.entries[e].fields['comment']).split(";"):
+
+def render_entry(entry, value):
+    html = f"<li value='{value}'>\n"
+    html += f"<i>{entry['title']}</i><br>\n"
+    html += f"<b>{entry['journal']}{entry['vi']} ({entry['year']})</b> {entry['page']}<br>\n"
+    html += f"<small>{entry['name_string']}</small><br>\n"
+    if entry['doi'] is not None:
+        html += button('https://doi.org/' + entry['doi'], 'Published', 'ai-archive')
+    if entry['comment']:
+        for link in str(entry['comment']).split(';'):
             if 'arxiv.org' in link or "chemrxiv" in link:
-                html_string += ' ' + button(link, 'Preprint', 'bi-file-earmark-pdf')
+                html += ' ' + button(link, 'Preprint', 'bi-file-earmark-pdf')
             if 'github.com' in link:
-                html_string += ' ' + button(link, 'GitHub', 'bi-github')
-    html_string += "</li>"
+                html += ' ' + button(link, 'GitHub', 'bi-github')
+    html += "</li>"
+    return html
 
-html_string += "</ol>\n"
 
-display(HTML(html_string))
+parser = bibtex.Parser()
+bib_data = parser.parse_file('biblio.bib')
+
+all_entries = [format_entry(bib_data.entries[e].fields, bib_data.entries[e].persons) for e in bib_data.entries]
+
+# Entries that only have a preprint (arXiv/chemRxiv) and no DOI yet are not peer-reviewed.
+preprint_entries = [entry for entry in all_entries if entry['doi'] is None]
+paper_entries = [entry for entry in all_entries if entry['doi'] is not None]
+
+n_papers = len(paper_entries)
+n_total = len(all_entries)
+
+if preprint_entries:
+    preprint_html = f'<ol class="rbracket" style="counter-reset: num {n_total+1};list-style-type: none;">\n'
+    for ind, entry in enumerate(preprint_entries):
+        preprint_html += render_entry(entry, n_total - ind)
+    preprint_html += "</ol>\n"
+    display(HTML(preprint_html))
+else:
+    display(Markdown('Currently no preprints that have not been peer-reviewed.'))
+```
+
+## Publications
+
+```{python}
+paper_html = f'<ol class="rbracket" style="counter-reset: num {n_papers+1};list-style-type: none;">\n'
+for ind, entry in enumerate(paper_entries):
+    paper_html += render_entry(entry, n_papers - ind)
+paper_html += "</ol>\n"
+
+display(HTML(paper_html))
 ```

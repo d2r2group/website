@@ -29,7 +29,7 @@ pages = []
 dois = []
 urls = []
 
-display(HTML("<ol>\n"))
+entries = []
 
 for e in bib_data.entries:
     # Names
@@ -71,22 +71,75 @@ for e in bib_data.entries:
     # print(bib_data.entries[e].fields.values())
 
     # DOI
-    doi = bib_data.entries[e].fields['doi']
+    try:
+        doi = bib_data.entries[e].fields['doi']
+    except KeyError:
+        doi = None
     dois.append(doi)
 
     # URLs
-    url = bib_data.entries[e].fields['url']
+    url = bib_data.entries[e].fields['url'] if 'url' in bib_data.entries[e].fields else None
     urls.append(url)
 
     # Comment
-    if 'comment' in bib_data.entries[e].fields:
-        if 'github.com' in bib_data.entries[e].fields['comment']:
-            # add button
-            pass
+    comment = bib_data.entries[e].fields['comment'] if 'comment' in bib_data.entries[e].fields else None
 
-    display(HTML("<li>" + '\n' + name_string + "</li>"))
+    entries.append({
+        'name_string': name_string,
+        'title': title,
+        'year': year,
+        'vi': vi,
+        'page': page,
+        'journal': journal,
+        'doi': doi,
+        'comment': comment,
+    })
 
-display(HTML('<ol>\n'))
+# Entries that only have a preprint (arXiv/chemRxiv) and no DOI yet are not peer-reviewed.
+preprint_entries = [entry for entry in entries if entry['doi'] is None]
+paper_entries = [entry for entry in entries if entry['doi'] is not None]
+
+n_papers = len(paper_entries)
+n_total = len(entries)
+
+
+def render_entry(entry, value):
+    html = f"<li value='{value}'>\n"
+    html += f"<i>{entry['title']}</i><br>\n"
+    html += f"<b>{entry['journal']} {entry['vi']} ({entry['year']})</b> {entry['page']}<br>\n"
+    html += f"<small>{entry['name_string']}</small><br>\n"
+    if entry['doi'] is not None:
+        html += button('https://doi.org/' + entry['doi'], 'Published', 'ai-archive')
+    if entry['comment']:
+        for link in str(entry['comment']).split(';'):
+            if 'arxiv.org' in link or 'chemrxiv' in link:
+                html += ' ' + button(link, 'Preprint', 'bi-file-earmark-pdf')
+            if 'github.com' in link:
+                html += ' ' + button(link, 'GitHub', 'bi-github')
+    html += "</li>"
+    return html
+
+
+display(Markdown('## Preprints'))
+
+if preprint_entries:
+    preprint_html = f'<ol style="counter-reset: num {n_total+1};list-style-type: none;">\n'
+    for ind, entry in enumerate(preprint_entries):
+        preprint_html += render_entry(entry, n_total - ind)
+    preprint_html += "</ol>\n"
+    display(HTML(preprint_html))
+else:
+    display(Markdown('Currently no preprints that have not been peer-reviewed.'))
+
+display(Markdown('## Publications'))
+
+paper_html = f'<ol style="counter-reset: num {n_papers+1};list-style-type: none;">\n'
+for ind, entry in enumerate(paper_entries):
+    paper_html += render_entry(entry, n_papers - ind)
+paper_html += "</ol>\n"
+
+display(HTML(paper_html))
+
 # print(names_strings)
 # print(years)
 # print(journals)

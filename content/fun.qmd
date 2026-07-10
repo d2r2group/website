@@ -13,6 +13,10 @@ aliases:
 It's not all about research and science - we also like to have other types of fun and will keep a record here of the
 social events we did together:
 
+![Poker evening at Mitchell's place on May 13th, 2026](../images/group/social/20260513_Poker_Evening.jpg){width=80% fig-align="center"}
+
+![Pottery painting on March 13th, 2026](../images/group/social/20260313_Pottery_Painting.jpg){width=80% fig-align="center"}
+
 ![Winter Holiday party at Prof. Peter's place (where we had dinner with Austrian and Indian dishes as well as Lady M tiramisu cake and brownies) on December 7th, 2025](../images/group/social/20251207_Winter_Holiday_Party.jpg){width=80% fig-align="center"}
 
 ![Indoor mini-golf for the second time at Puttshack on November 17th, 2025](../images/group/social/20251117_Indoor_Golf.jpg){width=80% fig-align="center"}
@@ -39,6 +43,8 @@ social events we did together:
 
 ## Graduation
 
+![Emma graduated with a Master of Science in Mechanical Engineering on April 28th, 2026](../images/group/social/20260428_Emma_Graduation.jpg){width=80% fig-align="center"}
+
 ![Isaiah gave the graduation speech - watch the video [here](https://youtu.be/a_JJWT_e75k), Summer 2025](../images/group/social/2025_Isaiah_Graduate_Speech.jpg){width=80% fig-align="center"}
 
 ![Karan graduated with a Master of Science in Data Science, Summer 2025](../images/group/social/2025_Karan_Graduation.jpg){width=80% fig-align="center"}
@@ -55,6 +61,10 @@ social events we did together:
 
 ## Conference Attendances and Awards of our Group Members
 
+![Mahdi presented a poster at the CoE PhD Research Expo on June 4th, 2026](../images/group/social/20260604_CoE_PhD_Research_Expo_Mahdi.jpg){width=80% fig-align="center"}
+
+![Claire and Circe presented a poster at the PAIR launch event on May 21st, 2026](../images/group/social/20260521_PAIR_Launch_Claire_Circe.jpg){width=80% fig-align="center"}
+
 ![Ardavan presented a lightning talk at the MIE Graduate Research Expo (Mahdi also presented a poster there, but I don't have a photo), 2025 in Boston](../images/group/social/20251204_MIE_Graduate_Research_Expo_Ardavan.jpg){width=80% fig-align="center"}
 
 ![Mahdi presented his poster at the MRS Fall Meeting 2025 in Boston](../images/group/social/20251202_MRS_Mahdi.jpg){width=80% fig-align="center"}
@@ -66,6 +76,12 @@ social events we did together:
 ![Ardavan presented his poster at the MRS Fall Meeting 2024 in Boston](../images/group/social/20241204_MRS_Ardavan.jpg){width=80% fig-align="center"}
 
 ## Talks by Prof. Peter
+
+![Prof. Peter gave an invited talk at the MSE Department Seminar at Boston University on April 10th, 2026](../images/group/social/20260410_MSE_BU_Seminar_Peter.jpg){width=80% fig-align="center"}
+
+![Prof. Peter gave an invited talk at the ENERGIZE NRT Annual Symposium at Boston University on April 9th, 2026](../images/group/social/20260409_ENERGIZE_NRT_Symposium_Peter.jpg){width=80% fig-align="center"}
+
+![Prof. Peter gave a talk at TMS 2026 in San Diego on March 16th, 2026](../images/group/social/20260316_TMS2026_Peter.jpg){width=80% fig-align="center"}
 
 ![Prof. Peter gave a talk at the ICACC26 in Daytona](../images/group/social/20260130_ICACC26_Peter.jpg){width=80% fig-align="center"}
 
