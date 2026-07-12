@@ -147,7 +147,7 @@ else:
     display(Markdown('Currently no preprints that have not been peer-reviewed.'))
 ```
 
-## Publications
+## Peer-reviewed Publications
 
 ```{python}
 paper_html = f'<ol class="rbracket" style="counter-reset: num {n_papers+1};list-style-type: none;">\n'

@@ -37,7 +37,7 @@ aliases:
 
 ## Preprints
 
-::: {#f611236f .cell execution_count=1}
+::: {#e1c55e15 .cell execution_count=1}
 
 ::: {.cell-output .cell-output-display}
 ```{=html}
@@ -53,9 +53,9 @@ aliases:
 :::
 
 
-## Publications
+## Peer-reviewed Publications
 
-::: {#b30852c6 .cell execution_count=2}
+::: {#c5e2c9db .cell execution_count=2}
 
 ::: {.cell-output .cell-output-display}
 ```{=html}

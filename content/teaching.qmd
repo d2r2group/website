@@ -20,12 +20,12 @@ fulfilling opportunity that enables me to give back to the academic community. M
 the very passionate teachers I was fortunate to have had during my undergraduate years at the University of Vienna,
 during which I absorbed the fundamentals of Physics and Mathematics.
 
-## Courses at Northeastern University
+## Graduate Courses at Northeastern University
 
 :::: {.columns}
 
 ::: {.column width="49%" align="center"}
-![](../images/matl7355.png){fig-align="center"}
+![](../images/MATL7355_Logo.svg){width="80%" fig-align="center"}
 
 **MATL 7355 -- Thermodynamics of Materials**<br>
 Taught in Fall semesters<br>
@@ -42,7 +42,27 @@ Further information: <a class="btn btn-outline-primary btn-sm", href="https://ma
 :::
 
 ::: {.column width="49%" align="center"}
-![](../images/ME2340.png){fig-align="center"}
+![](../images/ML4MSD_Logo.svg){width="80%" fig-align="center"}
+
+**ML4MSD -- ML for Materials Science and Discovery**<br>
+Taught in Fall 2025 (currently no future plans)<br>
+4 semester-hours
+```{=html}
+Further information: <a class="btn btn-outline-primary btn-sm", href="https://ml4msd.d2r2group.com" target="_blank" rel="noopener noreferrer">
+<i class="bi bi-globe" role='img' aria-label='Course Website'></i> Course Website
+</a>
+```
+:::
+
+::::
+
+
+## Undergraduate Courses at Northeastern University
+
+:::: {.columns}
+
+::: {.column width="49%" align="center"}
+![](../images/ME2340_Logo.svg){width="80%" fig-align="center"}
 
 **ME 2340 -- Introduction to Materials Science**<br>
 Taught in Fall and Spring semesters<br>
@@ -50,6 +70,23 @@ Taught in Fall and Spring semesters<br>
 ```{=html}
 Student Feedback: <a class="btn btn-outline-primary btn-sm", href="https://www.ratemyprofessors.com/professor/2998086" target="_blank" rel="noopener noreferrer">
 <i class="bi bi-globe" role='img' aria-label='RateMyProfessors'></i> RateMyProfessors
+</a>
+```
+
+:::
+
+::: {.column width="2%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="49%" align="center"}
+![](../images/CrystallographyApp_Logo.svg){width="80%" fig-align="center"}
+
+**Crystallography Teaching App**<br>
+This app helps students visualize common crystal structures (ideal for introductory materials science).
+```{=html}
+Link to Web App: <a class="btn btn-outline-primary btn-sm", href="https://crystallography.app" target="_blank" rel="noopener noreferrer">
+<i class="bi bi-globe" role='img' aria-label='Crystallography App'></i> Crystallography App
 </a>
 ```
 
