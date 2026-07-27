@@ -112,6 +112,20 @@
     "text": "Talks by Prof. Peter\n\n\n\nProf. Peter gave an invited talk at the MSE Department Seminar at Boston University on April 10th, 2026\n\n\n\n\n\nProf. Peter gave an invited talk at the ENERGIZE NRT Annual Symposium at Boston University on April 9th, 2026\n\n\n\n\n\nProf. Peter gave a talk at TMS 2026 in San Diego on March 16th, 2026\n\n\n\n\n\nProf. Peter gave a talk at the ICACC26 in Daytona\n\n\n\n\n\nProf. Peter gave an invited talk at the MRS Fall Meeting 2025 in Boston\n\n\n\n\n\nProf. Peter was invited to give a talk at the University of Florida (MAE Department Seminar) in November 2025\n\n\n\n\n\nProf. Peter gave a talk about MatFold at the MRS Fall Meeting 2024 in Boston\n\n\n\n\n\nProf. Peter was invited to give a talk at the TMS 2024 in Orlando"
   },
   {
+    "objectID": "content/ai4mat.html#part-1-dft-demo",
+    "href": "content/ai4mat.html#part-1-dft-demo",
+    "title": "AI for Materials",
+    "section": "Part 1: DFT Demo",
+    "text": "Part 1: DFT Demo\nBoth ASE and GPAW operate through Python. We will be using Google’s Colab service to make it easy to follow along. No need to install Python locally - you only need a browser. Our code will be running in a Jupyter notebook using Google’s resources.\nTo access the first Python notebook just follow this link and then click on ‘File’ &gt; ‘Save a copy in Drive…’.\n\n\n\n\n\nOnce you have copied the notebook to your Google Drive you can edit, execute and work on it."
+  },
+  {
+    "objectID": "content/ai4mat.html#part-2-materials-informatics-pipeline-demo",
+    "href": "content/ai4mat.html#part-2-materials-informatics-pipeline-demo",
+    "title": "AI for Materials",
+    "section": "Part 2: Materials Informatics Pipeline Demo",
+    "text": "Part 2: Materials Informatics Pipeline Demo\nWe will use Matminer, DScribe, pandas, and Scikit-Learn to demonstrate a full ML pipeline applied to a materials science dataset.\nTo access the second Python notebook just follow this link and then click on ‘File’ &gt; ‘Save a copy in Drive…’."
+  },
+  {
     "objectID": "content/expectations.html",
     "href": "content/expectations.html",
     "title": "Group Philosophy, Expectations and Code of Conduct",
